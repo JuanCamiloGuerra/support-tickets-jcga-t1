@@ -2,7 +2,8 @@ param(
     [string]$ProjectRoot = "C:\Users\juanc\Documents\GitHub\proyecto-de-ventas-dyunic",
     [string]$PythonPath = "C:\Users\juanc\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe",
     [ValidateSet("auto", "onedrive", "desktop")]
-    [string]$Source = "auto"
+    [string]$Source = "auto",
+    [switch]$SkipGitSync
 )
 
 $ErrorActionPreference = "Stop"
@@ -19,6 +20,59 @@ function Write-Log {
     param([string]$Message)
     $Timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
     Add-Content -LiteralPath $LogPath -Value "[$Timestamp] $Message" -Encoding UTF8
+}
+
+function Invoke-GitSync {
+    Push-Location -LiteralPath $ProjectRoot
+    $PreviousErrorActionPreference = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
+    try {
+        $GitStatus = @(git status --porcelain 2>&1)
+        $GitStatusExitCode = $LASTEXITCODE
+        if ($GitStatusExitCode -ne 0) {
+            throw "No se pudo revisar el estado de Git: $($GitStatus -join ' ')"
+        }
+
+        if ($GitStatus.Count -eq 0) {
+            Write-Log "Git: no hay cambios para guardar."
+            return
+        }
+
+        Write-Log "Git: cambios detectados. Preparando commit automatico."
+        $GitAddOutput = @(git add -A 2>&1)
+        $GitAddExitCode = $LASTEXITCODE
+        foreach ($Line in $GitAddOutput) {
+            Write-Log "Git add: $Line"
+        }
+        if ($GitAddExitCode -ne 0) {
+            throw "git add fallo."
+        }
+
+        $CommitMessage = "Actualiza tablas desde OneDrive $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+        $GitCommitOutput = @(git commit -m $CommitMessage 2>&1)
+        $GitCommitExitCode = $LASTEXITCODE
+        foreach ($Line in $GitCommitOutput) {
+            Write-Log "Git commit: $Line"
+        }
+        if ($GitCommitExitCode -ne 0) {
+            throw "git commit fallo."
+        }
+
+        $GitPushOutput = @(git push origin main 2>&1)
+        $GitPushExitCode = $LASTEXITCODE
+        foreach ($Line in $GitPushOutput) {
+            Write-Log "Git push: $Line"
+        }
+        if ($GitPushExitCode -ne 0) {
+            throw "git push fallo."
+        }
+
+        Write-Log "Git: cambios subidos correctamente a origin/main."
+    }
+    finally {
+        $ErrorActionPreference = $PreviousErrorActionPreference
+        Pop-Location
+    }
 }
 
 try {
@@ -66,6 +120,13 @@ try {
     }
 
     Write-Log "Sincronizacion completada correctamente"
+
+    if ($SkipGitSync) {
+        Write-Log "Git: sincronizacion omitida por parametro SkipGitSync."
+    }
+    else {
+        Invoke-GitSync
+    }
 }
 catch {
     Write-Log "ERROR: $($_.Exception.Message)"
