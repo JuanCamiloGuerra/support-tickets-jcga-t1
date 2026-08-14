@@ -74,7 +74,6 @@ def limpiar_numero(valor):
         partes = texto.split(".")
         if (
             len(partes) == 2
-            and len(partes[-1]) in [1, 2]
             and partes[-1].isdigit()
             and len(partes[0]) > 3
         ):

@@ -1,4 +1,4 @@
-﻿colegio;PRODUCTO;TALLA;VALOR AÑO PRESENTE;ID_BUSQUEDA;2022;2023;2024;2025;2026;2027;2028;2029
+colegio;PRODUCTO;TALLA;VALOR AÑO PRESENTE;ID_BUSQUEDA;2022;2023;2024;2025;2026;2027;2028;2029
 liceo pupo jimenez;blusa;2;37000;liceo pupo jimenez_blusa_2;27000;30000;33000;33000;37000;41000;46000;51000
 liceo pupo jimenez;blusa;4;37000;liceo pupo jimenez_blusa_4;27000;30000;33000;33000;37000;41000;46000;51000
 liceo pupo jimenez;blusa;6;37000;liceo pupo jimenez_blusa_6;27000;30000;33000;33000;37000;41000;46000;51000
@@ -66,7 +66,7 @@ liceo pupo jimenez;Medias;8;16000;liceo pupo jimenez_Medias_8;12000;12000;10000;
 liceo pupo jimenez;Medias;10;16000;liceo pupo jimenez_Medias_10;12000;12000;13000;14000;16000;18000;20000;22000
 liceo universitario;blusa;2;41000;liceo universitario_blusa_2;;;;36000;41000;46000;51000;57000
 liceo universitario;blusa;4;41000;liceo universitario_blusa_4;;33000;;36000;41000;46000;51000;57000
-liceo universitario;blusa;6;41000;liceo universitario_blusa_6;   ;33000;36000;36000;41000;46000;51000;57000
+liceo universitario;blusa;6;41000;liceo universitario_blusa_6;;33000;36000;36000;41000;46000;51000;57000
 liceo universitario;blusa;8;41000;liceo universitario_blusa_8;29000;33000;36000;36000;41000;46000;51000;57000
 liceo universitario;blusa;10;44000;liceo universitario_blusa_10;31000;35000;39000;39000;44000;49000;54000;60000
 liceo universitario;blusa;12;44000;liceo universitario_blusa_12;31000;35000;35000;39000;44000;49000;54000;60000
@@ -340,10 +340,10 @@ gimnasio vallegrande;bombacho dama;10;53000;gimnasio vallegrande_bombacho dama_1
 gimnasio vallegrande;bombacho dama;12;53000;gimnasio vallegrande_bombacho dama_12;35000;42000;47000;47000;53000;59000;65000;72000
 gimnasio vallegrande;bombacho dama;14;56000;gimnasio vallegrande_bombacho dama_14;37000;45000;50000;50000;56000;62000;69000;76000
 gimnasio vallegrande;bombacho dama;16;56000;gimnasio vallegrande_bombacho dama_16;37000;45000;50000;50000;56000;62000;69000;76000
-gimnasio vallegrande;bombacho dama;S;63000;gimnasio vallegrande_bombacho dama_S;39000;50000;56000;56000;63000;70000;77000;85000
-gimnasio vallegrande;bombacho dama;M;63000;gimnasio vallegrande_bombacho dama_M;39000;50000;50000;56000;63000;70000;77000;85000
-gimnasio vallegrande;bombacho dama;L;69000;gimnasio vallegrande_bombacho dama_L;44000;55000;55000;61000;69000;76000;84000;93000
-gimnasio vallegrande;bombacho dama;XL;69000;gimnasio vallegrande_bombacho dama_XL;;55000;;61000;69000;76000;84000;93000
+gimnasio vallegrande;bombacho dama;S;59000;gimnasio vallegrande_bombacho dama_S;39000;50000;56000;56000;63000;70000;77000;85000
+gimnasio vallegrande;bombacho dama;M;59000;gimnasio vallegrande_bombacho dama_M;39000;50000;50000;56000;63000;70000;77000;85000
+gimnasio vallegrande;bombacho dama;L;59000;gimnasio vallegrande_bombacho dama_L;44000;55000;55000;61000;69000;76000;84000;93000
+gimnasio vallegrande;bombacho dama;XL;62000;gimnasio vallegrande_bombacho dama_XL;;55000;;61000;69000;76000;84000;93000
 gimnasio vallegrande;bombacho hombre;2;50000;gimnasio vallegrande_bombacho hombre_2;;;44000;44000;50000;55000;61000;68000
 gimnasio vallegrande;bombacho hombre;4;50000;gimnasio vallegrande_bombacho hombre_4;32000;40000;44000;44000;50000;55000;61000;68000
 gimnasio vallegrande;bombacho hombre;6;50000;gimnasio vallegrande_bombacho hombre_6;32000;;44000;44000;50000;55000;61000;68000
@@ -352,10 +352,10 @@ gimnasio vallegrande;bombacho hombre;10;53000;gimnasio vallegrande_bombacho homb
 gimnasio vallegrande;bombacho hombre;12;53000;gimnasio vallegrande_bombacho hombre_12;34000;42000;47000;47000;53000;59000;65000;72000
 gimnasio vallegrande;bombacho hombre;14;56000;gimnasio vallegrande_bombacho hombre_14;37000;45000;50000;50000;56000;62000;69000;76000
 gimnasio vallegrande;bombacho hombre;16;56000;gimnasio vallegrande_bombacho hombre_16;37000;45000;45000;50000;56000;62000;69000;76000
-gimnasio vallegrande;bombacho hombre;S;63000;gimnasio vallegrande_bombacho hombre_S;39000;50000;50000;56000;63000;70000;77000;85000
-gimnasio vallegrande;bombacho hombre;M;63000;gimnasio vallegrande_bombacho hombre_M;39000;50000;56000;56000;63000;70000;77000;85000
-gimnasio vallegrande;bombacho hombre;L;69000;gimnasio vallegrande_bombacho hombre_L;42000;55000;61000;61000;69000;76000;84000;93000
-gimnasio vallegrande;bombacho hombre;XL;69000;gimnasio vallegrande_bombacho hombre_XL;42000;55000;61000;61000;69000;76000;84000;93000
+gimnasio vallegrande;bombacho hombre;S;59000;gimnasio vallegrande_bombacho hombre_S;39000;50000;50000;56000;63000;70000;77000;85000
+gimnasio vallegrande;bombacho hombre;M;59000;gimnasio vallegrande_bombacho hombre_M;39000;50000;56000;56000;63000;70000;77000;85000
+gimnasio vallegrande;bombacho hombre;L;59000;gimnasio vallegrande_bombacho hombre_L;42000;55000;61000;61000;69000;76000;84000;93000
+gimnasio vallegrande;bombacho hombre;XL;62000;gimnasio vallegrande_bombacho hombre_XL;42000;55000;61000;61000;69000;76000;84000;93000
 gimnasio vallegrande;camiseta dama externa;2;41000;gimnasio vallegrande_camiseta dama externa_2;;;;36000;41000;46000;51000;57000
 gimnasio vallegrande;camiseta dama externa;4;41000;gimnasio vallegrande_camiseta dama externa_4;;33000;36000;36000;41000;46000;51000;57000
 gimnasio vallegrande;camiseta dama externa;6;45000;gimnasio vallegrande_camiseta dama externa_6;31000;36000;40000;40000;45000;50000;55000;61000
@@ -592,6 +592,12 @@ la inmaculada;bombacho;S;60000;la inmaculada_bombacho_S;35000;38000;43000;50000;
 la inmaculada;bombacho;M;60000;la inmaculada_bombacho_M;35000;42000;39000;50000;60000;66000;73000;81000
 la inmaculada;bombacho;L;60000;la inmaculada_bombacho_L;37000;45000;40000;50000;60000;66000;73000;81000
 la inmaculada;bombacho;XL;65000;la inmaculada_bombacho_XL;37000;45000;50000;50000;65000;72000;80000;88000
+la inmaculada;medias;2;12000;la inmaculada_medias_2;;;;;10000;11000;13000;15000
+la inmaculada;medias;4;12000;la inmaculada_medias_4;;;;;10000;11000;13000;15000
+la inmaculada;medias;6;12000;la inmaculada_medias_6;;;;;10000;11000;13000;15000
+la inmaculada;medias;8;12000;la inmaculada_medias_8;;;;;10000;11000;13000;15000
+la inmaculada;medias;10;12000;la inmaculada_medias_10;;;;;10000;11000;13000;15000
+la inmaculada;medias;12;12000;la inmaculada_medias_12;;;;;10000;11000;13000;15000
 hogar;camiseta fisica;2;41000;hogar_camiseta fisica_2;23000;30000;38000;36000;41000;46000;51000;57000
 hogar;camiseta fisica;4;41000;hogar_camiseta fisica_4;23000;30000;32000;36000;41000;46000;51000;57000
 hogar;camiseta fisica;6;41000;hogar_camiseta fisica_6;23000;30000;38000;36000;41000;46000;51000;57000
@@ -739,14 +745,14 @@ Policia;bombacho;2;50000;Policia_bombacho_2;;;;;50000;55000;61000;68000
 Policia;bombacho;4;50000;Policia_bombacho_4;;;;;50000;55000;61000;68000
 Policia;bombacho;6;50000;Policia_bombacho_6;;;;;50000;55000;61000;68000
 Policia;bombacho;8;50000;Policia_bombacho_8;;;;;50000;55000;61000;68000
-Policia;bombacho;10;55000;Policia_bombacho_10;;;;;55000;61000;68000;75000
-Policia;bombacho;12;55000;Policia_bombacho_12;;;;;55000;61000;68000;75000
-Policia;bombacho;14;60000;Policia_bombacho_14;;;;;60000;66000;73000;81000
-Policia;bombacho;16;60000;Policia_bombacho_16;;;;;60000;66000;73000;81000
-Policia;bombacho;S;70000;Policia_bombacho_S;;;;;70000;77000;85000;94000
-Policia;bombacho;M;70000;Policia_bombacho_M;;;;;70000;77000;85000;94000
-Policia;bombacho;L;70000;Policia_bombacho_L;;;;;70000;77000;85000;94000
-Policia;bombacho;XL;70000;Policia_bombacho_XL;;;;;70000;77000;85000;94000
+Policia;bombacho;10;53000;Policia_bombacho_10;;;;;55000;61000;68000;75000
+Policia;bombacho;12;53000;Policia_bombacho_12;;;;;55000;61000;68000;75000
+Policia;bombacho;14;56000;Policia_bombacho_14;;;;;60000;66000;73000;81000
+Policia;bombacho;16;56000;Policia_bombacho_16;;;;;60000;66000;73000;81000
+Policia;bombacho;S;59000;Policia_bombacho_S;;;;;70000;77000;85000;94000
+Policia;bombacho;M;59000;Policia_bombacho_M;;;;;70000;77000;85000;94000
+Policia;bombacho;L;59000;Policia_bombacho_L;;;;;70000;77000;85000;94000
+Policia;bombacho;XL;62000;Policia_bombacho_XL;;;;;70000;77000;85000;94000
 Antonio Narino;blusa;2;37000;Antonio Narino_blusa_2;;;;;37000;41000;46000;51000
 Antonio Narino;blusa;4;37000;Antonio Narino_blusa_4;;;;;37000;41000;46000;51000
 Antonio Narino;blusa;6;37000;Antonio Narino_blusa_6;;;;;37000;41000;46000;51000
@@ -799,43 +805,38 @@ antifluido;La Fayette;S;125000;antifluido_La Fayette_S;;;;;125000;138000;152000;
 antifluido;La Fayette;M;130000;antifluido_La Fayette_M;;;;;130000;143000;158000;174000
 antifluido;La Fayette;L;135000;antifluido_La Fayette_L;;;;;135000;149000;164000;181000
 antifluido;La Fayette;XL;140000;antifluido_La Fayette_XL;;;;;140000;154000;170000;187000
-antifluido;La Fayette;XXL;150000;antifluido_La Fayette_XL;;;;;150000;165000;182000;201000
+antifluido;La Fayette;XXL;150000;antifluido_La Fayette_XXL;;;;;150000;165000;182000;201000
 antifluido;Nacional;S;100000;antifluido_Nacional_S;;;;;;;;
 antifluido;Nacional;M;105000;antifluido_Nacional_M;;;;;;;;
 antifluido;Nacional;L;110000;antifluido_Nacional_L;;;;;;;;
 antifluido;Nacional;XL;115000;antifluido_Nacional_XL;;;;;;;;
 antifluido;Nacional;XXL;120000;antifluido_Nacional_XXL;;;;;;;;
-dotacion;camisa oxford mujer azul;16;42000;dotacion_camisa oxford mujer azul_16;;;;;42000;47000;52000;58000
-dotacion;camisa oxford mujer azul;S;42000;dotacion_camisa oxford mujer azul_S;;;;;42000;47000;52000;58000
-dotacion;camisa oxford mujer azul;M;42000;dotacion_camisa oxford mujer azul_M;;;;;42000;47000;52000;58000
-dotacion;camisa oxford mujer azul;L;42000;dotacion_camisa oxford mujer azul_L;;;;;42000;47000;52000;58000
-dotacion;camisa oxford mujer azul;XL;42000;dotacion_camisa oxford mujer azul_XL;;;;;42000;47000;52000;58000
-dotacion;camisa oxford hombre azul;S;42000;dotacion_camisa oxford hombre azul_S;;;;;42000;47000;52000;58000
-dotacion;camisa oxford hombre azul;M;42000;dotacion_camisa oxford hombre azul_M;;;;;42000;47000;52000;58000
-dotacion;camisa oxford hombre azul;L;42000;dotacion_camisa oxford hombre azul_L;;;;;42000;47000;52000;58000
-dotacion;camisa oxford hombre azul;XL;42000;dotacion_camisa oxford hombre azul_XL;;;;;42000;47000;52000;58000
-dotacion;jeans hombre strech;28;36000;dotacion_jeans hombre strech_28;;;;;36000;40000;44000;49000
-dotacion;jeans hombre strech;30;36000;dotacion_jeans hombre strech_30;;;;;36000;40000;44000;49000
-dotacion;jeans hombre strech;32;36000;dotacion_jeans hombre strech_32;;;;;36000;40000;44000;49000
-dotacion;jeans hombre strech;34;36000;dotacion_jeans hombre strech_34;;;;;36000;40000;44000;49000
-dotacion;jeans hombre strech;36;36000;dotacion_jeans hombre strech_36;;;;;36000;40000;44000;49000
-dotacion;jeans hombre strech;38;36000;dotacion_jeans hombre strech_38;;;;;36000;40000;44000;49000
-dotacion;jeans hombre strech;40;36000;dotacion_jeans hombre strech_40;;;;;36000;40000;44000;49000
-dotacion;jeans dama strech;6;42000;dotacion_jeans dama strech_6;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;8;42000;dotacion_jeans dama strech_8;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;10;42000;dotacion_jeans dama strech_10;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;12;42000;dotacion_jeans dama strech_12;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;14;42000;dotacion_jeans dama strech_14;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;16;42000;dotacion_jeans dama strech_16;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;18;42000;dotacion_jeans dama strech_18;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;20;42000;dotacion_jeans dama strech_20;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;22;42000;dotacion_jeans dama strech_22;;;;;42000;47000;52000;58000
-dotacion;jeans dama strech;24;42000;dotacion_jeans dama strech_24;;;;;42000;47000;52000;58000
-Diac;Blusa manga larga;NA;;Diac_Blusa manga larga_NA;;;;;;;;
-Diac;Blusa manga corta;NA;;Diac_Blusa manga corta_NA;;;;;;;;
-Diac;Camisa manga larga;NA;;Diac_Camisa manga larga_NA;;;;;;;;
-Diac;Camisa manga corta;NA;;Diac_Camisa manga corta_NA;;;;;;;;
-Diac;Camiseta ;NA;;Diac_Camiseta _NA;;;;;;;;
+Diac;Blusa manga larga;16;;;;;;;;;;
+Diac;Blusa manga larga;S;;;;;;;;;;
+Diac;Blusa manga larga;M;;;;;;;;;;
+Diac;Blusa manga larga;L;;;;;;;;;;
+Diac;Blusa manga larga;XL;;Diac_Blusa manga larga_NA;;;;;;;;
+Diac;Blusa manga corta;16;;Diac_Blusa manga corta_NA;;;;;;;;
+Diac;Blusa manga corta;S;;;;;;;;;;
+Diac;Blusa manga corta;M;;;;;;;;;;
+Diac;Blusa manga corta;L;;;;;;;;;;
+Diac;Blusa manga corta;XL;;;;;;;;;;
+Diac;Camisa manga larga;16;;;;;;;;;;
+Diac;Camisa manga larga;S;;;;;;;;;;
+Diac;Camisa manga larga;M;;;;;;;;;;
+Diac;Camisa manga larga;L;;;;;;;;;;
+Diac;Camisa manga larga;XL;;Diac_Camisa manga larga_NA;;;;;;;;
+Diac;Camisa manga corta;16;;;;;;;;;;
+Diac;Camisa manga corta;S;;;;;;;;;;
+Diac;Camisa manga corta;M;;;;;;;;;;
+Diac;Camisa manga corta;L;;;;;;;;;;
+Diac;Camisa manga corta;XL;;Diac_Camisa manga corta_NA;;;;;;;;
+Diac;Camiseta;16;;;;;;;;;;
+Diac;Camiseta;S;;;;;;;;;;
+Diac;Camiseta;M;;;;;;;;;;
+Diac;Camiseta;L;;;;;;;;;;
+Diac;Camiseta;XL;;;;;;;;;;
+Diac;Camiseta;NA;;Diac_Camiseta _NA;;;;;;;;
 Diac;Blusa anti fluido / cierre;NA;;Diac_Blusa anti fluido / cierre_NA;;;;;;;;
 Diac;Blusa anti fluido / bies / cierre;NA;;Diac_Blusa anti fluido / bies / cierre_NA;;;;;;;;
 Diac;Camisa anti fluido hombre / cierre;NA;;Diac_Camisa anti fluido hombre / cierre_NA;;;;;;;;
@@ -867,136 +868,196 @@ Policia;polo;NA;;Policia_polo_L;;;;;;;;
 Policia;polo;NA;;Policia_polo_XL;;;;;;;;
 otros;Camiseta monja con base de cuello;NA;;otros_Camiseta monja con base de cuello_NA;;;;;;;;
 Diac;Pantalon hombre;NA;;Diac_Pantalon hombre_NA;;;;;;;;
-antonia santos;blusa;2;9999999;antonia santos_blusa_2;;;;;;;;
-antonia santos;blusa;4;9999999;antonia santos_blusa_4;;;;;;;;
-antonia santos;blusa;6;9999999;antonia santos_blusa_6;;;;;;;;
-antonia santos;blusa;8;9999999;antonia santos_blusa_8;;;;;;;;
-antonia santos;blusa;10;9999999;antonia santos_blusa_10;;;;;;;;
-antonia santos;blusa;12;9999999;antonia santos_blusa_12;;;;;;;;
-antonia santos;blusa;14;9999999;antonia santos_blusa_14;;;;;;;;
-antonia santos;blusa;16;9999999;antonia santos_blusa_16;;;;;;;;
-antonia santos;blusa;S;9999999;antonia santos_blusa_S;;;;;;;;
-antonia santos;blusa;M;9999999;antonia santos_blusa_M;;;;;;;;
-antonia santos;blusa;L;9999999;antonia santos_blusa_L;;;;;;;;
-antonia santos;blusa;XL;9999999;antonia santos_blusa_XL;;;;;;;;
-antonia santos;jumper;2;9999999;antonia santos_jumper_2;;;;;;;;
-antonia santos;jumper;4;9999999;antonia santos_jumper_4;;;;;;;;
-antonia santos;jumper;6;9999999;antonia santos_jumper_6;;;;;;;;
-antonia santos;jumper;8;9999999;antonia santos_jumper_8;;;;;;;;
-antonia santos;jumper;10;9999999;antonia santos_jumper_10;;;;;;;;
-antonia santos;jumper;12;9999999;antonia santos_jumper_12;;;;;;;;
-antonia santos;jumper;14;9999999;antonia santos_jumper_14;;;;;;;;
-antonia santos;jumper;16;9999999;antonia santos_jumper_16;;;;;;;;
-antonia santos;jumper;S;9999999;antonia santos_jumper_S;;;;;;;;
-antonia santos;jumper;M;9999999;antonia santos_jumper_M;;;;;;;;
-antonia santos;jumper;L;9999999;antonia santos_jumper_L;;;;;;;;
-antonia santos;jumper;XL;9999999;antonia santos_jumper_XL;;;;;;;;
-antonia santos;camiseta de diario;2;9999999;antonia santos_camiseta de diario_2;;;;;;;;
-antonia santos;camiseta de diario;4;9999999;antonia santos_camiseta de diario_4;;;;;;;;
-antonia santos;camiseta de diario;6;9999999;antonia santos_camiseta de diario_6;;;;;;;;
-antonia santos;camiseta de diario;8;9999999;antonia santos_camiseta de diario_8;;;;;;;;
-antonia santos;camiseta de diario;10;9999999;antonia santos_camiseta de diario_10;;;;;;;;
-antonia santos;camiseta de diario;12;9999999;antonia santos_camiseta de diario_12;;;;;;;;
-antonia santos;camiseta de diario;14;9999999;antonia santos_camiseta de diario_14;;;;;;;;
-antonia santos;camiseta de diario;16;9999999;antonia santos_camiseta de diario_16;;;;;;;;
-antonia santos;camiseta de diario;S;9999999;antonia santos_camiseta de diario_S;;;;;;;;
-antonia santos;camiseta de diario;M;9999999;antonia santos_camiseta de diario_M;;;;;;;;
-antonia santos;camiseta de diario;L;9999999;antonia santos_camiseta de diario_L;;;;;;;;
-antonia santos;camiseta de diario;XL;9999999;antonia santos_camiseta de diario_XL;;;;;;;;
-antonia santos;camiseta fisica;4;9999999;antonia santos_camiseta fisica_4;;;;;;;;
-antonia santos;camiseta fisica;6;9999999;antonia santos_camiseta fisica_6;;;;;;;;
-antonia santos;camiseta fisica;8;9999999;antonia santos_camiseta fisica_8;;;;;;;;
-antonia santos;camiseta fisica;10;9999999;antonia santos_camiseta fisica_10;;;;;;;;
-antonia santos;camiseta fisica;12;9999999;antonia santos_camiseta fisica_12;;;;;;;;
-antonia santos;camiseta fisica;14;9999999;antonia santos_camiseta fisica_14;;;;;;;;
-antonia santos;camiseta fisica;16;9999999;antonia santos_camiseta fisica_16;;;;;;;;
-antonia santos;camiseta fisica;S;9999999;antonia santos_camiseta fisica_S;;;;;;;;
-antonia santos;camiseta fisica;M;9999999;antonia santos_camiseta fisica_M;;;;;;;;
-antonia santos;camiseta fisica;L;9999999;antonia santos_camiseta fisica_L;;;;;;;;
-antonia santos;camiseta fisica;XL;9999999;antonia santos_camiseta fisica_XL;;;;;;;;
-antonia santos;bombacho;2;9999999;antonia santos_bombacho_2;;;;;;;;
-antonia santos;bombacho;4;9999999;antonia santos_bombacho_4;;;;;;;;
-antonia santos;bombacho;6;9999999;antonia santos_bombacho_6;;;;;;;;
-antonia santos;bombacho;8;9999999;antonia santos_bombacho_8;;;;;;;;
-antonia santos;bombacho;10;9999999;antonia santos_bombacho_10;;;;;;;;
-antonia santos;bombacho;12;9999999;antonia santos_bombacho_12;;;;;;;;
-antonia santos;bombacho;14;9999999;antonia santos_bombacho_14;;;;;;;;
-antonia santos;bombacho;16;9999999;antonia santos_bombacho_16;;;;;;;;
-antonia santos;bombacho;S;9999999;antonia santos_bombacho_S;;;;;;;;
-antonia santos;bombacho;M;9999999;antonia santos_bombacho_M;;;;;;;;
-antonia santos;bombacho;L;9999999;antonia santos_bombacho_L;;;;;;;;
-antonia santos;bombacho;XL;9999999;antonia santos_bombacho_XL;;;;;;;;
-san jose;blusa;2;9999999;san jose_blusa_2;;;;;;;;
-san jose;blusa;4;9999999;san jose_blusa_4;;;;;;;;
-san jose;blusa;6;9999999;san jose_blusa_6;;;;;;;;
-san jose;blusa;8;9999999;san jose_blusa_8;;;;;;;;
-san jose;blusa;10;9999999;san jose_blusa_10;;;;;;;;
-san jose;blusa;12;9999999;san jose_blusa_12;;;;;;;;
-san jose;blusa;14;9999999;san jose_blusa_14;;;;;;;;
-san jose;blusa;16;9999999;san jose_blusa_16;;;;;;;;
-san jose;blusa;S;9999999;san jose_blusa_S;;;;;;;;
-san jose;blusa;M;9999999;san jose_blusa_M;;;;;;;;
-san jose;blusa;L;9999999;san jose_blusa_L;;;;;;;;
-san jose;blusa;XL;9999999;san jose_blusa_XL;;;;;;;;
-san jose;falda;2;9999999;san jose_falda_2;;;;;;;;
-san jose;falda;4;9999999;san jose_falda_4;;;;;;;;
-san jose;falda;6;9999999;san jose_falda_6;;;;;;;;
-san jose;falda;8;9999999;san jose_falda_8;;;;;;;;
-san jose;falda;10;9999999;san jose_falda_10;;;;;;;;
-san jose;falda;12;9999999;san jose_falda_12;;;;;;;;
-san jose;falda;14;9999999;san jose_falda_14;;;;;;;;
-san jose;falda;16;9999999;san jose_falda_16;;;;;;;;
-san jose;falda;S;9999999;san jose_falda_S;;;;;;;;
-san jose;falda;M;9999999;san jose_falda_M;;;;;;;;
-san jose;falda;L;9999999;san jose_falda_L;;;;;;;;
-san jose;falda;XL;9999999;san jose_falda_XL;;;;;;;;
-san jose;guayabera;2;9999999;san jose_guayabera_2;;;;;;;;
-san jose;guayabera;4;9999999;san jose_guayabera_4;;;;;;;;
-san jose;guayabera;6;9999999;san jose_guayabera_6;;;;;;;;
-san jose;guayabera;8;9999999;san jose_guayabera_8;;;;;;;;
-san jose;guayabera;10;9999999;san jose_guayabera_10;;;;;;;;
-san jose;guayabera;12;9999999;san jose_guayabera_12;;;;;;;;
-san jose;guayabera;14;9999999;san jose_guayabera_14;;;;;;;;
-san jose;guayabera;16;9999999;san jose_guayabera_16;;;;;;;;
-san jose;guayabera;S;9999999;san jose_guayabera_S;;;;;;;;
-san jose;guayabera;M;9999999;san jose_guayabera_M;;;;;;;;
-san jose;guayabera;L;9999999;san jose_guayabera_L;;;;;;;;
-san jose;guayabera;XL;9999999;san jose_guayabera_XL;;;;;;;;
-san jose;pantalon;2;9999999;san jose_pantalon_2;;;;;;;;
-san jose;pantalon;4;9999999;san jose_pantalon_4;;;;;;;;
-san jose;pantalon;6;9999999;san jose_pantalon_6;;;;;;;;
-san jose;pantalon;8;9999999;san jose_pantalon_8;;;;;;;;
-san jose;pantalon;10;9999999;san jose_pantalon_10;;;;;;;;
-san jose;pantalon;12;9999999;san jose_pantalon_12;;;;;;;;
-san jose;pantalon;14;9999999;san jose_pantalon_14;;;;;;;;
-san jose;pantalon;16;9999999;san jose_pantalon_16;;;;;;;;
-san jose;pantalon;28;9999999;san jose_pantalon_28;;;;;;;;
-san jose;pantalon;30;9999999;san jose_pantalon_30;;;;;;;;
-san jose;pantalon;32;9999999;san jose_pantalon_32;;;;;;;;
-san jose;pantalon;34;9999999;san jose_pantalon_34;;;;;;;;
-san jose;pantalon;36;9999999;san jose_pantalon_36;;;;;;;;
-san jose;pantalon;38;9999999;san jose_pantalon_38;;;;;;;;
-san jose;camiseta fisica;2;9999999;san jose_camiseta fisica_2;;;;;;;;
-san jose;camiseta fisica;4;9999999;san jose_camiseta fisica_4;;;;;;;;
-san jose;camiseta fisica;6;9999999;san jose_camiseta fisica_6;;;;;;;;
-san jose;camiseta fisica;8;9999999;san jose_camiseta fisica_8;;;;;;;;
-san jose;camiseta fisica;10;9999999;san jose_camiseta fisica_10;;;;;;;;
-san jose;camiseta fisica;12;9999999;san jose_camiseta fisica_12;;;;;;;;
-san jose;camiseta fisica;14;9999999;san jose_camiseta fisica_14;;;;;;;;
-san jose;camiseta fisica;16;9999999;san jose_camiseta fisica_16;;;;;;;;
-san jose;camiseta fisica;S;9999999;san jose_camiseta fisica_S;;;;;;;;
-san jose;camiseta fisica;M;9999999;san jose_camiseta fisica_M;;;;;;;;
-san jose;camiseta fisica;L;9999999;san jose_camiseta fisica_L;;;;;;;;
-san jose;camiseta fisica;XL;9999999;san jose_camiseta fisica_XL;;;;;;;;
-san jose;bombacho;2;9999999;san jose_bombacho_2;;;;;;;;
-san jose;bombacho;4;9999999;san jose_bombacho_4;;;;;;;;
-san jose;bombacho;6;9999999;san jose_bombacho_6;;;;;;;;
-san jose;bombacho;8;9999999;san jose_bombacho_8;;;;;;;;
-san jose;bombacho;10;9999999;san jose_bombacho_10;;;;;;;;
-san jose;bombacho;12;9999999;san jose_bombacho_12;;;;;;;;
-san jose;bombacho;14;9999999;san jose_bombacho_14;;;;;;;;
-san jose;bombacho;16;9999999;san jose_bombacho_16;;;;;;;;
-san jose;bombacho;S;9999999;san jose_bombacho_S;;;;;;;;
-san jose;bombacho;M;9999999;san jose_bombacho_M;;;;;;;;
-san jose;bombacho;L;9999999;san jose_bombacho_L;;;;;;;;
-san jose;bombacho;XL;9999999;san jose_bombacho_XL;;;;;;;;
+dotacion;camisa oxford mujer azul;16;42000;dotacion_camisa oxford mujer azul_16;;;;;42000;47000;52000;58000
+dotacion;camisa oxford mujer azul;S;42000;dotacion_camisa oxford mujer azul_S;;;;;42000;47000;52000;58000
+dotacion;camisa oxford mujer azul;M;42000;dotacion_camisa oxford mujer azul_M;;;;;42000;47000;52000;58000
+dotacion;camisa oxford mujer azul;L;42000;dotacion_camisa oxford mujer azul_L;;;;;42000;47000;52000;58000
+dotacion;camisa oxford mujer azul;XL;42000;dotacion_camisa oxford mujer azul_XL;;;;;42000;47000;52000;58000
+dotacion;camisa oxford hombre azul;S;42000;dotacion_camisa oxford hombre azul_S;;;;;42000;47000;52000;58000
+dotacion;camisa oxford hombre azul;M;42000;dotacion_camisa oxford hombre azul_M;;;;;42000;47000;52000;58000
+dotacion;camisa oxford hombre azul;L;42000;dotacion_camisa oxford hombre azul_L;;;;;42000;47000;52000;58000
+dotacion;camisa oxford hombre azul;XL;42000;dotacion_camisa oxford hombre azul_XL;;;;;42000;47000;52000;58000
+dotacion;jeans hombre strech;28;40000;dotacion_jeans hombre strech_28;;;;;36000;40000;44000;49000
+dotacion;jeans hombre strech;30;40000;dotacion_jeans hombre strech_30;;;;;36000;40000;44000;49000
+dotacion;jeans hombre strech;32;40000;dotacion_jeans hombre strech_32;;;;;36000;40000;44000;49000
+dotacion;jeans hombre strech;34;40000;dotacion_jeans hombre strech_34;;;;;36000;40000;44000;49000
+dotacion;jeans hombre strech;36;40000;dotacion_jeans hombre strech_36;;;;;36000;40000;44000;49000
+dotacion;jeans hombre strech;38;40000;dotacion_jeans hombre strech_38;;;;;36000;40000;44000;49000
+dotacion;jeans hombre strech;40;40000;dotacion_jeans hombre strech_40;;;;;36000;40000;44000;49000
+dotacion;jeans dama strech;6;42000;dotacion_jeans dama strech_6;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;8;42000;dotacion_jeans dama strech_8;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;10;42000;dotacion_jeans dama strech_10;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;12;42000;dotacion_jeans dama strech_12;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;14;42000;dotacion_jeans dama strech_14;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;16;42000;dotacion_jeans dama strech_16;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;18;42000;dotacion_jeans dama strech_18;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;20;42000;dotacion_jeans dama strech_20;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;22;42000;dotacion_jeans dama strech_22;;;;;42000;47000;52000;58000
+dotacion;jeans dama strech;24;42000;dotacion_jeans dama strech_24;;;;;42000;47000;52000;58000
+dotacion;camisa jean manga larga hombre;s;40000;dotacion_camisa jean manga larga hombre_s;;;;;40000;;;
+dotacion;camisa jean manga larga hombre;m;40000;dotacion_camisa jean manga larga hombre_m;;;;;40000;;;
+dotacion;camisa jean manga larga hombre;l;40000;dotacion_camisa jean manga larga hombre_l;;;;;40000;;;
+dotacion;camisa jean manga larga hombre;xl;40000;dotacion_camisa jean manga larga hombre_xl;;;;;40000;;;
+dotacion;camisa jean manga larga mujer;16;40000;dotacion_camisa jean manga larga mujer_16;;;;;40000;;;
+dotacion;camisa jean manga larga mujer;s;40000;dotacion_camisa jean manga larga mujer_s;;;;;40000;;;
+dotacion;camisa jean manga larga mujer;m;40000;dotacion_camisa jean manga larga mujer_m;;;;;40000;;;
+dotacion;camisa jean manga larga mujer;l;40000;dotacion_camisa jean manga larga mujer_l;;;;;40000;;;
+dotacion;camisa jean manga larga mujer;xl;40000;dotacion_camisa jean manga larga mujer_xl;;;;;40000;;;
+dotacion;chaleco;s;47000;dotacion_chaleco_s;;;;;47000;;;
+dotacion;chaleco;m;47000;dotacion_chaleco_m;;;;;47000;;;
+dotacion;chaleco;l;47000;dotacion_chaleco_l;;;;;47000;;;
+dotacion;chaleco;xl;47000;dotacion_chaleco_xl;;;;;47000;;;
+dotacion;delantal-dril;NA;65000;dotacion_delantal-dril_NA;;;;;;;;
+dotacion;delantal-antifluido;NA;65000;dotacion_delantal-antifluido_NA;;;;;;;;
+dotacion;Camiseta polo esencial (yute-lacost);16;50000;dotacion_Camiseta polo esencial (yute-lacost)_16;;;;;;;;
+dotacion;Camiseta polo esencial (yute-lacost);S;53000;dotacion_Camiseta polo esencial (yute-lacost)_S;;;;;;;;
+dotacion;Camiseta polo esencial (yute-lacost);M;53000;dotacion_Camiseta polo esencial (yute-lacost)_M;;;;;;;;
+dotacion;Camiseta polo esencial (yute-lacost);L;56000;dotacion_Camiseta polo esencial (yute-lacost)_L;;;;;;;;
+dotacion;Camiseta polo esencial (yute-lacost);XL;59000;dotacion_Camiseta polo esencial (yute-lacost)_XL;;;;;;;;
+dotacion;Camiseta polo esencial (yute-lacost);XXL;62000;dotacion_Camiseta polo esencial (yute-lacost)_XXL;;;;;;;;
+dotacion;Camiseta polo ejecutiva (cole plus);16;55000;dotacion_Camiseta polo ejecutiva (cole plus)_16;;;;;;;;
+dotacion;Camiseta polo ejecutiva (cole plus);S;58000;dotacion_Camiseta polo ejecutiva (cole plus)_S;;;;;;;;
+dotacion;Camiseta polo ejecutiva (cole plus);M;58000;dotacion_Camiseta polo ejecutiva (cole plus)_M;;;;;;;;
+dotacion;Camiseta polo ejecutiva (cole plus);L;61000;dotacion_Camiseta polo ejecutiva (cole plus)_L;;;;;;;;
+dotacion;Camiseta polo ejecutiva (cole plus);XL;61000;dotacion_Camiseta polo ejecutiva (cole plus)_XL;;;;;;;;
+dotacion;Camiseta polo ejecutiva (cole plus);XXL;64000;dotacion_Camiseta polo ejecutiva (cole plus)_XXL;;;;;;;;
+dotacion;Camiseta polo signature (polux);16;62000;dotacion_Camiseta polo signature (polux)_16;;;;;;;;
+dotacion;Camiseta polo signature (polux);S;62000;dotacion_Camiseta polo signature (polux)_S;;;;;;;;
+dotacion;Camiseta polo signature (polux);M;66000;dotacion_Camiseta polo signature (polux)_M;;;;;;;;
+dotacion;Camiseta polo signature (polux);L;66000;dotacion_Camiseta polo signature (polux)_L;;;;;;;;
+dotacion;Camiseta polo signature (polux);XL;69000;dotacion_Camiseta polo signature (polux)_XL;;;;;;;;
+dotacion;Camiseta polo signature (polux);XXL;69000;dotacion_Camiseta polo signature (polux)_XXL;;;;;;;;
+dotacion;Blusa manga larga-veneta signature;16;130000;dotacion_Blusa manga larga-veneta signature_16;;;;;;;;
+dotacion;Blusa manga larga-veneta signature;S;130000;dotacion_Blusa manga larga-veneta signature_S;;;;;;;;
+dotacion;Blusa manga larga-veneta signature;M;130000;dotacion_Blusa manga larga-veneta signature_M;;;;;;;;
+dotacion;Blusa manga larga-veneta signature;L;130000;dotacion_Blusa manga larga-veneta signature_L;;;;;;;;
+dotacion;Blusa manga larga-veneta signature;XL;130000;dotacion_Blusa manga larga-veneta signature_XL;;;;;;;;
+dotacion;Blusa manga corta-veneta signature;16;110000;dotacion_Blusa manga corta-veneta signature_16;;;;;;;;
+dotacion;Blusa manga corta-veneta signature;S;110000;dotacion_Blusa manga corta-veneta signature_S;;;;;;;;
+dotacion;Blusa manga corta-veneta signature;M;110000;dotacion_Blusa manga corta-veneta signature_M;;;;;;;;
+dotacion;Blusa manga corta-veneta signature;L;110000;dotacion_Blusa manga corta-veneta signature_L;;;;;;;;
+dotacion;Blusa manga corta-veneta signature;XL;110000;dotacion_Blusa manga corta-veneta signature_XL;;;;;;;;
+dotacion;Camisa manga larga-veneta signature;16;130000;dotacion_Camisa manga larga-veneta signature_16;;;;;;;;
+dotacion;Camisa manga larga-veneta signature;S;130000;dotacion_Camisa manga larga-veneta signature_S;;;;;;;;
+dotacion;Camisa manga larga-veneta signature;M;130000;dotacion_Camisa manga larga-veneta signature_M;;;;;;;;
+dotacion;Camisa manga larga-veneta signature;L;130000;dotacion_Camisa manga larga-veneta signature_L;;;;;;;;
+dotacion;Camisa manga larga-veneta signature;XL;130000;dotacion_Camisa manga larga-veneta signature_XL;;;;;;;;
+dotacion;Camisa manga corta-veneta signature;16;110000;dotacion_Camisa manga corta-veneta signature_16;;;;;;;;
+dotacion;Camisa manga corta-veneta signature;S;110000;dotacion_Camisa manga corta-veneta signature_S;;;;;;;;
+dotacion;Camisa manga corta-veneta signature;M;110000;dotacion_Camisa manga corta-veneta signature_M;;;;;;;;
+dotacion;Camisa manga corta-veneta signature;L;110000;dotacion_Camisa manga corta-veneta signature_L;;;;;;;;
+dotacion;Camisa manga corta-veneta signature;XL;110000;dotacion_Camisa manga corta-veneta signature_XL;;;;;;;;
+dotacion;Blusa manga larga-algodon;16;100000;dotacion_Blusa manga larga-algodon_16;;;;;;;;
+dotacion;Blusa manga larga-algodon;S;100000;dotacion_Blusa manga larga-algodon_S;;;;;;;;
+dotacion;Blusa manga larga-algodon;M;100000;dotacion_Blusa manga larga-algodon_M;;;;;;;;
+dotacion;Blusa manga larga-algodon;L;100000;dotacion_Blusa manga larga-algodon_L;;;;;;;;
+dotacion;Blusa manga larga-algodon;XL;100000;dotacion_Blusa manga larga-algodon_XL;;;;;;;;
+dotacion;Blusa manga corta-algodon;16;100000;dotacion_Blusa manga corta-algodon_16;;;;;;;;
+dotacion;Blusa manga corta-algodon;S;80000;dotacion_Blusa manga corta-algodon_S;;;;;;;;
+dotacion;Blusa manga corta-algodon;M;80000;dotacion_Blusa manga corta-algodon_M;;;;;;;;
+dotacion;Blusa manga corta-algodon;L;80000;dotacion_Blusa manga corta-algodon_L;;;;;;;;
+dotacion;Blusa manga corta-algodon;XL;80000;dotacion_Blusa manga corta-algodon_XL;;;;;;;;
+dotacion;Camisa manga larga-algodon;16;100000;dotacion_Camisa manga larga-algodon_16;;;;;;;;
+dotacion;Camisa manga larga-algodon;S;100000;dotacion_Camisa manga larga-algodon_S;;;;;;;;
+dotacion;Camisa manga larga-algodon;M;100000;dotacion_Camisa manga larga-algodon_M;;;;;;;;
+dotacion;Camisa manga larga-algodon;L;100000;dotacion_Camisa manga larga-algodon_L;;;;;;;;
+dotacion;Camisa manga larga-algodon;XL;100000;dotacion_Camisa manga larga-algodon_XL;;;;;;;;
+dotacion;Camisa manga corta-algodon;16;80000;dotacion_Camisa manga corta-algodon_16;;;;;;;;
+dotacion;Camisa manga corta-algodon;S;80000;dotacion_Camisa manga corta-algodon_S;;;;;;;;
+dotacion;Camisa manga corta-algodon;M;80000;dotacion_Camisa manga corta-algodon_M;;;;;;;;
+dotacion;Camisa manga corta-algodon;L;80000;dotacion_Camisa manga corta-algodon_L;;;;;;;;
+dotacion;Camisa manga corta-algodon;XL;80000;dotacion_Camisa manga corta-algodon_XL;;;;;;;;
+dotacion;pantalon hombre nova signature;28;130000;dotacion_pantalon hombre nova signature_28;;;;;;;;
+dotacion;pantalon hombre nova signature;30;130000;dotacion_pantalon hombre nova signature_30;;;;;;;;
+dotacion;pantalon hombre nova signature;32;130000;dotacion_pantalon hombre nova signature_32;;;;;;;;
+dotacion;pantalon hombre nova signature;34;130000;dotacion_pantalon hombre nova signature_34;;;;;;;;
+dotacion;pantalon hombre nova signature;36;130000;dotacion_pantalon hombre nova signature_36;;;;;;;;
+dotacion;pantalon hombre nova signature;38;130000;dotacion_pantalon hombre nova signature_38;;;;;;;;
+dotacion;pantalon hombre lino;28;90000;dotacion_pantalon hombre lino_28;;;;;;;;
+dotacion;pantalon hombre lino;30;90000;dotacion_pantalon hombre lino_30;;;;;;;;
+dotacion;pantalon hombre lino;32;90000;dotacion_pantalon hombre lino_32;;;;;;;;
+dotacion;pantalon hombre lino;34;90000;dotacion_pantalon hombre lino_34;;;;;;;;
+dotacion;pantalon hombre lino;36;90000;dotacion_pantalon hombre lino_36;;;;;;;;
+dotacion;pantalon hombre lino;38;90000;dotacion_pantalon hombre lino_38;;;;;;;;
+dotacion;slack ejecutivo (intermedio);2;70000;dotacion_slack ejecutivo (intermedio)_2;;;;;;;;
+dotacion;slack ejecutivo (intermedio);4;70000;dotacion_slack ejecutivo (intermedio)_4;;;;;;;;
+dotacion;slack ejecutivo (intermedio);6;70000;dotacion_slack ejecutivo (intermedio)_6;;;;;;;;
+dotacion;slack ejecutivo (intermedio);8;70000;dotacion_slack ejecutivo (intermedio)_8;;;;;;;;
+dotacion;slack ejecutivo (intermedio);10;70000;dotacion_slack ejecutivo (intermedio)_10;;;;;;;;
+dotacion;slack ejecutivo (intermedio);12;70000;dotacion_slack ejecutivo (intermedio)_12;;;;;;;;
+dotacion;slack ejecutivo (intermedio);14;70000;dotacion_slack ejecutivo (intermedio)_14;;;;;;;;
+dotacion;slack strech signature;2;130000;dotacion_slack strech signature_2;;;;;;;;
+dotacion;slack strech signature;4;130000;dotacion_slack strech signature_4;;;;;;;;
+dotacion;slack strech signature;6;130000;dotacion_slack strech signature_6;;;;;;;;
+dotacion;slack strech signature;8;130000;dotacion_slack strech signature_8;;;;;;;;
+dotacion;slack strech signature;10;130000;dotacion_slack strech signature_10;;;;;;;;
+dotacion;slack strech signature;12;130000;dotacion_slack strech signature_12;;;;;;;;
+dotacion;slack strech signature;14;130000;dotacion_slack strech signature_14;;;;;;;;
+dotacion;pantalon hombre ejecutivo (intermedio);28;73000;dotacion_pantalon hombre ejecutivo (intermedio)_28;;;;;;;;
+dotacion;pantalon hombre ejecutivo (intermedio);30;73000;dotacion_pantalon hombre ejecutivo (intermedio)_30;;;;;;;;
+dotacion;pantalon hombre ejecutivo (intermedio);32;73000;dotacion_pantalon hombre ejecutivo (intermedio)_32;;;;;;;;
+dotacion;pantalon hombre ejecutivo (intermedio);34;73000;dotacion_pantalon hombre ejecutivo (intermedio)_34;;;;;;;;
+dotacion;pantalon hombre ejecutivo (intermedio);36;76000;dotacion_pantalon hombre ejecutivo (intermedio)_36;;;;;;;;
+dotacion;pantalon hombre ejecutivo (intermedio);38;81000;dotacion_pantalon hombre ejecutivo (intermedio)_38;;;;;;;;
+dotacion;pantalon hombre esencial (EKO);28;56000;dotacion_pantalon hombre esencial (EKO)_28;;;;;;;;
+dotacion;pantalon hombre esencial (EKO);30;56000;dotacion_pantalon hombre esencial (EKO)_30;;;;;;;;
+dotacion;pantalon hombre esencial (EKO);32;58000;dotacion_pantalon hombre esencial (EKO)_32;;;;;;;;
+dotacion;pantalon hombre esencial (EKO);34;60000;dotacion_pantalon hombre esencial (EKO)_34;;;;;;;;
+dotacion;pantalon hombre esencial (EKO);36;61000;dotacion_pantalon hombre esencial (EKO)_36;;;;;;;;
+dotacion;pantalon hombre esencial (EKO);38;67000;dotacion_pantalon hombre esencial (EKO)_38;;;;;;;;
+dotacion;pantalon hombre ejecutivo (NSC);28;80000;dotacion_pantalon hombre ejecutivo (NSC)_28;;;;;;;;
+dotacion;pantalon hombre ejecutivo (NSC);30;80000;dotacion_pantalon hombre ejecutivo (NSC)_30;;;;;;;;
+dotacion;pantalon hombre ejecutivo (NSC);32;80000;dotacion_pantalon hombre ejecutivo (NSC)_32;;;;;;;;
+dotacion;pantalon hombre ejecutivo (NSC);34;88000;dotacion_pantalon hombre ejecutivo (NSC)_34;;;;;;;;
+dotacion;pantalon hombre ejecutivo (NSC);36;88000;dotacion_pantalon hombre ejecutivo (NSC)_36;;;;;;;;
+dotacion;pantalon hombre ejecutivo (NSC);38;93000;dotacion_pantalon hombre ejecutivo (NSC)_38;;;;;;;;
+dotacion;slack ejecutivo (NSC);2;77000;dotacion_slack ejecutivo (NSC)_2;;;;;;;;
+dotacion;slack ejecutivo (NSC);4;77000;dotacion_slack ejecutivo (NSC)_4;;;;;;;;
+dotacion;slack ejecutivo (NSC);6;77000;dotacion_slack ejecutivo (NSC)_6;;;;;;;;
+dotacion;slack ejecutivo (NSC);8;77000;dotacion_slack ejecutivo (NSC)_8;;;;;;;;
+dotacion;slack ejecutivo (NSC);10;77000;dotacion_slack ejecutivo (NSC)_10;;;;;;;;
+dotacion;slack ejecutivo (NSC);12;77000;dotacion_slack ejecutivo (NSC)_12;;;;;;;;
+dotacion;slack ejecutivo (NSC);14;77000;dotacion_slack ejecutivo (NSC)_14;;;;;;;;
+dotacion;slack esencial (EKO);2;56000;dotacion_slack esencial (EKO)_2;;;;;;;;
+dotacion;slack esencial (EKO);4;56000;dotacion_slack esencial (EKO)_4;;;;;;;;
+dotacion;slack esencial (EKO);6;58000;dotacion_slack esencial (EKO)_6;;;;;;;;
+dotacion;slack esencial (EKO);8;60000;dotacion_slack esencial (EKO)_8;;;;;;;;
+dotacion;slack esencial (EKO);10;61000;dotacion_slack esencial (EKO)_10;;;;;;;;
+dotacion;slack esencial (EKO);12;67000;dotacion_slack esencial (EKO)_12;;;;;;;;
+dotacion;slack esencial (EKO);14;68000;dotacion_slack esencial (EKO)_14;;;;;;;;
+dotacion;Botas punta acero;NA;120000;dotacion_Botas punta acero_NA;;;;;;;;
+dotacion;Gafas de seguridad;NA;12000;dotacion_Gafas de seguridad_NA;;;;;;;;
+otros;Batas;16;70000;otros_Batas_16;;;;;;;;
+otros;Batas;s;70000;otros_Batas_s;;;;;;;;
+otros;Batas;m;70000;otros_Batas_m;;;;;;;;
+otros;Batas;l;70000;otros_Batas_l;;;;;;;;
+otros;Batas;xl;70000;otros_Batas_xl;;;;;;;;
+dotacion;camisa drill trabajo;s;55000;dotacion_camisa drill trabajo_s;;;;;;;;
+dotacion;camisa drill trabajo;m;55000;dotacion_camisa drill trabajo_m;;;;;;;;
+dotacion;camisa drill trabajo;l;55000;dotacion_camisa drill trabajo_l;;;;;;;;
+dotacion;camisa drill trabajo;xl;55000;dotacion_camisa drill trabajo_xl;;;;;;;;
+dotacion;camisa oxford mujer blanca;16;42000;dotacion_camisa oxford mujer blanca_16;;;;;;;;
+dotacion;camisa oxford mujer blanca;S;42000;dotacion_camisa oxford mujer blanca_S;;;;;;;;
+dotacion;camisa oxford mujer blanca;M;42000;dotacion_camisa oxford mujer blanca_M;;;;;;;;
+dotacion;camisa oxford mujer blanca;L;42000;dotacion_camisa oxford mujer blanca_L;;;;;;;;
+dotacion;camisa oxford mujer blanca;XL;42000;dotacion_camisa oxford mujer blanca_XL;;;;;;;;
+dotacion;camisa oxford hombre blanca;S;42000;dotacion_camisa oxford hombre blanca_S;;;;;;;;
+dotacion;camisa oxford hombre blanca;M;42000;dotacion_camisa oxford hombre blanca_M;;;;;;;;
+dotacion;camisa oxford hombre blanca;L;42000;dotacion_camisa oxford hombre blanca_L;;;;;;;;
+dotacion;camisa oxford hombre blanca;XL;42000;dotacion_camisa oxford hombre blanca_XL;;;;;;;;
+dotacion;Camiseta polo nacional;S;45000;dotacion_Camiseta polo nacional_S;;;;;;;;
+dotacion;Camiseta polo nacional;M;45000;dotacion_Camiseta polo nacional_M;;;;;;;;
+dotacion;Camiseta polo nacional;L;45000;dotacion_Camiseta polo nacional_L;;;;;;;;
+dotacion;Camiseta polo nacional;XL;45000;dotacion_Camiseta polo nacional_XL;;;;;;;;
+;;;;Blusa manga larga-veneta signature;;;;;;;;
+;;;;Blusa manga corta-veneta signature;;;;;;;;
+;;;;Camisa manga larga-veneta signature;;;;;;;;
+;;;;Camisa manga corta-veneta signature;;;;;;;;
+;;;;Blusa manga larga-algodon;;;;;;;;
+;;;;Blusa manga corta-algodon;;;;;;;;
+;;;;Camisa manga larga-algodon;;;;;;;;
+;;;;Camisa manga corta-algodon;;;;;;;;
+;;;;pantalon hombre nova signature;;;;;;;;
+;;;;pantalon hombre lino;;;;;;;;
+;;;;slack ejecutivo;;;;;;;;
+;;;;slack strech signature;;;;;;;;

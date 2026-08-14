@@ -1,2 +1,5 @@
 streamlit
 altair
+openpyxl
+msal
+pywin32; platform_system == "Windows"

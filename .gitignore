@@ -1,4 +1,7 @@
 .streamlit/secrets.toml
+tablas/backups/
+streamlit*_preview.png
+logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
