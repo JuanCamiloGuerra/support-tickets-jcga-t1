@@ -121,7 +121,7 @@ liceo universitario;camiseta fisica;8;4;liceo universitario_camiseta fisica_8
 liceo universitario;camiseta fisica;10;3;liceo universitario_camiseta fisica_10
 liceo universitario;camiseta fisica;12;10;liceo universitario_camiseta fisica_12
 liceo universitario;camiseta fisica;14;20;liceo universitario_camiseta fisica_14
-liceo universitario;camiseta fisica;16;3;liceo universitario_camiseta fisica_16
+liceo universitario;camiseta fisica;16;2;liceo universitario_camiseta fisica_16
 liceo universitario;camiseta fisica;S;0;liceo universitario_camiseta fisica_S
 liceo universitario;camiseta fisica;M;3;liceo universitario_camiseta fisica_M
 liceo universitario;camiseta fisica;L;6;liceo universitario_camiseta fisica_L
@@ -134,7 +134,7 @@ liceo universitario;bombacho;10;0;liceo universitario_bombacho_10
 liceo universitario;bombacho;12;3;liceo universitario_bombacho_12
 liceo universitario;bombacho;14;4;liceo universitario_bombacho_14
 liceo universitario;bombacho;16;0;liceo universitario_bombacho_16
-liceo universitario;bombacho;S;3;liceo universitario_bombacho_S
+liceo universitario;bombacho;S;2;liceo universitario_bombacho_S
 liceo universitario;bombacho;M;3;liceo universitario_bombacho_M
 liceo universitario;bombacho;L;1;liceo universitario_bombacho_L
 liceo universitario;bombacho;XL;2;liceo universitario_bombacho_XL
@@ -174,7 +174,7 @@ nuestra señora del carmen;guayabera;8;22;nuestra señora del carmen_guayabera_8
 nuestra señora del carmen;guayabera;10;14;nuestra señora del carmen_guayabera_10
 nuestra señora del carmen;guayabera;12;9;nuestra señora del carmen_guayabera_12
 nuestra señora del carmen;guayabera;14;6;nuestra señora del carmen_guayabera_14
-nuestra señora del carmen;guayabera;16;-1;nuestra señora del carmen_guayabera_16
+nuestra señora del carmen;guayabera;16;-2;nuestra señora del carmen_guayabera_16
 nuestra señora del carmen;guayabera;S;0;nuestra señora del carmen_guayabera_S
 nuestra señora del carmen;guayabera;M;4;nuestra señora del carmen_guayabera_M
 nuestra señora del carmen;guayabera;L;1;nuestra señora del carmen_guayabera_L
@@ -186,7 +186,7 @@ nuestra señora del carmen;pantalon;8;2;nuestra señora del carmen_pantalon_8
 nuestra señora del carmen;pantalon;10;5;nuestra señora del carmen_pantalon_10
 nuestra señora del carmen;pantalon;12;0;nuestra señora del carmen_pantalon_12
 nuestra señora del carmen;pantalon;14;0;nuestra señora del carmen_pantalon_14
-nuestra señora del carmen;pantalon;16;1;nuestra señora del carmen_pantalon_16
+nuestra señora del carmen;pantalon;16;0;nuestra señora del carmen_pantalon_16
 nuestra señora del carmen;pantalon;28;2;nuestra señora del carmen_pantalon_28
 nuestra señora del carmen;pantalon;30;0;nuestra señora del carmen_pantalon_30
 nuestra señora del carmen;pantalon;32;5;nuestra señora del carmen_pantalon_32
@@ -207,7 +207,7 @@ nuestra señora del carmen;camiseta fisica;10;4;nuestra señora del carmen_camis
 nuestra señora del carmen;camiseta fisica;12;0;nuestra señora del carmen_camiseta fisica_12
 nuestra señora del carmen;camiseta fisica;14;11;nuestra señora del carmen_camiseta fisica_14
 nuestra señora del carmen;camiseta fisica;16;5;nuestra señora del carmen_camiseta fisica_16
-nuestra señora del carmen;camiseta fisica;S;3;nuestra señora del carmen_camiseta fisica_S
+nuestra señora del carmen;camiseta fisica;S;2;nuestra señora del carmen_camiseta fisica_S
 nuestra señora del carmen;camiseta fisica;M;0;nuestra señora del carmen_camiseta fisica_M
 nuestra señora del carmen;camiseta fisica;L;3;nuestra señora del carmen_camiseta fisica_L
 nuestra señora del carmen;camiseta fisica;XL;1;nuestra señora del carmen_camiseta fisica_XL
@@ -219,7 +219,7 @@ nuestra señora del carmen;bombacho;10;8;nuestra señora del carmen_bombacho_10
 nuestra señora del carmen;bombacho;12;4;nuestra señora del carmen_bombacho_12
 nuestra señora del carmen;bombacho;14;22;nuestra señora del carmen_bombacho_14
 nuestra señora del carmen;bombacho;16;6;nuestra señora del carmen_bombacho_16
-nuestra señora del carmen;bombacho;S;17;nuestra señora del carmen_bombacho_S
+nuestra señora del carmen;bombacho;S;16;nuestra señora del carmen_bombacho_S
 nuestra señora del carmen;bombacho;M;4;nuestra señora del carmen_bombacho_M
 nuestra señora del carmen;bombacho;L;0;nuestra señora del carmen_bombacho_L
 nuestra señora del carmen;bombacho;XL;0;nuestra señora del carmen_bombacho_XL
@@ -427,7 +427,7 @@ colsafa;guayabera;14;2;colsafa_guayabera_14
 colsafa;guayabera;16;7;colsafa_guayabera_16
 colsafa;guayabera;S;4;colsafa_guayabera_S
 colsafa;guayabera;M;9;colsafa_guayabera_M
-colsafa;guayabera;L;4;colsafa_guayabera_L
+colsafa;guayabera;L;3;colsafa_guayabera_L
 colsafa;guayabera;XL;21;colsafa_guayabera_XL
 colsafa;bombacho;2;0;colsafa_bombacho_2
 colsafa;bombacho;4;3;colsafa_bombacho_4
@@ -451,7 +451,7 @@ colsafa;camiseta fisica;14;8;colsafa_camiseta fisica_14
 colsafa;camiseta fisica;16;1;colsafa_camiseta fisica_16
 colsafa;camiseta fisica;S;6;colsafa_camiseta fisica_S
 colsafa;camiseta fisica;M;10;colsafa_camiseta fisica_M
-colsafa;camiseta fisica;L;3;colsafa_camiseta fisica_L
+colsafa;camiseta fisica;L;2;colsafa_camiseta fisica_L
 colsafa;camiseta fisica;XL;12;colsafa_camiseta fisica_XL
 conalco;blusa;2;0;conalco_blusa_2
 conalco;blusa;4;7;conalco_blusa_4
@@ -576,7 +576,7 @@ la inmaculada;camiseta fisica;10;6;la inmaculada_camiseta fisica_10
 la inmaculada;camiseta fisica;12;7;la inmaculada_camiseta fisica_12
 la inmaculada;camiseta fisica;14;11;la inmaculada_camiseta fisica_14
 la inmaculada;camiseta fisica;16;13;la inmaculada_camiseta fisica_16
-la inmaculada;camiseta fisica;S;21;la inmaculada_camiseta fisica_S
+la inmaculada;camiseta fisica;S;20;la inmaculada_camiseta fisica_S
 la inmaculada;camiseta fisica;M;10;la inmaculada_camiseta fisica_M
 la inmaculada;camiseta fisica;L;12;la inmaculada_camiseta fisica_L
 la inmaculada;camiseta fisica;XL;13;la inmaculada_camiseta fisica_XL
@@ -589,7 +589,7 @@ la inmaculada;bombacho;12;25;la inmaculada_bombacho_12
 la inmaculada;bombacho;14;16;la inmaculada_bombacho_14
 la inmaculada;bombacho;16;21;la inmaculada_bombacho_16
 la inmaculada;bombacho;S;16;la inmaculada_bombacho_S
-la inmaculada;bombacho;M;21;la inmaculada_bombacho_M
+la inmaculada;bombacho;M;20;la inmaculada_bombacho_M
 la inmaculada;bombacho;L;10;la inmaculada_bombacho_L
 la inmaculada;bombacho;XL;6;la inmaculada_bombacho_XL
 la inmaculada;medias;2;60;la inmaculada_medias_2
@@ -605,7 +605,7 @@ hogar;bombacho fisica;2;8;hogar_bombacho fisica_2
 hogar;bombacho fisica;4;0;hogar_bombacho fisica_4
 hogar;bombacho fisica;6;8;hogar_bombacho fisica_6
 Bordados;pequeño;NA;0;Bordados_pequeño_NA
-Bordados;mediano;NA;0;Bordados_mediano_NA
+Bordados;mediano;NA;-5;Bordados_mediano_NA
 Bordados;grande;NA;0;Bordados_grande_NA
 Bordados;extra grande;NA;-4;Bordados_extra grande_NA
 Unicor;kids;6;2;Unicor_kids_6
@@ -623,10 +623,10 @@ Unicor;Teens;8;0;Unicor_Teens_8
 Unicor;Teens;10;2;Unicor_Teens_10
 Unicor;Teens;12;7;Unicor_Teens_12
 Unicor;Teens;14;9;Unicor_Teens_14
-Unicor;Teens;16;5;Unicor_Teens_16
-Unicor;Teens;S;0;Unicor_Teens_S
+Unicor;Teens;16;0;Unicor_Teens_16
+Unicor;Teens;S;-1;Unicor_Teens_S
 Unicor;Teens;M;3;Unicor_Teens_M
-Unicor;Teens;L;2;Unicor_Teens_L
+Unicor;Teens;L;1;Unicor_Teens_L
 Unicor;Teens;XL;1;Unicor_Teens_XL
 Unicor;Grown;6;0;Unicor_Grown_6
 Unicor;Grown;8;0;Unicor_Grown_8
@@ -641,17 +641,17 @@ Unicor;Grown;XL;0;Unicor_Grown_XL
 Antonio Narino;Camiseta diario/fisica;2;0;Antonio Narino_Camiseta diario/fisica_2
 Antonio Narino;Camiseta diario/fisica;4;13;Antonio Narino_Camiseta diario/fisica_4
 Antonio Narino;Camiseta diario/fisica;6;20;Antonio Narino_Camiseta diario/fisica_6
-Antonio Narino;Camiseta diario/fisica;8;7;Antonio Narino_Camiseta diario/fisica_8
+Antonio Narino;Camiseta diario/fisica;8;8;Antonio Narino_Camiseta diario/fisica_8
 Antonio Narino;Camiseta diario/fisica;10;4;Antonio Narino_Camiseta diario/fisica_10
 Antonio Narino;Camiseta diario/fisica;12;10;Antonio Narino_Camiseta diario/fisica_12
-Antonio Narino;Camiseta diario/fisica;14;9;Antonio Narino_Camiseta diario/fisica_14
-Antonio Narino;Camiseta diario/fisica;16;4;Antonio Narino_Camiseta diario/fisica_16
+Antonio Narino;Camiseta diario/fisica;14;8;Antonio Narino_Camiseta diario/fisica_14
+Antonio Narino;Camiseta diario/fisica;16;5;Antonio Narino_Camiseta diario/fisica_16
 Antonio Narino;Camiseta diario/fisica;S;10;Antonio Narino_Camiseta diario/fisica_S
 Antonio Narino;Camiseta diario/fisica;M;8;Antonio Narino_Camiseta diario/fisica_M
 Antonio Narino;Camiseta diario/fisica;L;4;Antonio Narino_Camiseta diario/fisica_L
 Antonio Narino;Camiseta diario/fisica;XL;0;Antonio Narino_Camiseta diario/fisica_XL
 Antonio Narino;bombacho;4;8;Antonio Narino_bombacho_4
-Antonio Narino;bombacho;6;11;Antonio Narino_bombacho_6
+Antonio Narino;bombacho;6;10;Antonio Narino_bombacho_6
 Antonio Narino;bombacho;8;4;Antonio Narino_bombacho_8
 Antonio Narino;bombacho;10;6;Antonio Narino_bombacho_10
 Antonio Narino;bombacho;12;11;Antonio Narino_bombacho_12
@@ -673,8 +673,8 @@ Pantalones Azules;eko;32;10;Pantalones Azules_eko_32
 Pantalones Azules;eko;34;9;Pantalones Azules_eko_34
 Pantalones Azules;eko;36;3;Pantalones Azules_eko_36
 Pantalones Azules;eko;38;3;Pantalones Azules_eko_38
-Pantalones Azules;intermedio;6;2;Pantalones Azules_intermedio_6
-Pantalones Azules;intermedio;8;21;Pantalones Azules_intermedio_8
+Pantalones Azules;intermedio;6;1;Pantalones Azules_intermedio_6
+Pantalones Azules;intermedio;8;22;Pantalones Azules_intermedio_8
 Pantalones Azules;intermedio;10;22;Pantalones Azules_intermedio_10
 Pantalones Azules;intermedio;12;8;Pantalones Azules_intermedio_12
 Pantalones Azules;intermedio;14;23;Pantalones Azules_intermedio_14
@@ -713,7 +713,7 @@ otros;Tapa Bocas;NA;0;otros_Tapa Bocas_NA
 otros;Gorro;NA;0;otros_Gorro_NA
 otros;Delantal;NA;0;otros_Delantal_NA
 otros;Conjunto Antifluido Eko;NA;0;otros_Conjunto Antifluido Eko_NA
-liceo pupo jimenez;Medias;12;-1;liceo pupo jimenez_Medias_12
+liceo pupo jimenez;Medias;12;-3;liceo pupo jimenez_Medias_12
 liceo universitario;medias;12;22;liceo universitario_medias_12
 Domicilios;A;NA;-6;Domicilios_A_NA
 Domicilios;B;NA;-6;Domicilios_B_NA
