@@ -46447,7 +46447,7 @@ BGT_CLE_46219----05-16-p. m.;jueves, 16 de julio de 2026;16;7;2026;conalco;bomba
 BGT_CLE_46219----05-16-p. m.;jueves, 16 de julio de 2026;16;7;2026;conalco;camiseta fisica;12;;;;;conalco_camiseta fisica_12;1;53000;53000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46219----06-07-p. m.;jueves, 16 de julio de 2026;16;7;2026;la inmaculada;camiseta fisica;S;;;;;la inmaculada_camiseta fisica_S;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46219----06-07-p. m.;jueves, 16 de julio de 2026;16;7;2026;la inmaculada;bombacho;S;;;;;la inmaculada_bombacho_S;1;60000;60000;PAGADA / CERRADA;NO;VENTA;NA;0
-BGT_CLE_46220--3107367256-1863-08-29-a. m.;viernes, 17 de julio de 2026;17;7;2026;antifluido;La Fayette;XL;;;;;antifluido_La Fayette_XL;2;140000;280000;PAGADA / CERRADA;SI;VENTA;NA;fiameth romero
+BGT_CLE_46220--3107367256-1863-08-29-a. m.;viernes, 17 de julio de 2026;17;7;2026;antifluido;La Fayette;XL;;;;;antifluido_La Fayette_XL;2;140000;280000;PAGADA / CERRADA;NO;VENTA;NA;fiameth romero
 BGT_CLE_46220----10-43-a. m.;viernes, 17 de julio de 2026;17;7;2026;conalco;bombacho;12;;;;;conalco_bombacho_12;1;61000;61000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46220----10-43-a. m.;viernes, 17 de julio de 2026;17;7;2026;conalco;camiseta fisica;12;;;;;conalco_camiseta fisica_12;1;53000;53000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46220----11-08-a. m.;viernes, 17 de julio de 2026;17;7;2026;liceo pupo jimenez;camiseta diario;S;;;;;liceo pupo jimenez_camiseta diario_S;1;53000;53000;PAGADA / CERRADA;NO;VENTA;NA;0
@@ -46820,3 +46820,17 @@ BC_JCG_46249----11-42-a. m.;sábado, 15 de agosto de 2026;15;8;2026;Unicor;Teens
 BC_JCG_46249----01-23-p. m.;sábado, 15 de agosto de 2026;15;8;2026;la inmaculada;bombacho;M;;;;;la inmaculada_bombacho_M;1;60000;60000;PAGADA / CERRADA;NO;VENTA;NA;0
 BC_JCG_46249----01-23-p. m.;sábado, 15 de agosto de 2026;15;8;2026;la inmaculada;camiseta fisica;S;;;;;la inmaculada_camiseta fisica_S;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
 BC_JCG_46249----01-32-p. m.;sábado, 15 de agosto de 2026;15;8;2026;Unicor;Teens;L;;;;;Unicor_Teens_L;1;64000;64000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----10-19-a. m.;martes, 18 de agosto de 2026;18;8;2026;gimnasio vallegrande;pantaloneta;L;;;;;gimnasio vallegrande_pantaloneta_L;1;44000;44000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----11-25-a. m.;martes, 18 de agosto de 2026;18;8;2026;la inmaculada;blusa;S;;;;;la inmaculada_blusa_S;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----12-21-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;guayabera;10;;;;;conalco_guayabera_10;1;56000;56000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----12-32-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;camiseta fisica;S;;;;;conalco_camiseta fisica_S;1;58000;58000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----12-32-p. m.;martes, 18 de agosto de 2026;18;8;2026;Domicilios;B;NA;;;;;Domicilios_B_NA;1;8000;8000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----12-46-p. m.;martes, 18 de agosto de 2026;18;8;2026;la inmaculada;camiseta fisica;10;;;;;la inmaculada_camiseta fisica_10;1;41000;41000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----01-02-p. m.;martes, 18 de agosto de 2026;18;8;2026;Pantalones Azules;intermedio;12;;;;;Pantalones Azules_intermedio_12;2;62000;124000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----01-02-p. m.;martes, 18 de agosto de 2026;18;8;2026;liceo pupo jimenez;camiseta diario;12;;;;;liceo pupo jimenez_camiseta diario_12;1;48000;48000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----03-03-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;camiseta fisica;M;;;;;conalco_camiseta fisica_M;1;58000;58000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----03-03-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;bombacho;M;;;;;conalco_bombacho_M;1;68000;68000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----03-26-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;camiseta fisica;12;;;;;conalco_camiseta fisica_12;1;53000;53000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----03-29-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;bombacho;XL;;;;;conalco_bombacho_XL;1;69000;69000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----03-43-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;camiseta fisica;16;;;;;conalco_camiseta fisica_16;1;54000;54000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46252----03-43-p. m.;martes, 18 de agosto de 2026;18;8;2026;conalco;bombacho;S;;;;;conalco_bombacho_S;1;68000;68000;PAGADA / CERRADA;NO;VENTA;NA;0
