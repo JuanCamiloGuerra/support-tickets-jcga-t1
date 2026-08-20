@@ -1,12 +1,28 @@
 import math
 import re
 import unicodedata
+from io import BytesIO
 from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
+from reportlab.lib import colors
+from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
+from reportlab.lib.pagesizes import letter, landscape
+from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
+from reportlab.lib.units import cm
+from reportlab.platypus import (
+    BaseDocTemplate,
+    Frame,
+    PageBreak,
+    PageTemplate,
+    Paragraph,
+    Spacer,
+    Table,
+    TableStyle,
+)
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
@@ -364,6 +380,200 @@ def color_order_cells(value):
     return ""
 
 
+def pdf_page_number(canvas, doc):
+    canvas.saveState()
+    canvas.setFont("Helvetica", 7)
+    canvas.setFillColor(colors.HexColor("#666666"))
+    canvas.drawRightString(
+        doc.pagesize[0] - 0.8 * cm,
+        0.55 * cm,
+        f"Pagina {doc.page}",
+    )
+    canvas.restoreState()
+
+
+def make_paragraph(text, style):
+    return Paragraph(str(text), style)
+
+
+def dataframe_chunks(df, rows_per_page=27):
+    for start in range(0, len(df), rows_per_page):
+        yield df.iloc[start : start + rows_per_page]
+
+
+def build_pdf_download(order_df, total_units, total_rows, total_skus):
+    buffer = BytesIO()
+    doc = BaseDocTemplate(
+        buffer,
+        pagesize=landscape(letter),
+        leftMargin=0.7 * cm,
+        rightMargin=0.7 * cm,
+        topMargin=0.7 * cm,
+        bottomMargin=0.85 * cm,
+        title="Orden de produccion",
+    )
+    frame = Frame(
+        doc.leftMargin,
+        doc.bottomMargin,
+        doc.width,
+        doc.height,
+        id="normal",
+    )
+    doc.addPageTemplates(
+        [
+            PageTemplate(
+                id="page",
+                frames=[frame],
+                onPage=pdf_page_number,
+            )
+        ]
+    )
+
+    styles = getSampleStyleSheet()
+    title_style = ParagraphStyle(
+        "TitleDYUNIC",
+        parent=styles["Title"],
+        fontName="Helvetica-Bold",
+        fontSize=14,
+        leading=17,
+        textColor=colors.HexColor("#1f2933"),
+        alignment=TA_LEFT,
+    )
+    body_style = ParagraphStyle(
+        "BodyDYUNIC",
+        parent=styles["BodyText"],
+        fontSize=7.5,
+        leading=9,
+    )
+    header_style = ParagraphStyle(
+        "HeaderDYUNIC",
+        parent=styles["BodyText"],
+        fontName="Helvetica-Bold",
+        fontSize=6.5,
+        leading=8,
+        textColor=colors.white,
+        alignment=TA_CENTER,
+    )
+    left_cell_style = ParagraphStyle(
+        "LeftCellDYUNIC",
+        parent=styles["BodyText"],
+        fontSize=6.3,
+        leading=7.5,
+        alignment=TA_LEFT,
+    )
+    number_cell_style = ParagraphStyle(
+        "NumberCellDYUNIC",
+        parent=styles["BodyText"],
+        fontSize=6.3,
+        leading=7.5,
+        alignment=TA_RIGHT,
+    )
+
+    story = []
+    columns = list(order_df.columns)
+
+    for page_index, chunk in enumerate(dataframe_chunks(order_df), start=1):
+        title = "Orden de produccion - cierre de año"
+        if page_index > 1:
+            title += " (continuacion)"
+
+        story.append(make_paragraph(title, title_style))
+        story.append(
+            make_paragraph(
+                (
+                    f"Generado: {datetime.now():%Y-%m-%d %H:%M} | "
+                    f"Unidades: {total_units:,} | "
+                    f"Filas: {total_rows:,} | "
+                    f"Referencias/tallas: {total_skus:,}"
+                ),
+                body_style,
+            )
+        )
+        story.append(Spacer(1, 0.12 * cm))
+
+        data = [[make_paragraph(column.replace("_", " "), header_style) for column in columns]]
+        for _, row in chunk.iterrows():
+            data.append(
+                [
+                    make_paragraph(row[columns[0]], left_cell_style),
+                    *[
+                        make_paragraph(
+                            "" if int(row[column]) == 0 else f"{int(row[column]):,}",
+                            number_cell_style,
+                        )
+                        for column in columns[1:]
+                    ],
+                ]
+            )
+
+        first_width = 6.9 * cm
+        remaining_width = doc.width - first_width
+        size_width = max(0.75 * cm, remaining_width / max(1, len(columns) - 1))
+        table = Table(
+            data,
+            repeatRows=1,
+            colWidths=[first_width] + [size_width] * (len(columns) - 1),
+        )
+        commands = [
+            ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#243b53")),
+            ("GRID", (0, 0), (-1, -1), 0.2, colors.HexColor("#cbd2d9")),
+            ("ROWBACKGROUNDS", (0, 1), (-1, -1), [colors.white, colors.HexColor("#f7f9fb")]),
+            ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+            ("LEFTPADDING", (0, 0), (-1, -1), 2),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 2),
+            ("TOPPADDING", (0, 0), (-1, -1), 1.5),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 1.5),
+        ]
+
+        for row_index, (_, row) in enumerate(chunk.iterrows(), start=1):
+            for column_index, column in enumerate(columns[1:], start=1):
+                value = int(row[column])
+                if value > 15:
+                    commands.append(
+                        (
+                            "BACKGROUND",
+                            (column_index, row_index),
+                            (column_index, row_index),
+                            colors.HexColor("#f8d7da"),
+                        )
+                    )
+                    commands.append(
+                        (
+                            "TEXTCOLOR",
+                            (column_index, row_index),
+                            (column_index, row_index),
+                            colors.HexColor("#8a1f2d"),
+                        )
+                    )
+                elif value > 10:
+                    commands.append(
+                        (
+                            "BACKGROUND",
+                            (column_index, row_index),
+                            (column_index, row_index),
+                            colors.HexColor("#fff3cd"),
+                        )
+                    )
+                    commands.append(
+                        (
+                            "TEXTCOLOR",
+                            (column_index, row_index),
+                            (column_index, row_index),
+                            colors.HexColor("#664d03"),
+                        )
+                    )
+
+        table.setStyle(TableStyle(commands))
+        story.append(table)
+
+        if page_index < math.ceil(len(order_df) / 27):
+            story.append(PageBreak())
+
+    doc.build(story)
+    buffer.seek(0)
+    return buffer.getvalue()
+
+
 if st.button("🔄 Refresh", type="primary"):
     st.rerun()
 
@@ -412,6 +622,19 @@ numeric_columns = [
 
 display_df = order_df.copy()
 display_df[numeric_columns] = display_df[numeric_columns].astype(int)
+
+pdf_bytes = build_pdf_download(
+    display_df,
+    total_units=total_units,
+    total_rows=total_rows,
+    total_skus=total_skus,
+)
+st.download_button(
+    "📄 Descargar PDF carta horizontal",
+    data=pdf_bytes,
+    file_name=f"orden_produccion_{datetime.now():%Y%m%d_%H%M}.pdf",
+    mime="application/pdf",
+)
 
 styled_df = (
     display_df
