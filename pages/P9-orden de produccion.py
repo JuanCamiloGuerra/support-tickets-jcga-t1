@@ -48,7 +48,7 @@ components.html(
     <script>
         setTimeout(function() {
             window.parent.location.reload();
-        }, 20000);
+        }, 300000);
     </script>
     """,
     height=0,
