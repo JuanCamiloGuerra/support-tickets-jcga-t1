@@ -1,0 +1,166 @@
+﻿mes,colegio,articulo,talla,inventario,pronostico,stock_minimo,orden_produccion,producto_colegio
+8,colsafa,bombacho,L,2,2,1,1,bombacho_colsafa
+8,colsafa,bombacho,S,2,3,1,2,bombacho_colsafa
+8,colsafa,camiseta externa,10,0,1,1,2,camiseta externa_colsafa
+8,colsafa,camiseta externa,12,0,1,1,2,camiseta externa_colsafa
+8,colsafa,camiseta externa,14,0,5,1,6,camiseta externa_colsafa
+8,colsafa,camiseta externa,L,0,2,1,3,camiseta externa_colsafa
+8,colsafa,camiseta externa,M,0,3,1,4,camiseta externa_colsafa
+8,colsafa,camiseta externa,S,0,2,1,3,camiseta externa_colsafa
+8,colsafa,camiseta interna,14,0,1,1,2,camiseta interna_colsafa
+8,colsafa,camiseta interna,16,0,2,1,3,camiseta interna_colsafa
+8,colsafa,pantalon,10,0,2,1,3,pantalon_colsafa
+8,colsafa,pantalon,28,0,1,1,2,pantalon_colsafa
+8,colsafa,pantalon,6,0,1,1,2,pantalon_colsafa
+8,colsafa,pantalon,8,0,1,1,2,pantalon_colsafa
+8,colsafa,pantaloneta,14,0,1,1,2,pantaloneta_colsafa
+8,colsafa,pantaloneta,M,0,1,1,2,pantaloneta_colsafa
+8,conalco,bombacho,16,6,6,6,6,bombacho_conalco
+8,conalco,bombacho,L,4,3,3,2,bombacho_conalco
+8,conalco,bombacho,S,14,8,7,1,bombacho_conalco
+8,conalco,camiseta fisica,16,2,4,4,6,camiseta fisica_conalco
+8,conalco,pantalon,10,0,1,3,4,pantalon_conalco
+8,conalco,pantalon,12,0,3,2,5,pantalon_conalco
+8,conalco,pantalon,14,0,3,1,4,pantalon_conalco
+8,conalco,pantalon,16,0,2,3,5,pantalon_conalco
+8,conalco,pantalon,28,1,2,1,2,pantalon_conalco
+8,conalco,pantalon,32,1,2,1,2,pantalon_conalco
+8,gimnasio plaza feliz,blusa,16,0,1,1,2,blusa_gimnasio plaza feliz
+8,gimnasio plaza feliz,bombacho,6,1,1,1,1,bombacho_gimnasio plaza feliz
+8,gimnasio plaza feliz,camiseta fisica,8,1,1,1,1,camiseta fisica_gimnasio plaza feliz
+8,gimnasio plaza feliz,camiseta fisica,S,0,1,1,2,camiseta fisica_gimnasio plaza feliz
+8,gimnasio plaza feliz,guayabera,14,1,1,1,1,guayabera_gimnasio plaza feliz
+8,gimnasio vallegrande,camiseta de fisica externa,8,0,1,1,2,camiseta de fisica externa_gimnasio vallegrande
+8,gimnasio vallegrande,camiseta de fisica interna,12,0,1,1,2,camiseta de fisica interna_gimnasio vallegrande
+8,gimnasio vallegrande,pantaloneta,16,3,1,3,1,pantaloneta_gimnasio vallegrande
+8,hogar,bombacho fisica,4,0,4,2,6,bombacho fisica_hogar
+8,hogar,camiseta fisica,4,5,5,2,2,camiseta fisica_hogar
+8,hogar,camiseta fisica,6,2,3,1,2,camiseta fisica_hogar
+8,la inmaculada,blusa,14,0,4,2,6,blusa_la inmaculada
+8,la inmaculada,blusa,16,3,3,1,1,blusa_la inmaculada
+8,la inmaculada,blusa,S,1,1,1,1,blusa_la inmaculada
+8,la inmaculada,camiseta fisica,10,5,5,2,2,camiseta fisica_la inmaculada
+8,liceo pupo jimenez,bermuda,2,0,1,1,2,bermuda_liceo pupo jimenez
+8,liceo pupo jimenez,bombacho,12,0,3,4,7,bombacho_liceo pupo jimenez
+8,liceo pupo jimenez,bombacho,8,0,2,5,7,bombacho_liceo pupo jimenez
+8,liceo pupo jimenez,bombacho,M,1,1,3,3,bombacho_liceo pupo jimenez
+8,liceo pupo jimenez,camiseta diario,10,5,3,3,1,camiseta diario_liceo pupo jimenez
+8,liceo pupo jimenez,camiseta fisica,12,6,2,7,3,camiseta fisica_liceo pupo jimenez
+8,liceo pupo jimenez,falda,S,0,1,1,2,falda_liceo pupo jimenez
+8,liceo pupo jimenez,pantalon,10,0,1,1,2,pantalon_liceo pupo jimenez
+8,liceo pupo jimenez,pantalon,12,0,4,1,5,pantalon_liceo pupo jimenez
+8,liceo pupo jimenez,pantalon,14,0,1,1,2,pantalon_liceo pupo jimenez
+8,liceo pupo jimenez,pantalon,34,0,1,1,2,pantalon_liceo pupo jimenez
+8,liceo universitario,bombacho,16,0,2,4,6,bombacho_liceo universitario
+8,liceo universitario,bombacho,S,2,3,1,2,bombacho_liceo universitario
+8,liceo universitario,camiseta fisica,10,3,1,7,5,camiseta fisica_liceo universitario
+8,liceo universitario,camiseta fisica,S,0,2,5,7,camiseta fisica_liceo universitario
+8,liceo universitario,pantalon,16,2,2,1,1,pantalon_liceo universitario
+8,nuestra senora del carmen,camiseta fisica,12,0,1,1,2,camiseta fisica_nuestra senora del carmen
+8,nuestra senora del carmen,pantalon,12,0,2,1,3,pantalon_nuestra senora del carmen
+8,colsafa,pantalon,32,0,1,1,2,pantalon_colsafa
+8,conalco,blusa,14,1,3,1,3,blusa_conalco
+8,conalco,blusa,16,3,3,1,1,blusa_conalco
+8,conalco,falda,12,0,4,2,6,falda_conalco
+8,conalco,falda,16,0,1,1,2,falda_conalco
+8,conalco,falda,M,0,1,1,2,falda_conalco
+8,conalco,pantalon,8,0,1,2,3,pantalon_conalco
+8,gimnasio plaza feliz,blusa,8,2,3,1,2,blusa_gimnasio plaza feliz
+8,gimnasio plaza feliz,bombacho,8,0,1,1,2,bombacho_gimnasio plaza feliz
+8,gimnasio plaza feliz,guayabera,10,1,2,1,2,guayabera_gimnasio plaza feliz
+8,gimnasio vallegrande,bombacho dama,12,1,1,1,1,bombacho dama_gimnasio vallegrande
+8,liceo pupo jimenez,blusa,16,5,5,2,2,blusa_liceo pupo jimenez
+8,liceo pupo jimenez,blusa,8,1,1,1,1,blusa_liceo pupo jimenez
+8,liceo pupo jimenez,blusa,L,0,1,1,2,blusa_liceo pupo jimenez
+8,liceo pupo jimenez,pantalon,28,0,1,1,2,pantalon_liceo pupo jimenez
+8,liceo pupo jimenez,pantalon,8,0,1,1,2,pantalon_liceo pupo jimenez
+8,liceo universitario,bombacho,10,0,1,1,2,bombacho_liceo universitario
+8,liceo universitario,camiseta fisica,16,2,1,5,4,camiseta fisica_liceo universitario
+8,liceo universitario,guayabera,10,0,1,1,2,guayabera_liceo universitario
+8,nuestra senora del carmen,blusa,4,0,1,1,2,blusa_nuestra senora del carmen
+8,nuestra senora del carmen,cordon,6,0,1,1,2,cordon_nuestra senora del carmen
+8,colsafa,guayabera,14,2,4,3,5,guayabera_colsafa
+8,gimnasio plaza feliz,jumper,8,0,1,1,2,jumper_gimnasio plaza feliz
+8,la inmaculada,jumper,M,0,1,1,2,jumper_la inmaculada
+8,liceo universitario,blusa,S,0,1,1,2,blusa_liceo universitario
+8,liceo universitario,falda,16,0,1,1,2,falda_liceo universitario
+8,nuestra senora del carmen,bombacho,L,0,2,1,3,bombacho_nuestra senora del carmen
+8,nuestra senora del carmen,camiseta fisica,M,0,4,2,6,camiseta fisica_nuestra senora del carmen
+8,nuestra senora del carmen,cordon,4,0,1,1,2,cordon_nuestra senora del carmen
+8,nuestra senora del carmen,guayabera,L,1,2,1,2,guayabera_nuestra senora del carmen
+8,nuestra senora del carmen,guayabera,S,0,1,1,2,guayabera_nuestra senora del carmen
+8,nuestra senora del carmen,pantalon,16,0,1,1,2,pantalon_nuestra senora del carmen
+8,pantalones azules,intermedio,36,1,1,1,1,intermedio_pantalones azules
+8,colsafa,camiseta fisica,16,1,1,1,1,camiseta fisica_colsafa
+8,conalco,camiseta fisica,4,0,1,1,2,camiseta fisica_conalco
+8,conalco,pantalon,36,0,1,1,2,pantalon_conalco
+8,gimnasio plaza feliz,camiseta fisica,16,0,1,1,2,camiseta fisica_gimnasio plaza feliz
+8,gimnasio vallegrande,falda,10,0,1,1,2,falda_gimnasio vallegrande
+8,gimnasio vallegrande,falda,14,0,1,1,2,falda_gimnasio vallegrande
+8,gimnasio vallegrande,falda,L,0,1,1,2,falda_gimnasio vallegrande
+8,gimnasio vallegrande,falda,S,0,1,1,2,falda_gimnasio vallegrande
+8,la inmaculada,jumper,12,0,3,1,4,jumper_la inmaculada
+8,la inmaculada,jumper,16,0,1,1,2,jumper_la inmaculada
+8,la inmaculada,jumper,8,0,1,1,2,jumper_la inmaculada
+8,liceo pupo jimenez,falda,8,0,1,1,2,falda_liceo pupo jimenez
+8,nuestra senora del carmen,guayabera,16,0,2,1,3,guayabera_nuestra senora del carmen
+8,nuestra senora del carmen,jumper,12,0,1,1,2,jumper_nuestra senora del carmen
+9,colsafa,camiseta externa,16,0,1,1,2,camiseta externa_colsafa
+9,colsafa,camiseta interna,14,0,2,1,3,camiseta interna_colsafa
+9,colsafa,pantalon,10,0,1,1,2,pantalon_colsafa
+9,colsafa,pantalon,12,0,2,1,3,pantalon_colsafa
+9,colsafa,pantalon,14,0,1,1,2,pantalon_colsafa
+9,colsafa,pantalon,30,0,1,1,2,pantalon_colsafa
+9,colsafa,pantalon,6,0,1,1,2,pantalon_colsafa
+9,colsafa,pantalon,8,0,3,1,4,pantalon_colsafa
+9,conalco,blusa,14,1,1,1,1,blusa_conalco
+9,conalco,blusa,16,3,4,2,3,blusa_conalco
+9,conalco,bombacho,16,6,6,3,3,bombacho_conalco
+9,conalco,camiseta fisica,16,2,2,1,1,camiseta fisica_conalco
+9,conalco,camiseta fisica,S,7,2,9,4,camiseta fisica_conalco
+9,conalco,pantalon,14,0,2,1,3,pantalon_conalco
+9,gimnasio plaza feliz,camiseta fisica,S,0,1,1,2,camiseta fisica_gimnasio plaza feliz
+9,gimnasio plaza feliz,jumper,8,0,1,1,2,jumper_gimnasio plaza feliz
+9,hogar,bombacho fisica,4,0,5,5,10,bombacho fisica_hogar
+9,hogar,camiseta fisica,4,5,6,4,5,camiseta fisica_hogar
+9,la inmaculada,blusa,14,0,2,1,3,blusa_la inmaculada
+9,la inmaculada,camiseta fisica,10,5,1,5,1,camiseta fisica_la inmaculada
+9,liceo pupo jimenez,bombacho,12,0,1,3,4,bombacho_liceo pupo jimenez
+9,liceo pupo jimenez,bombacho,M,1,2,1,2,bombacho_liceo pupo jimenez
+9,liceo pupo jimenez,camiseta fisica,M,9,1,9,1,camiseta fisica_liceo pupo jimenez
+9,liceo pupo jimenez,falda,12,0,1,1,2,falda_liceo pupo jimenez
+9,liceo pupo jimenez,falda,8,0,2,1,3,falda_liceo pupo jimenez
+9,liceo pupo jimenez,pantalon,12,0,2,1,3,pantalon_liceo pupo jimenez
+9,liceo pupo jimenez,pantalon,28,0,1,1,2,pantalon_liceo pupo jimenez
+9,liceo pupo jimenez,pantalon,30,0,1,1,2,pantalon_liceo pupo jimenez
+9,liceo pupo jimenez,pantalon,32,0,3,1,4,pantalon_liceo pupo jimenez
+9,liceo pupo jimenez,pantalon,36,0,1,1,2,pantalon_liceo pupo jimenez
+9,liceo pupo jimenez,pantalon,8,0,3,1,4,pantalon_liceo pupo jimenez
+9,liceo universitario,blusa,S,0,1,1,2,blusa_liceo universitario
+9,nuestra senora del carmen,blusa,4,0,2,1,3,blusa_nuestra senora del carmen
+9,nuestra senora del carmen,camiseta fisica,2,0,1,1,2,camiseta fisica_nuestra senora del carmen
+9,colsafa,guayabera,L,3,3,5,5,guayabera_colsafa
+9,colsafa,pantalon,28,0,2,1,3,pantalon_colsafa
+9,conalco,pantalon,10,0,1,1,2,pantalon_conalco
+9,conalco,pantalon,16,0,4,1,5,pantalon_conalco
+9,conalco,pantalon,34,1,1,1,1,pantalon_conalco
+9,gimnasio plaza feliz,bombacho,6,1,1,1,1,bombacho_gimnasio plaza feliz
+9,gimnasio plaza feliz,bombacho,8,0,2,1,3,bombacho_gimnasio plaza feliz
+9,gimnasio plaza feliz,camiseta fisica,8,1,2,1,2,camiseta fisica_gimnasio plaza feliz
+9,gimnasio plaza feliz,guayabera,XL,1,1,1,1,guayabera_gimnasio plaza feliz
+9,gimnasio plaza feliz,jumper,12,0,1,1,2,jumper_gimnasio plaza feliz
+9,gimnasio vallegrande,bombacho dama,12,1,1,1,1,bombacho dama_gimnasio vallegrande
+9,gimnasio vallegrande,camiseta de fisica interna,12,0,1,1,2,camiseta de fisica interna_gimnasio vallegrande
+9,la inmaculada,blusa,S,1,2,3,4,blusa_la inmaculada
+9,la inmaculada,jumper,6,0,1,1,2,jumper_la inmaculada
+9,liceo pupo jimenez,blusa,L,0,2,1,3,blusa_liceo pupo jimenez
+9,liceo universitario,bombacho,16,0,1,1,2,bombacho_liceo universitario
+9,nuestra senora del carmen,guayabera,S,0,1,1,2,guayabera_nuestra senora del carmen
+9,conalco,pantalon,28,1,5,2,6,pantalon_conalco
+9,gimnasio plaza feliz,guayabera,10,1,1,1,1,guayabera_gimnasio plaza feliz
+9,gimnasio plaza feliz,jumper,16,0,1,1,2,jumper_gimnasio plaza feliz
+9,la inmaculada,bombacho,4,0,1,1,2,bombacho_la inmaculada
+9,nuestra senora del carmen,camiseta fisica,M,0,1,1,2,camiseta fisica_nuestra senora del carmen
+9,liceo pupo jimenez,bombacho,4,0,1,1,2,bombacho_liceo pupo jimenez
+9,nuestra senora del carmen,camiseta fisica,12,0,1,1,2,camiseta fisica_nuestra senora del carmen
+8,colsafa,falda,16,0,2,1,3,falda_colsafa
