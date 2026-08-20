@@ -4,6 +4,7 @@ import unicodedata
 from io import BytesIO
 from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 import streamlit as st
@@ -49,6 +50,7 @@ TARGET_SCHOOLS = [
 ]
 
 EXCLUDED_PRODUCT_WORDS = ["medias"]
+BOGOTA_TZ = ZoneInfo("America/Bogota")
 
 
 st.set_page_config(
@@ -143,6 +145,18 @@ def round_up_to_5(value):
     if value <= 0:
         return 0
     return int(math.ceil(value / 5) * 5)
+
+
+def now_bogota():
+    return datetime.now(BOGOTA_TZ)
+
+
+def file_updated_at_bogota(path):
+    return datetime.fromtimestamp(path.stat().st_mtime, BOGOTA_TZ)
+
+
+def format_bogota(dt_value):
+    return dt_value.astimezone(BOGOTA_TZ).strftime("%Y-%m-%d %H:%M:%S")
 
 
 def load_data():
@@ -401,7 +415,14 @@ def dataframe_chunks(df, rows_per_page=27):
         yield df.iloc[start : start + rows_per_page]
 
 
-def build_pdf_download(order_df, total_units, total_rows, total_skus):
+def build_pdf_download(
+    visible_order_df,
+    total_units,
+    total_rows,
+    total_skus,
+    generated_at,
+    data_updated_at,
+):
     buffer = BytesIO()
     doc = BaseDocTemplate(
         buffer,
@@ -470,9 +491,9 @@ def build_pdf_download(order_df, total_units, total_rows, total_skus):
     )
 
     story = []
-    columns = list(order_df.columns)
+    columns = list(visible_order_df.columns)
 
-    for page_index, chunk in enumerate(dataframe_chunks(order_df), start=1):
+    for page_index, chunk in enumerate(dataframe_chunks(visible_order_df), start=1):
         title = "Orden de produccion - cierre de año"
         if page_index > 1:
             title += " (continuacion)"
@@ -481,7 +502,8 @@ def build_pdf_download(order_df, total_units, total_rows, total_skus):
         story.append(
             make_paragraph(
                 (
-                    f"Generado: {datetime.now():%Y-%m-%d %H:%M} | "
+                    f"Descarga/generacion: {format_bogota(generated_at)} Bogota | "
+                    f"Datos actualizados: {format_bogota(data_updated_at)} Bogota | "
                     f"Unidades: {total_units:,} | "
                     f"Filas: {total_rows:,} | "
                     f"Referencias/tallas: {total_skus:,}"
@@ -566,7 +588,7 @@ def build_pdf_download(order_df, total_units, total_rows, total_skus):
         table.setStyle(TableStyle(commands))
         story.append(table)
 
-        if page_index < math.ceil(len(order_df) / 27):
+        if page_index < math.ceil(len(visible_order_df) / 27):
             story.append(PageBreak())
 
     doc.build(story)
@@ -579,12 +601,9 @@ if st.button("🔄 Refresh", type="primary"):
 
 detail_df, order_df = build_order()
 
-ventas_updated_at = datetime.fromtimestamp(
-    VENTAS_PATH.stat().st_mtime
-).strftime("%Y-%m-%d %H:%M:%S")
-inventario_updated_at = datetime.fromtimestamp(
-    INVENTARIO_PATH.stat().st_mtime
-).strftime("%Y-%m-%d %H:%M:%S")
+ventas_updated_at = file_updated_at_bogota(VENTAS_PATH)
+inventario_updated_at = file_updated_at_bogota(INVENTARIO_PATH)
+data_updated_at = max(ventas_updated_at, inventario_updated_at)
 
 if detail_df.empty:
     st.warning("No hay necesidades de produccion con los datos actuales.")
@@ -610,8 +629,9 @@ st.caption(
     "inventarios negativos tratados como cero y redondeo hacia arriba a multiplos de 5."
 )
 st.caption(
-    f"Datos leidos directamente de CSV. ventas_df: {ventas_updated_at} | "
-    f"inventario: {inventario_updated_at}"
+    f"Ultima actualizacion de datos: {format_bogota(data_updated_at)} Bogota | "
+    f"ventas_df: {format_bogota(ventas_updated_at)} | "
+    f"inventario: {format_bogota(inventario_updated_at)}"
 )
 
 numeric_columns = [
@@ -623,17 +643,25 @@ numeric_columns = [
 display_df = order_df.copy()
 display_df[numeric_columns] = display_df[numeric_columns].astype(int)
 
+pdf_generated_at = now_bogota()
 pdf_bytes = build_pdf_download(
     display_df,
     total_units=total_units,
     total_rows=total_rows,
     total_skus=total_skus,
+    generated_at=pdf_generated_at,
+    data_updated_at=data_updated_at,
 )
 st.download_button(
-    "📄 Descargar PDF carta horizontal",
+    "📄 Descargar esta tabla en PDF carta horizontal",
     data=pdf_bytes,
-    file_name=f"orden_produccion_{datetime.now():%Y%m%d_%H%M}.pdf",
+    file_name=f"orden_produccion_{pdf_generated_at:%Y%m%d_%H%M%S}.pdf",
     mime="application/pdf",
+    help=(
+        "El PDF usa hora de Bogota, muestra la hora de generacion/descarga "
+        "y la ultima actualizacion de datos."
+    ),
+    on_click="rerun",
 )
 
 styled_df = (
