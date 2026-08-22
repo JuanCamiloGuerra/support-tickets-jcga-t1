@@ -50,8 +50,8 @@ liceo pupo jimenez;camiseta fisica;XL;1;liceo pupo jimenez_camiseta fisica_XL
 liceo pupo jimenez;bombacho;2;2;liceo pupo jimenez_bombacho_2
 liceo pupo jimenez;bombacho;4;0;liceo pupo jimenez_bombacho_4
 liceo pupo jimenez;bombacho;6;9;liceo pupo jimenez_bombacho_6
-liceo pupo jimenez;bombacho;8;0;liceo pupo jimenez_bombacho_8
-liceo pupo jimenez;bombacho;10;16;liceo pupo jimenez_bombacho_10
+liceo pupo jimenez;bombacho;8;1;liceo pupo jimenez_bombacho_8
+liceo pupo jimenez;bombacho;10;15;liceo pupo jimenez_bombacho_10
 liceo pupo jimenez;bombacho;12;0;liceo pupo jimenez_bombacho_12
 liceo pupo jimenez;bombacho;14;2;liceo pupo jimenez_bombacho_14
 liceo pupo jimenez;bombacho;16;36;liceo pupo jimenez_bombacho_16
@@ -351,7 +351,7 @@ gimnasio vallegrande;bombacho hombre;8;7;gimnasio vallegrande_bombacho hombre_8
 gimnasio vallegrande;bombacho hombre;10;3;gimnasio vallegrande_bombacho hombre_10
 gimnasio vallegrande;bombacho hombre;12;3;gimnasio vallegrande_bombacho hombre_12
 gimnasio vallegrande;bombacho hombre;14;10;gimnasio vallegrande_bombacho hombre_14
-gimnasio vallegrande;bombacho hombre;16;7;gimnasio vallegrande_bombacho hombre_16
+gimnasio vallegrande;bombacho hombre;16;6;gimnasio vallegrande_bombacho hombre_16
 gimnasio vallegrande;bombacho hombre;S;5;gimnasio vallegrande_bombacho hombre_S
 gimnasio vallegrande;bombacho hombre;M;6;gimnasio vallegrande_bombacho hombre_M
 gimnasio vallegrande;bombacho hombre;L;2;gimnasio vallegrande_bombacho hombre_L
@@ -523,7 +523,7 @@ conalco;bombacho;10;15;conalco_bombacho_10
 conalco;bombacho;12;18;conalco_bombacho_12
 conalco;bombacho;14;15;conalco_bombacho_14
 conalco;bombacho;16;3;conalco_bombacho_16
-conalco;bombacho;S;13;conalco_bombacho_S
+conalco;bombacho;S;11;conalco_bombacho_S
 conalco;bombacho;M;14;conalco_bombacho_M
 conalco;bombacho;L;2;conalco_bombacho_L
 conalco;bombacho;XL;7;conalco_bombacho_XL
@@ -586,7 +586,7 @@ la inmaculada;bombacho;6;5;la inmaculada_bombacho_6
 la inmaculada;bombacho;8;31;la inmaculada_bombacho_8
 la inmaculada;bombacho;10;17;la inmaculada_bombacho_10
 la inmaculada;bombacho;12;25;la inmaculada_bombacho_12
-la inmaculada;bombacho;14;16;la inmaculada_bombacho_14
+la inmaculada;bombacho;14;15;la inmaculada_bombacho_14
 la inmaculada;bombacho;16;21;la inmaculada_bombacho_16
 la inmaculada;bombacho;S;16;la inmaculada_bombacho_S
 la inmaculada;bombacho;M;20;la inmaculada_bombacho_M
@@ -606,7 +606,7 @@ hogar;bombacho fisica;4;0;hogar_bombacho fisica_4
 hogar;bombacho fisica;6;8;hogar_bombacho fisica_6
 Bordados;pequeño;NA;0;Bordados_pequeño_NA
 Bordados;mediano;NA;-5;Bordados_mediano_NA
-Bordados;grande;NA;0;Bordados_grande_NA
+Bordados;grande;NA;-1;Bordados_grande_NA
 Bordados;extra grande;NA;-4;Bordados_extra grande_NA
 Unicor;kids;6;2;Unicor_kids_6
 Unicor;kids;8;7;Unicor_kids_8
@@ -716,7 +716,7 @@ otros;Conjunto Antifluido Eko;NA;0;otros_Conjunto Antifluido Eko_NA
 liceo pupo jimenez;Medias;12;-3;liceo pupo jimenez_Medias_12
 liceo universitario;medias;12;22;liceo universitario_medias_12
 Domicilios;A;NA;-6;Domicilios_A_NA
-Domicilios;B;NA;-8;Domicilios_B_NA
+Domicilios;B;NA;-9;Domicilios_B_NA
 Domicilios;C;NA;0;Domicilios_C_NA
 Policia;blusa;2;0;Policia_blusa_2
 Policia;blusa;4;0;Policia_blusa_4
