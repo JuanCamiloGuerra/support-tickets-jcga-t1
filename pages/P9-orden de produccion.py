@@ -415,6 +415,118 @@ def dataframe_chunks(df, rows_per_page=27):
         yield df.iloc[start : start + rows_per_page]
 
 
+def build_excel_download(
+    visible_order_df,
+    total_units,
+    total_rows,
+    total_skus,
+    generated_at,
+    data_updated_at,
+):
+    from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
+    from openpyxl.worksheet.table import Table as ExcelTable
+    from openpyxl.worksheet.table import TableStyleInfo
+    from openpyxl.utils import get_column_letter
+
+    buffer = BytesIO()
+    sheet_name = "Orden produccion"
+    startrow = 4
+
+    with pd.ExcelWriter(buffer, engine="openpyxl") as writer:
+        visible_order_df.to_excel(
+            writer,
+            index=False,
+            sheet_name=sheet_name,
+            startrow=startrow,
+        )
+
+        worksheet = writer.sheets[sheet_name]
+
+        max_row = worksheet.max_row
+        max_col = worksheet.max_column
+        last_col_letter = get_column_letter(max_col)
+        header_row = startrow + 1
+        first_data_row = header_row + 1
+
+        worksheet.merge_cells(start_row=1, start_column=1, end_row=1, end_column=max_col)
+        worksheet["A1"] = "Orden de produccion - cierre de año"
+        worksheet["A1"].font = Font(bold=True, size=14, color="1F2933")
+        worksheet["A1"].alignment = Alignment(horizontal="left")
+
+        worksheet.merge_cells(start_row=2, start_column=1, end_row=2, end_column=max_col)
+        worksheet["A2"] = (
+            f"Descarga/generacion: {format_bogota(generated_at)} Bogota | "
+            f"Datos actualizados: {format_bogota(data_updated_at)} Bogota | "
+            f"Unidades: {total_units:,} | "
+            f"Filas: {total_rows:,} | "
+            f"Referencias/tallas: {total_skus:,}"
+        )
+        worksheet["A2"].font = Font(size=9, color="4B5563")
+
+        header_fill = PatternFill("solid", fgColor="243B53")
+        header_font = Font(bold=True, color="FFFFFF")
+        red_fill = PatternFill("solid", fgColor="F8D7DA")
+        red_font = Font(bold=True, color="8A1F2D")
+        yellow_fill = PatternFill("solid", fgColor="FFF3CD")
+        yellow_font = Font(bold=True, color="664D03")
+        thin_border = Border(
+            left=Side(style="thin", color="CBD2D9"),
+            right=Side(style="thin", color="CBD2D9"),
+            top=Side(style="thin", color="CBD2D9"),
+            bottom=Side(style="thin", color="CBD2D9"),
+        )
+
+        for cell in worksheet[header_row]:
+            cell.fill = header_fill
+            cell.font = header_font
+            cell.alignment = Alignment(horizontal="center", vertical="center")
+            cell.border = thin_border
+
+        for row in worksheet.iter_rows(
+            min_row=first_data_row,
+            max_row=max_row,
+            min_col=1,
+            max_col=max_col,
+        ):
+            for cell in row:
+                cell.border = thin_border
+                cell.alignment = Alignment(
+                    horizontal="left" if cell.column == 1 else "right",
+                    vertical="center",
+                    wrap_text=cell.column == 1,
+                )
+
+                if cell.column > 1:
+                    cell.number_format = '#,##0'
+                    value = cell.value or 0
+                    if value > 15:
+                        cell.fill = red_fill
+                        cell.font = red_font
+                    elif value > 10:
+                        cell.fill = yellow_fill
+                        cell.font = yellow_font
+
+        worksheet.column_dimensions["A"].width = 44
+        for column_idx in range(2, max_col + 1):
+            worksheet.column_dimensions[get_column_letter(column_idx)].width = 10
+
+        table_ref = f"A{header_row}:{last_col_letter}{max_row}"
+        excel_table = ExcelTable(displayName="OrdenProduccion", ref=table_ref)
+        excel_table.tableStyleInfo = TableStyleInfo(
+            name="TableStyleMedium2",
+            showFirstColumn=False,
+            showLastColumn=False,
+            showRowStripes=True,
+            showColumnStripes=False,
+        )
+        worksheet.add_table(excel_table)
+        worksheet.freeze_panes = f"B{first_data_row}"
+        worksheet.auto_filter.ref = table_ref
+
+    buffer.seek(0)
+    return buffer.getvalue()
+
+
 def build_pdf_download(
     visible_order_df,
     total_units,
@@ -652,17 +764,42 @@ pdf_bytes = build_pdf_download(
     generated_at=pdf_generated_at,
     data_updated_at=data_updated_at,
 )
-st.download_button(
-    "📄 Descargar esta tabla en PDF carta horizontal",
-    data=pdf_bytes,
-    file_name=f"orden_produccion_{pdf_generated_at:%Y%m%d_%H%M%S}.pdf",
-    mime="application/pdf",
-    help=(
-        "El PDF usa hora de Bogota, muestra la hora de generacion/descarga "
-        "y la ultima actualizacion de datos."
-    ),
-    on_click="rerun",
+excel_bytes = build_excel_download(
+    display_df,
+    total_units=total_units,
+    total_rows=total_rows,
+    total_skus=total_skus,
+    generated_at=pdf_generated_at,
+    data_updated_at=data_updated_at,
 )
+
+download_col1, download_col2 = st.columns(2)
+
+with download_col1:
+    st.download_button(
+        "📄 Descargar esta tabla en PDF carta horizontal",
+        data=pdf_bytes,
+        file_name=f"orden_produccion_{pdf_generated_at:%Y%m%d_%H%M%S}.pdf",
+        mime="application/pdf",
+        help=(
+            "El PDF usa hora de Bogota, muestra la hora de generacion/descarga "
+            "y la ultima actualizacion de datos."
+        ),
+        on_click="rerun",
+    )
+
+with download_col2:
+    st.download_button(
+        "📊 Descargar esta tabla en Excel",
+        data=excel_bytes,
+        file_name=f"orden_produccion_{pdf_generated_at:%Y%m%d_%H%M%S}.xlsx",
+        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        help=(
+            "El Excel contiene la misma tabla visible, con filtros, panel congelado "
+            "y colores de alerta."
+        ),
+        on_click="rerun",
+    )
 
 styled_df = (
     display_df
