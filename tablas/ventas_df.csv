@@ -46495,8 +46495,8 @@ BGT_CLE_46224----03-37-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;cami
 BGT_CLE_46224----03-37-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;guayabera;12;;;;;conalco_guayabera_12;1;56000;56000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46224----03-37-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;bombacho;12;;;;;conalco_bombacho_12;1;61000;61000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46224----05-17-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;camiseta fisica;M;;;;;conalco_camiseta fisica_M;1;58000;58000;PAGADA / CERRADA;NO;VENTA;NA;0
-BGT_CLE_46224----05-18-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;guayabera;12;;;;;conalco_guayabera_12;1;56000;56000;REVISAR;NO;VENTA;NA;0
-BGT_CLE_46224----05-18-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;pantalon;12;;;;;conalco_pantalon_12;1;76000;76000;REVISAR;NO;VENTA;NA;0
+BGT_CLE_46224----05-18-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;guayabera;12;;;;;conalco_guayabera_12;1;56000;56000;PAGADA / CERRADA;NO;VENTA;NA;0
+BGT_CLE_46224----05-18-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;pantalon;12;;;;;conalco_pantalon_12;1;76000;76000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46224----05-46-p. m.;martes, 21 de julio de 2026;21;7;2026;conalco;bombacho;S;;;;;conalco_bombacho_S;1;68000;68000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46224----05-50-p. m.;martes, 21 de julio de 2026;21;7;2026;colsafa;bombacho;S;;;;;colsafa_bombacho_S;1;107000;107000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46224----05-50-p. m.;martes, 21 de julio de 2026;21;7;2026;colsafa;camiseta fisica;S;;;;;colsafa_camiseta fisica_S;1;73000;73000;PAGADA / CERRADA;NO;VENTA;NA;0
@@ -46507,10 +46507,10 @@ BGT_CLE_46224----06-05-p. m.;martes, 21 de julio de 2026;21;7;2026;Antonio Narin
 1-BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;gimnasio vallegrande;blusa;M;;;;;gimnasio vallegrande_blusa_M;1;49000;49000;PAGADA / CERRADA;NO;VENTA;NA;0
 2-BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;gimnasio vallegrande;bombacho hombre;M;;;;;gimnasio vallegrande_bombacho hombre_M;1;59000;59000;PAGADA / CERRADA;NO;VENTA;NA;0
 3-BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;liceo pupo jimenez;camiseta diario;14;;;;;liceo pupo jimenez_camiseta diario_14;1;50000;50000;PAGADA / CERRADA;NO;VENTA;NA;0
-4 -BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;Pantalones Azules;intermedio;14;;;;;Pantalones Azules_intermedio_14;1;68000;68000;ABONADA / PENDIENTE;NO;VENTA;NA;britany olivare
-4 -BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;conalco;falda;10;;;;;conalco_falda_10;1;86000;86000;PAGADA / CERRADA;SI;VENTA;NA;britany olivare
+4 -BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;Pantalones Azules;intermedio;14;;;;;Pantalones Azules_intermedio_14;1;68000;68000;PAGADA / CERRADA;NO;VENTA;NA;britany olivare
+4 -BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;conalco;falda;10;;;;;conalco_falda_10;1;86000;86000;PAGADA / CERRADA;NO;VENTA;NA;britany olivare
 5-BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;Bordados;extra grande;NA;;;;;Bordados_extra grande_NA;4;16000;64000;PAGADA / CERRADA;NO;VENTA;NA;0
-6 -BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;gimnasio vallegrande;bombacho hombre;L;;;;;gimnasio vallegrande_bombacho hombre_L;1;59000;59000;-2146826265;NO;VENTA;NA;Maria del carmen Cabrales Ferrer
+6 -BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;gimnasio vallegrande;bombacho hombre;L;;;;;gimnasio vallegrande_bombacho hombre_L;1;59000;59000;PAGADA / CERRADA;NO;VENTA;NA;Maria del carmen Cabrales Ferrer
 6 -BGT_CLE_46224----06-05-p. m.;miércoles, 22 de julio de 2026;22;7;2026;Domicilios;A;NA;;;;;Domicilios_A_NA;1;6000;6000;PAGADA / CERRADA;NO;VENTA;NA;Maria del carmen Cabrales Ferrer
 BGT_CLE_46225----01-30-p. m.;miércoles, 22 de julio de 2026;22;7;2026;liceo pupo jimenez;camiseta fisica;M;;;;;liceo pupo jimenez_camiseta fisica_M;1;53000;53000;PAGADA / CERRADA;NO;VENTA;NA;0
 BGT_CLE_46225----01-30-p. m.;miércoles, 22 de julio de 2026;22;7;2026;liceo pupo jimenez;bombacho;M;;;;;liceo pupo jimenez_bombacho_M;1;56000;56000;PAGADA / CERRADA;NO;VENTA;NA;0
@@ -46871,3 +46871,45 @@ BC_JCG_46255----04-31-p. m.;viernes, 21 de agosto de 2026;21;8;2026;la inmaculad
 BC_JCG_46256----11-38-a. m.;sábado, 22 de agosto de 2026;22;8;2026;gimnasio vallegrande;bombacho hombre;16;;;;;gimnasio vallegrande_bombacho hombre_16;1;56000;56000;PAGADA / CERRADA;NO;VENTA;NA;0
 BC_JCG_46256----12-20-p. m.;sábado, 22 de agosto de 2026;22;8;2026;conalco;bombacho;L;;;;;conalco_bombacho_L;1;69000;69000;PAGADA / CERRADA;NO;VENTA;NA;0
 BC_JCG_46256----12-20-p. m.;sábado, 22 de agosto de 2026;22;8;2026;conalco;camiseta fisica;S;;;;;conalco_camiseta fisica_S;1;58000;58000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46258----11-52-a. m.;lunes, 24 de agosto de 2026;24;8;2026;colsafa;bombacho;6;;;;;colsafa_bombacho_6;1;90000;90000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46258----12-55-p. m.;lunes, 24 de agosto de 2026;24;8;2026;la inmaculada;bombacho;L;;;;;la inmaculada_bombacho_L;1;60000;60000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46258----12-55-p. m.;lunes, 24 de agosto de 2026;24;8;2026;la inmaculada;camiseta fisica;S;;;;;la inmaculada_camiseta fisica_S;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46258----03-57-p. m.;lunes, 24 de agosto de 2026;24;8;2026;conalco;bombacho;14;;;;;conalco_bombacho_14;1;64000;64000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46258----03-57-p. m.;lunes, 24 de agosto de 2026;24;8;2026;conalco;camiseta fisica;S;;;;;conalco_camiseta fisica_S;1;58000;58000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46258----05-47-p. m.;lunes, 24 de agosto de 2026;24;8;2026;liceo pupo jimenez;camiseta fisica;S;;;;;liceo pupo jimenez_camiseta fisica_S;1;53000;53000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46259----12-16-p. m.;martes, 25 de agosto de 2026;25;8;2026;conalco;bombacho;12;;;;;conalco_bombacho_12;1;61000;61000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----03-27-p. m.;martes, 25 de agosto de 2026;25;8;2026;conalco;bombacho;14;;;;;conalco_bombacho_14;1;64000;64000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----03-57-p. m.;martes, 25 de agosto de 2026;25;8;2026;la inmaculada;blusa;16;;;;;la inmaculada_blusa_16;1;42000;42000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----03-57-p. m.;martes, 25 de agosto de 2026;25;8;2026;la inmaculada;camiseta fisica;14;;;;;la inmaculada_camiseta fisica_14;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----03-57-p. m.;martes, 25 de agosto de 2026;25;8;2026;la inmaculada;bombacho;14;;;;;la inmaculada_bombacho_14;1;58000;58000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----03-57-p. m.;martes, 25 de agosto de 2026;25;8;2026;la inmaculada;medias;8;;;;;la inmaculada_medias_8;1;12000;12000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----04-09-p. m.;martes, 25 de agosto de 2026;25;8;2026;liceo pupo jimenez;blusa;14;;;;;liceo pupo jimenez_blusa_14;1;42000;42000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----04-09-p. m.;martes, 25 de agosto de 2026;25;8;2026;liceo pupo jimenez;blusa;16;;;;;liceo pupo jimenez_blusa_16;2;42000;84000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----04-10-p. m.;martes, 25 de agosto de 2026;25;8;2026;conalco;bombacho;M;;;;;conalco_bombacho_M;1;68000;68000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----04-39-p. m.;martes, 25 de agosto de 2026;25;8;2026;colsafa;blusa;16;;;;;colsafa_blusa_16;1;42000;42000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----04-39-p. m.;martes, 25 de agosto de 2026;25;8;2026;colsafa;blusa;S;;;;;colsafa_blusa_S;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46259----04-39-p. m.;martes, 25 de agosto de 2026;25;8;2026;Domicilios;B;NA;;;;;Domicilios_B_NA;1;8000;8000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46260----08-38-a. m.;miércoles, 26 de agosto de 2026;26;8;2026;Policia;camiseta fisica;16;;;;;Policia_camiseta fisica_16;1;51000;51000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46260----08-57-a. m.;miércoles, 26 de agosto de 2026;26;8;2026;la inmaculada;camiseta fisica;14;;;;;la inmaculada_camiseta fisica_14;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46260----08-57-a. m.;miércoles, 26 de agosto de 2026;26;8;2026;la inmaculada;camiseta fisica;12;;;;;la inmaculada_camiseta fisica_12;1;41000;41000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46260--3103647697-1878-02-34-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;conalco;falda;14;;;;;conalco_falda_14;1;89000;89000;ABONADA / PENDIENTE;SI;VENTA;NA;LUCIANA   ARROYO
+NQ_JCG_46260----03-32-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;gimnasio vallegrande;camiseta de fisica externa;10;;;;;gimnasio vallegrande_camiseta de fisica externa_10;1;48000;48000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46260----03-32-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;gimnasio vallegrande;bombacho hombre;10;;;;;gimnasio vallegrande_bombacho hombre_10;1;53000;53000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46260----04-12-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;conalco;camiseta fisica;14;;;;;conalco_camiseta fisica_14;1;54000;54000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46260----05-18-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;gimnasio vallegrande;bombacho dama;M;;;;;gimnasio vallegrande_bombacho dama_M;1;59000;59000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46260----05-35-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;conalco;bombacho;10;;;;;conalco_bombacho_10;1;61000;61000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46260----05-35-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;conalco;camiseta fisica;8;;;;;conalco_camiseta fisica_8;1;51000;51000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46260----05-35-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;conalco;camiseta fisica;M;;;;;conalco_camiseta fisica_M;1;58000;58000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46260----05-36-p. m.;miércoles, 26 de agosto de 2026;26;8;2026;conalco;bombacho;L;;;;;conalco_bombacho_L;1;69000;69000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46261----09-23-a. m.;jueves, 27 de agosto de 2026;27;8;2026;liceo pupo jimenez;blusa;12;;;;;liceo pupo jimenez_blusa_12;2;40000;80000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46261----02-57-p. m.;jueves, 27 de agosto de 2026;27;8;2026;gimnasio vallegrande;blusa;6;;;;;gimnasio vallegrande_blusa_6;1;41000;41000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46261----02-57-p. m.;jueves, 27 de agosto de 2026;27;8;2026;Domicilios;B;NA;;;;;Domicilios_B_NA;1;8000;8000;PAGADA / CERRADA;NO;VENTA;NA;0
+NQ_JCG_46261----05-21-p. m.;jueves, 27 de agosto de 2026;27;8;2026;hogar;camiseta fisica;2;;;;;hogar_camiseta fisica_2;1;41000;41000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----12-52-p. m.;viernes, 28 de agosto de 2026;28;8;2026;conalco;guayabera;S;;;;;conalco_guayabera_S;2;63000;126000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----12-52-p. m.;viernes, 28 de agosto de 2026;28;8;2026;conalco;pantalon;28;;;;;conalco_pantalon_28;1;81000;81000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----12-52-p. m.;viernes, 28 de agosto de 2026;28;8;2026;conalco;bombacho;S;;;;;conalco_bombacho_S;1;68000;68000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----01-21-p. m.;viernes, 28 de agosto de 2026;28;8;2026;gimnasio vallegrande;bombacho dama;6;;;;;gimnasio vallegrande_bombacho dama_6;1;50000;50000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----01-21-p. m.;viernes, 28 de agosto de 2026;28;8;2026;gimnasio vallegrande;camiseta dama externa;6;;;;;gimnasio vallegrande_camiseta dama externa_6;1;45000;45000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----01-21-p. m.;viernes, 28 de agosto de 2026;28;8;2026;gimnasio vallegrande;bombacho hombre;8;;;;;gimnasio vallegrande_bombacho hombre_8;1;50000;50000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----01-21-p. m.;viernes, 28 de agosto de 2026;28;8;2026;Domicilios;B;NA;;;;;Domicilios_B_NA;1;8000;8000;PAGADA / CERRADA;NO;VENTA;NA;0
+BC_JCG_46262----05-22-p. m.;viernes, 28 de agosto de 2026;28;8;2026;liceo pupo jimenez;blusa;10;;;;;liceo pupo jimenez_blusa_10;1;40000;40000;PAGADA / CERRADA;NO;VENTA;NA;0
