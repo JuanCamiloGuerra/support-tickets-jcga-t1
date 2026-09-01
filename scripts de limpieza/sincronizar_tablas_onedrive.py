@@ -105,7 +105,7 @@ def export_with_excel_desktop(project_root, workbook_path, include_large):
                 inventory_range.Row,
                 inventory_range.Column,
                 inventory_range.Rows.Count,
-                5,
+                6,
                 "inventario.csv",
                 tablas_dir,
                 backup_dir,

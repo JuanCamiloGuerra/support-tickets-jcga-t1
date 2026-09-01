@@ -1,986 +1,986 @@
-colegio;PRODUCTO;TALLA;INVENTARIO;ID_BUSQUEDA
-liceo pupo jimenez;blusa;2;2;liceo pupo jimenez_blusa_2
-liceo pupo jimenez;blusa;4;0;liceo pupo jimenez_blusa_4
-liceo pupo jimenez;blusa;6;6;liceo pupo jimenez_blusa_6
-liceo pupo jimenez;blusa;8;1;liceo pupo jimenez_blusa_8
-liceo pupo jimenez;blusa;10;3;liceo pupo jimenez_blusa_10
-liceo pupo jimenez;blusa;12;12;liceo pupo jimenez_blusa_12
-liceo pupo jimenez;blusa;14;3;liceo pupo jimenez_blusa_14
-liceo pupo jimenez;blusa;16;2;liceo pupo jimenez_blusa_16
-liceo pupo jimenez;blusa;S;6;liceo pupo jimenez_blusa_S
-liceo pupo jimenez;blusa;M;7;liceo pupo jimenez_blusa_M
-liceo pupo jimenez;blusa;L;-1;liceo pupo jimenez_blusa_L
-liceo pupo jimenez;blusa;XL;2;liceo pupo jimenez_blusa_XL
-liceo pupo jimenez;falda;2;0;liceo pupo jimenez_falda_2
-liceo pupo jimenez;falda;4;0;liceo pupo jimenez_falda_4
-liceo pupo jimenez;falda;6;0;liceo pupo jimenez_falda_6
-liceo pupo jimenez;falda;8;0;liceo pupo jimenez_falda_8
-liceo pupo jimenez;falda;10;0;liceo pupo jimenez_falda_10
-liceo pupo jimenez;falda;12;0;liceo pupo jimenez_falda_12
-liceo pupo jimenez;falda;14;0;liceo pupo jimenez_falda_14
-liceo pupo jimenez;falda;16;0;liceo pupo jimenez_falda_16
-liceo pupo jimenez;falda;S;0;liceo pupo jimenez_falda_S
-liceo pupo jimenez;falda;M;0;liceo pupo jimenez_falda_M
-liceo pupo jimenez;falda;L;0;liceo pupo jimenez_falda_L
-liceo pupo jimenez;falda;XL;0;liceo pupo jimenez_falda_XL
-liceo pupo jimenez;camiseta diario;2;2;liceo pupo jimenez_camiseta diario_2
-liceo pupo jimenez;camiseta diario;4;10;liceo pupo jimenez_camiseta diario_4
-liceo pupo jimenez;camiseta diario;6;14;liceo pupo jimenez_camiseta diario_6
-liceo pupo jimenez;camiseta diario;8;11;liceo pupo jimenez_camiseta diario_8
-liceo pupo jimenez;camiseta diario;10;5;liceo pupo jimenez_camiseta diario_10
-liceo pupo jimenez;camiseta diario;12;16;liceo pupo jimenez_camiseta diario_12
-liceo pupo jimenez;camiseta diario;14;17;liceo pupo jimenez_camiseta diario_14
-liceo pupo jimenez;camiseta diario;16;25;liceo pupo jimenez_camiseta diario_16
-liceo pupo jimenez;camiseta diario;S;16;liceo pupo jimenez_camiseta diario_S
-liceo pupo jimenez;camiseta diario;M;14;liceo pupo jimenez_camiseta diario_M
-liceo pupo jimenez;camiseta diario;L;11;liceo pupo jimenez_camiseta diario_L
-liceo pupo jimenez;camiseta diario;XL;2;liceo pupo jimenez_camiseta diario_XL
-liceo pupo jimenez;camiseta fisica;2;5;liceo pupo jimenez_camiseta fisica_2
-liceo pupo jimenez;camiseta fisica;4;8;liceo pupo jimenez_camiseta fisica_4
-liceo pupo jimenez;camiseta fisica;6;12;liceo pupo jimenez_camiseta fisica_6
-liceo pupo jimenez;camiseta fisica;8;5;liceo pupo jimenez_camiseta fisica_8
-liceo pupo jimenez;camiseta fisica;10;10;liceo pupo jimenez_camiseta fisica_10
-liceo pupo jimenez;camiseta fisica;12;6;liceo pupo jimenez_camiseta fisica_12
-liceo pupo jimenez;camiseta fisica;14;11;liceo pupo jimenez_camiseta fisica_14
-liceo pupo jimenez;camiseta fisica;16;11;liceo pupo jimenez_camiseta fisica_16
-liceo pupo jimenez;camiseta fisica;S;8;liceo pupo jimenez_camiseta fisica_S
-liceo pupo jimenez;camiseta fisica;M;8;liceo pupo jimenez_camiseta fisica_M
-liceo pupo jimenez;camiseta fisica;L;4;liceo pupo jimenez_camiseta fisica_L
-liceo pupo jimenez;camiseta fisica;XL;1;liceo pupo jimenez_camiseta fisica_XL
-liceo pupo jimenez;bombacho;2;2;liceo pupo jimenez_bombacho_2
-liceo pupo jimenez;bombacho;4;0;liceo pupo jimenez_bombacho_4
-liceo pupo jimenez;bombacho;6;9;liceo pupo jimenez_bombacho_6
-liceo pupo jimenez;bombacho;8;1;liceo pupo jimenez_bombacho_8
-liceo pupo jimenez;bombacho;10;15;liceo pupo jimenez_bombacho_10
-liceo pupo jimenez;bombacho;12;0;liceo pupo jimenez_bombacho_12
-liceo pupo jimenez;bombacho;14;2;liceo pupo jimenez_bombacho_14
-liceo pupo jimenez;bombacho;16;36;liceo pupo jimenez_bombacho_16
-liceo pupo jimenez;bombacho;S;11;liceo pupo jimenez_bombacho_S
-liceo pupo jimenez;bombacho;M;0;liceo pupo jimenez_bombacho_M
-liceo pupo jimenez;bombacho;L;14;liceo pupo jimenez_bombacho_L
-liceo pupo jimenez;bombacho;XL;0;liceo pupo jimenez_bombacho_XL
-liceo pupo jimenez;Medias;2;0;liceo pupo jimenez_Medias_2
-liceo pupo jimenez;Medias;4;0;liceo pupo jimenez_Medias_4
-liceo pupo jimenez;Medias;6;-6;liceo pupo jimenez_Medias_6
-liceo pupo jimenez;Medias;8;0;liceo pupo jimenez_Medias_8
-liceo pupo jimenez;Medias;10;-4;liceo pupo jimenez_Medias_10
-liceo universitario;blusa;2;3;liceo universitario_blusa_2
-liceo universitario;blusa;4;3;liceo universitario_blusa_4
-liceo universitario;blusa;6;18;liceo universitario_blusa_6
-liceo universitario;blusa;8;3;liceo universitario_blusa_8
-liceo universitario;blusa;10;4;liceo universitario_blusa_10
-liceo universitario;blusa;12;12;liceo universitario_blusa_12
-liceo universitario;blusa;14;10;liceo universitario_blusa_14
-liceo universitario;blusa;16;5;liceo universitario_blusa_16
-liceo universitario;blusa;S;0;liceo universitario_blusa_S
-liceo universitario;blusa;M;2;liceo universitario_blusa_M
-liceo universitario;blusa;L;0;liceo universitario_blusa_L
-liceo universitario;blusa;XL;1;liceo universitario_blusa_XL
-liceo universitario;falda;2;0;liceo universitario_falda_2
-liceo universitario;falda;4;0;liceo universitario_falda_4
-liceo universitario;falda;6;0;liceo universitario_falda_6
-liceo universitario;falda;8;0;liceo universitario_falda_8
-liceo universitario;falda;10;0;liceo universitario_falda_10
-liceo universitario;falda;12;0;liceo universitario_falda_12
-liceo universitario;falda;14;0;liceo universitario_falda_14
-liceo universitario;falda;16;0;liceo universitario_falda_16
-liceo universitario;falda;S;0;liceo universitario_falda_S
-liceo universitario;falda;M;0;liceo universitario_falda_M
-liceo universitario;falda;L;0;liceo universitario_falda_L
-liceo universitario;falda;XL;0;liceo universitario_falda_XL
-liceo universitario;guayabera;2;0;liceo universitario_guayabera_2
-liceo universitario;guayabera;4;0;liceo universitario_guayabera_4
-liceo universitario;guayabera;6;4;liceo universitario_guayabera_6
-liceo universitario;guayabera;8;16;liceo universitario_guayabera_8
-liceo universitario;guayabera;10;0;liceo universitario_guayabera_10
-liceo universitario;guayabera;12;4;liceo universitario_guayabera_12
-liceo universitario;guayabera;14;2;liceo universitario_guayabera_14
-liceo universitario;guayabera;16;5;liceo universitario_guayabera_16
-liceo universitario;guayabera;S;1;liceo universitario_guayabera_S
-liceo universitario;guayabera;M;16;liceo universitario_guayabera_M
-liceo universitario;guayabera;L;9;liceo universitario_guayabera_L
-liceo universitario;guayabera;XL;13;liceo universitario_guayabera_XL
-liceo universitario;pantalon;2;0;liceo universitario_pantalon_2
-liceo universitario;pantalon;4;0;liceo universitario_pantalon_4
-liceo universitario;pantalon;6;0;liceo universitario_pantalon_6
-liceo universitario;pantalon;8;4;liceo universitario_pantalon_8
-liceo universitario;pantalon;10;5;liceo universitario_pantalon_10
-liceo universitario;pantalon;12;2;liceo universitario_pantalon_12
-liceo universitario;pantalon;14;2;liceo universitario_pantalon_14
-liceo universitario;pantalon;16;2;liceo universitario_pantalon_16
-liceo universitario;pantalon;28;1;liceo universitario_pantalon_28
-liceo universitario;pantalon;30;0;liceo universitario_pantalon_30
-liceo universitario;pantalon;32;2;liceo universitario_pantalon_32
-liceo universitario;pantalon;34;1;liceo universitario_pantalon_34
-liceo universitario;pantalon;36;0;liceo universitario_pantalon_36
-liceo universitario;pantalon;38;0;liceo universitario_pantalon_38
-liceo universitario;camiseta fisica;2;0;liceo universitario_camiseta fisica_2
-liceo universitario;camiseta fisica;4;0;liceo universitario_camiseta fisica_4
-liceo universitario;camiseta fisica;6;22;liceo universitario_camiseta fisica_6
-liceo universitario;camiseta fisica;8;4;liceo universitario_camiseta fisica_8
-liceo universitario;camiseta fisica;10;3;liceo universitario_camiseta fisica_10
-liceo universitario;camiseta fisica;12;10;liceo universitario_camiseta fisica_12
-liceo universitario;camiseta fisica;14;20;liceo universitario_camiseta fisica_14
-liceo universitario;camiseta fisica;16;2;liceo universitario_camiseta fisica_16
-liceo universitario;camiseta fisica;S;0;liceo universitario_camiseta fisica_S
-liceo universitario;camiseta fisica;M;3;liceo universitario_camiseta fisica_M
-liceo universitario;camiseta fisica;L;6;liceo universitario_camiseta fisica_L
-liceo universitario;camiseta fisica;XL;5;liceo universitario_camiseta fisica_XL
-liceo universitario;bombacho;2;0;liceo universitario_bombacho_2
-liceo universitario;bombacho;4;0;liceo universitario_bombacho_4
-liceo universitario;bombacho;6;8;liceo universitario_bombacho_6
-liceo universitario;bombacho;8;5;liceo universitario_bombacho_8
-liceo universitario;bombacho;10;0;liceo universitario_bombacho_10
-liceo universitario;bombacho;12;3;liceo universitario_bombacho_12
-liceo universitario;bombacho;14;4;liceo universitario_bombacho_14
-liceo universitario;bombacho;16;0;liceo universitario_bombacho_16
-liceo universitario;bombacho;S;2;liceo universitario_bombacho_S
-liceo universitario;bombacho;M;3;liceo universitario_bombacho_M
-liceo universitario;bombacho;L;1;liceo universitario_bombacho_L
-liceo universitario;bombacho;XL;2;liceo universitario_bombacho_XL
-liceo universitario;medias;2;0;liceo universitario_medias_2
-liceo universitario;medias;4;55;liceo universitario_medias_4
-liceo universitario;medias;6;71;liceo universitario_medias_6
-liceo universitario;medias;8;0;liceo universitario_medias_8
-liceo universitario;medias;10;7;liceo universitario_medias_10
-nuestra señora del carmen;blusa;2;2;nuestra señora del carmen_blusa_2
-nuestra señora del carmen;blusa;4;0;nuestra señora del carmen_blusa_4
-nuestra señora del carmen;blusa;6;6;nuestra señora del carmen_blusa_6
-nuestra señora del carmen;blusa;8;4;nuestra señora del carmen_blusa_8
-nuestra señora del carmen;blusa;10;3;nuestra señora del carmen_blusa_10
-nuestra señora del carmen;blusa;12;9;nuestra señora del carmen_blusa_12
-nuestra señora del carmen;blusa;14;4;nuestra señora del carmen_blusa_14
-nuestra señora del carmen;blusa;16;4;nuestra señora del carmen_blusa_16
-nuestra señora del carmen;blusa;S;2;nuestra señora del carmen_blusa_S
-nuestra señora del carmen;blusa;M;12;nuestra señora del carmen_blusa_M
-nuestra señora del carmen;blusa;L;3;nuestra señora del carmen_blusa_L
-nuestra señora del carmen;blusa;XL;2;nuestra señora del carmen_blusa_XL
-nuestra señora del carmen;jumper;2;0;nuestra señora del carmen_jumper_2
-nuestra señora del carmen;jumper;4;-1;nuestra señora del carmen_jumper_4
-nuestra señora del carmen;jumper;6;0;nuestra señora del carmen_jumper_6
-nuestra señora del carmen;jumper;8;0;nuestra señora del carmen_jumper_8
-nuestra señora del carmen;jumper;10;0;nuestra señora del carmen_jumper_10
-nuestra señora del carmen;jumper;12;0;nuestra señora del carmen_jumper_12
-nuestra señora del carmen;jumper;14;-1;nuestra señora del carmen_jumper_14
-nuestra señora del carmen;jumper;16;0;nuestra señora del carmen_jumper_16
-nuestra señora del carmen;jumper;S;0;nuestra señora del carmen_jumper_S
-nuestra señora del carmen;jumper;M;0;nuestra señora del carmen_jumper_M
-nuestra señora del carmen;jumper;L;0;nuestra señora del carmen_jumper_L
-nuestra señora del carmen;jumper;XL;0;nuestra señora del carmen_jumper_XL
-nuestra señora del carmen;guayabera;2;1;nuestra señora del carmen_guayabera_2
-nuestra señora del carmen;guayabera;4;10;nuestra señora del carmen_guayabera_4
-nuestra señora del carmen;guayabera;6;21;nuestra señora del carmen_guayabera_6
-nuestra señora del carmen;guayabera;8;22;nuestra señora del carmen_guayabera_8
-nuestra señora del carmen;guayabera;10;14;nuestra señora del carmen_guayabera_10
-nuestra señora del carmen;guayabera;12;9;nuestra señora del carmen_guayabera_12
-nuestra señora del carmen;guayabera;14;6;nuestra señora del carmen_guayabera_14
-nuestra señora del carmen;guayabera;16;8;nuestra señora del carmen_guayabera_16
-nuestra señora del carmen;guayabera;S;10;nuestra señora del carmen_guayabera_S
-nuestra señora del carmen;guayabera;M;4;nuestra señora del carmen_guayabera_M
-nuestra señora del carmen;guayabera;L;0;nuestra señora del carmen_guayabera_L
-nuestra señora del carmen;guayabera;XL;10;nuestra señora del carmen_guayabera_XL
-nuestra señora del carmen;pantalon;2;0;nuestra señora del carmen_pantalon_2
-nuestra señora del carmen;pantalon;4;0;nuestra señora del carmen_pantalon_4
-nuestra señora del carmen;pantalon;6;3;nuestra señora del carmen_pantalon_6
-nuestra señora del carmen;pantalon;8;2;nuestra señora del carmen_pantalon_8
-nuestra señora del carmen;pantalon;10;5;nuestra señora del carmen_pantalon_10
-nuestra señora del carmen;pantalon;12;2;nuestra señora del carmen_pantalon_12
-nuestra señora del carmen;pantalon;14;6;nuestra señora del carmen_pantalon_14
-nuestra señora del carmen;pantalon;16;0;nuestra señora del carmen_pantalon_16
-nuestra señora del carmen;pantalon;28;2;nuestra señora del carmen_pantalon_28
-nuestra señora del carmen;pantalon;30;0;nuestra señora del carmen_pantalon_30
-nuestra señora del carmen;pantalon;32;5;nuestra señora del carmen_pantalon_32
-nuestra señora del carmen;pantalon;34;4;nuestra señora del carmen_pantalon_34
-nuestra señora del carmen;pantalon;36;2;nuestra señora del carmen_pantalon_36
-nuestra señora del carmen;pantalon;38;0;nuestra señora del carmen_pantalon_38
-nuestra señora del carmen;bermuda;2;1;nuestra señora del carmen_bermuda_2
-nuestra señora del carmen;bermuda;4;0;nuestra señora del carmen_bermuda_4
-nuestra señora del carmen;bermuda;6;9;nuestra señora del carmen_bermuda_6
-nuestra señora del carmen;bermuda;8;0;nuestra señora del carmen_bermuda_8
-nuestra señora del carmen;bermuda;10;0;nuestra señora del carmen_bermuda_10
-nuestra señora del carmen;bermuda;12;0;nuestra señora del carmen_bermuda_12
-nuestra señora del carmen;camiseta fisica;2;-1;nuestra señora del carmen_camiseta fisica_2
-nuestra señora del carmen;camiseta fisica;4;1;nuestra señora del carmen_camiseta fisica_4
-nuestra señora del carmen;camiseta fisica;6;10;nuestra señora del carmen_camiseta fisica_6
-nuestra señora del carmen;camiseta fisica;8;8;nuestra señora del carmen_camiseta fisica_8
-nuestra señora del carmen;camiseta fisica;10;4;nuestra señora del carmen_camiseta fisica_10
-nuestra señora del carmen;camiseta fisica;12;0;nuestra señora del carmen_camiseta fisica_12
-nuestra señora del carmen;camiseta fisica;14;11;nuestra señora del carmen_camiseta fisica_14
-nuestra señora del carmen;camiseta fisica;16;5;nuestra señora del carmen_camiseta fisica_16
-nuestra señora del carmen;camiseta fisica;S;2;nuestra señora del carmen_camiseta fisica_S
-nuestra señora del carmen;camiseta fisica;M;0;nuestra señora del carmen_camiseta fisica_M
-nuestra señora del carmen;camiseta fisica;L;3;nuestra señora del carmen_camiseta fisica_L
-nuestra señora del carmen;camiseta fisica;XL;1;nuestra señora del carmen_camiseta fisica_XL
-nuestra señora del carmen;bombacho;2;0;nuestra señora del carmen_bombacho_2
-nuestra señora del carmen;bombacho;4;4;nuestra señora del carmen_bombacho_4
-nuestra señora del carmen;bombacho;6;6;nuestra señora del carmen_bombacho_6
-nuestra señora del carmen;bombacho;8;17;nuestra señora del carmen_bombacho_8
-nuestra señora del carmen;bombacho;10;10;nuestra señora del carmen_bombacho_10
-nuestra señora del carmen;bombacho;12;4;nuestra señora del carmen_bombacho_12
-nuestra señora del carmen;bombacho;14;22;nuestra señora del carmen_bombacho_14
-nuestra señora del carmen;bombacho;16;6;nuestra señora del carmen_bombacho_16
-nuestra señora del carmen;bombacho;S;16;nuestra señora del carmen_bombacho_S
-nuestra señora del carmen;bombacho;M;4;nuestra señora del carmen_bombacho_M
-nuestra señora del carmen;bombacho;L;0;nuestra señora del carmen_bombacho_L
-nuestra señora del carmen;bombacho;XL;0;nuestra señora del carmen_bombacho_XL
-nuestra señora del carmen;cordon;NA;23;nuestra señora del carmen_cordon_NA
-gimnasio plaza feliz;blusa;2;0;gimnasio plaza feliz_blusa_2
-gimnasio plaza feliz;blusa;4;7;gimnasio plaza feliz_blusa_4
-gimnasio plaza feliz;blusa;6;6;gimnasio plaza feliz_blusa_6
-gimnasio plaza feliz;blusa;8;2;gimnasio plaza feliz_blusa_8
-gimnasio plaza feliz;blusa;10;5;gimnasio plaza feliz_blusa_10
-gimnasio plaza feliz;blusa;12;19;gimnasio plaza feliz_blusa_12
-gimnasio plaza feliz;blusa;14;2;gimnasio plaza feliz_blusa_14
-gimnasio plaza feliz;blusa;16;0;gimnasio plaza feliz_blusa_16
-gimnasio plaza feliz;blusa;S;0;gimnasio plaza feliz_blusa_S
-gimnasio plaza feliz;blusa;M;3;gimnasio plaza feliz_blusa_M
-gimnasio plaza feliz;blusa;L;2;gimnasio plaza feliz_blusa_L
-gimnasio plaza feliz;blusa;XL;1;gimnasio plaza feliz_blusa_XL
-gimnasio plaza feliz;jumper;2;0;gimnasio plaza feliz_jumper_2
-gimnasio plaza feliz;jumper;4;0;gimnasio plaza feliz_jumper_4
-gimnasio plaza feliz;jumper;6;0;gimnasio plaza feliz_jumper_6
-gimnasio plaza feliz;jumper;8;0;gimnasio plaza feliz_jumper_8
-gimnasio plaza feliz;jumper;10;0;gimnasio plaza feliz_jumper_10
-gimnasio plaza feliz;jumper;12;0;gimnasio plaza feliz_jumper_12
-gimnasio plaza feliz;jumper;14;0;gimnasio plaza feliz_jumper_14
-gimnasio plaza feliz;jumper;16;0;gimnasio plaza feliz_jumper_16
-gimnasio plaza feliz;jumper;S;0;gimnasio plaza feliz_jumper_S
-gimnasio plaza feliz;jumper;M;0;gimnasio plaza feliz_jumper_M
-gimnasio plaza feliz;jumper;L;0;gimnasio plaza feliz_jumper_L
-gimnasio plaza feliz;jumper;XL;0;gimnasio plaza feliz_jumper_XL
-gimnasio plaza feliz;guayabera;2;16;gimnasio plaza feliz_guayabera_2
-gimnasio plaza feliz;guayabera;4;0;gimnasio plaza feliz_guayabera_4
-gimnasio plaza feliz;guayabera;6;3;gimnasio plaza feliz_guayabera_6
-gimnasio plaza feliz;guayabera;8;3;gimnasio plaza feliz_guayabera_8
-gimnasio plaza feliz;guayabera;10;1;gimnasio plaza feliz_guayabera_10
-gimnasio plaza feliz;guayabera;12;4;gimnasio plaza feliz_guayabera_12
-gimnasio plaza feliz;guayabera;14;1;gimnasio plaza feliz_guayabera_14
-gimnasio plaza feliz;guayabera;16;3;gimnasio plaza feliz_guayabera_16
-gimnasio plaza feliz;guayabera;S;13;gimnasio plaza feliz_guayabera_S
-gimnasio plaza feliz;guayabera;M;4;gimnasio plaza feliz_guayabera_M
-gimnasio plaza feliz;guayabera;L;15;gimnasio plaza feliz_guayabera_L
-gimnasio plaza feliz;guayabera;XL;1;gimnasio plaza feliz_guayabera_XL
-gimnasio plaza feliz;camiseta fisica;2;2;gimnasio plaza feliz_camiseta fisica_2
-gimnasio plaza feliz;camiseta fisica;4;6;gimnasio plaza feliz_camiseta fisica_4
-gimnasio plaza feliz;camiseta fisica;6;2;gimnasio plaza feliz_camiseta fisica_6
-gimnasio plaza feliz;camiseta fisica;8;10;gimnasio plaza feliz_camiseta fisica_8
-gimnasio plaza feliz;camiseta fisica;10;5;gimnasio plaza feliz_camiseta fisica_10
-gimnasio plaza feliz;camiseta fisica;12;16;gimnasio plaza feliz_camiseta fisica_12
-gimnasio plaza feliz;camiseta fisica;14;15;gimnasio plaza feliz_camiseta fisica_14
-gimnasio plaza feliz;camiseta fisica;16;9;gimnasio plaza feliz_camiseta fisica_16
-gimnasio plaza feliz;camiseta fisica;S;9;gimnasio plaza feliz_camiseta fisica_S
-gimnasio plaza feliz;camiseta fisica;M;12;gimnasio plaza feliz_camiseta fisica_M
-gimnasio plaza feliz;camiseta fisica;L;7;gimnasio plaza feliz_camiseta fisica_L
-gimnasio plaza feliz;camiseta fisica;XL;0;gimnasio plaza feliz_camiseta fisica_XL
-gimnasio plaza feliz;bombacho;2;3;gimnasio plaza feliz_bombacho_2
-gimnasio plaza feliz;bombacho;4;7;gimnasio plaza feliz_bombacho_4
-gimnasio plaza feliz;bombacho;6;1;gimnasio plaza feliz_bombacho_6
-gimnasio plaza feliz;bombacho;8;0;gimnasio plaza feliz_bombacho_8
-gimnasio plaza feliz;bombacho;10;18;gimnasio plaza feliz_bombacho_10
-gimnasio plaza feliz;bombacho;12;6;gimnasio plaza feliz_bombacho_12
-gimnasio plaza feliz;bombacho;14;12;gimnasio plaza feliz_bombacho_14
-gimnasio plaza feliz;bombacho;16;12;gimnasio plaza feliz_bombacho_16
-gimnasio plaza feliz;bombacho;S;10;gimnasio plaza feliz_bombacho_S
-gimnasio plaza feliz;bombacho;M;12;gimnasio plaza feliz_bombacho_M
-gimnasio plaza feliz;bombacho;L;13;gimnasio plaza feliz_bombacho_L
-gimnasio plaza feliz;bombacho;XL;0;gimnasio plaza feliz_bombacho_XL
-gimnasio vallegrande;blusa;2;0;gimnasio vallegrande_blusa_2
-gimnasio vallegrande;blusa;4;2;gimnasio vallegrande_blusa_4
-gimnasio vallegrande;blusa;6;5;gimnasio vallegrande_blusa_6
-gimnasio vallegrande;blusa;8;18;gimnasio vallegrande_blusa_8
-gimnasio vallegrande;blusa;10;14;gimnasio vallegrande_blusa_10
-gimnasio vallegrande;blusa;12;20;gimnasio vallegrande_blusa_12
-gimnasio vallegrande;blusa;14;10;gimnasio vallegrande_blusa_14
-gimnasio vallegrande;blusa;16;5;gimnasio vallegrande_blusa_16
-gimnasio vallegrande;blusa;S;24;gimnasio vallegrande_blusa_S
-gimnasio vallegrande;blusa;M;34;gimnasio vallegrande_blusa_M
-gimnasio vallegrande;blusa;L;7;gimnasio vallegrande_blusa_L
-gimnasio vallegrande;blusa;XL;0;gimnasio vallegrande_blusa_XL
-gimnasio vallegrande;camiseta de diario;2;1;gimnasio vallegrande_camiseta de diario_2
-gimnasio vallegrande;camiseta de diario;4;6;gimnasio vallegrande_camiseta de diario_4
-gimnasio vallegrande;camiseta de diario;6;13;gimnasio vallegrande_camiseta de diario_6
-gimnasio vallegrande;camiseta de diario;8;8;gimnasio vallegrande_camiseta de diario_8
-gimnasio vallegrande;camiseta de diario;10;15;gimnasio vallegrande_camiseta de diario_10
-gimnasio vallegrande;camiseta de diario;12;16;gimnasio vallegrande_camiseta de diario_12
-gimnasio vallegrande;camiseta de diario;14;8;gimnasio vallegrande_camiseta de diario_14
-gimnasio vallegrande;camiseta de diario;16;23;gimnasio vallegrande_camiseta de diario_16
-gimnasio vallegrande;camiseta de diario;S;18;gimnasio vallegrande_camiseta de diario_S
-gimnasio vallegrande;camiseta de diario;M;24;gimnasio vallegrande_camiseta de diario_M
-gimnasio vallegrande;camiseta de diario;L;18;gimnasio vallegrande_camiseta de diario_L
-gimnasio vallegrande;camiseta de diario;XL;6;gimnasio vallegrande_camiseta de diario_XL
-gimnasio vallegrande;camiseta de fisica interna;2;0;gimnasio vallegrande_camiseta de fisica interna_2
-gimnasio vallegrande;camiseta de fisica interna;4;2;gimnasio vallegrande_camiseta de fisica interna_4
-gimnasio vallegrande;camiseta de fisica interna;6;6;gimnasio vallegrande_camiseta de fisica interna_6
-gimnasio vallegrande;camiseta de fisica interna;8;6;gimnasio vallegrande_camiseta de fisica interna_8
-gimnasio vallegrande;camiseta de fisica interna;10;1;gimnasio vallegrande_camiseta de fisica interna_10
-gimnasio vallegrande;camiseta de fisica interna;12;0;gimnasio vallegrande_camiseta de fisica interna_12
-gimnasio vallegrande;camiseta de fisica interna;14;5;gimnasio vallegrande_camiseta de fisica interna_14
-gimnasio vallegrande;camiseta de fisica interna;16;4;gimnasio vallegrande_camiseta de fisica interna_16
-gimnasio vallegrande;camiseta de fisica interna;S;6;gimnasio vallegrande_camiseta de fisica interna_S
-gimnasio vallegrande;camiseta de fisica interna;M;4;gimnasio vallegrande_camiseta de fisica interna_M
-gimnasio vallegrande;camiseta de fisica interna;L;5;gimnasio vallegrande_camiseta de fisica interna_L
-gimnasio vallegrande;camiseta de fisica interna;XL;1;gimnasio vallegrande_camiseta de fisica interna_XL
-gimnasio vallegrande;camiseta de fisica externa;2;0;gimnasio vallegrande_camiseta de fisica externa_2
-gimnasio vallegrande;camiseta de fisica externa;4;7;gimnasio vallegrande_camiseta de fisica externa_4
-gimnasio vallegrande;camiseta de fisica externa;6;5;gimnasio vallegrande_camiseta de fisica externa_6
-gimnasio vallegrande;camiseta de fisica externa;8;0;gimnasio vallegrande_camiseta de fisica externa_8
-gimnasio vallegrande;camiseta de fisica externa;10;11;gimnasio vallegrande_camiseta de fisica externa_10
-gimnasio vallegrande;camiseta de fisica externa;12;7;gimnasio vallegrande_camiseta de fisica externa_12
-gimnasio vallegrande;camiseta de fisica externa;14;11;gimnasio vallegrande_camiseta de fisica externa_14
-gimnasio vallegrande;camiseta de fisica externa;16;9;gimnasio vallegrande_camiseta de fisica externa_16
-gimnasio vallegrande;camiseta de fisica externa;S;14;gimnasio vallegrande_camiseta de fisica externa_S
-gimnasio vallegrande;camiseta de fisica externa;M;11;gimnasio vallegrande_camiseta de fisica externa_M
-gimnasio vallegrande;camiseta de fisica externa;L;9;gimnasio vallegrande_camiseta de fisica externa_L
-gimnasio vallegrande;camiseta de fisica externa;XL;1;gimnasio vallegrande_camiseta de fisica externa_XL
-gimnasio vallegrande;bombacho dama;2;3;gimnasio vallegrande_bombacho dama_2
-gimnasio vallegrande;bombacho dama;4;2;gimnasio vallegrande_bombacho dama_4
-gimnasio vallegrande;bombacho dama;6;19;gimnasio vallegrande_bombacho dama_6
-gimnasio vallegrande;bombacho dama;8;13;gimnasio vallegrande_bombacho dama_8
-gimnasio vallegrande;bombacho dama;10;13;gimnasio vallegrande_bombacho dama_10
-gimnasio vallegrande;bombacho dama;12;1;gimnasio vallegrande_bombacho dama_12
-gimnasio vallegrande;bombacho dama;14;3;gimnasio vallegrande_bombacho dama_14
-gimnasio vallegrande;bombacho dama;16;4;gimnasio vallegrande_bombacho dama_16
-gimnasio vallegrande;bombacho dama;S;3;gimnasio vallegrande_bombacho dama_S
-gimnasio vallegrande;bombacho dama;M;3;gimnasio vallegrande_bombacho dama_M
-gimnasio vallegrande;bombacho dama;L;9;gimnasio vallegrande_bombacho dama_L
-gimnasio vallegrande;bombacho dama;XL;2;gimnasio vallegrande_bombacho dama_XL
-gimnasio vallegrande;bombacho hombre;2;1;gimnasio vallegrande_bombacho hombre_2
-gimnasio vallegrande;bombacho hombre;4;6;gimnasio vallegrande_bombacho hombre_4
-gimnasio vallegrande;bombacho hombre;6;6;gimnasio vallegrande_bombacho hombre_6
-gimnasio vallegrande;bombacho hombre;8;6;gimnasio vallegrande_bombacho hombre_8
-gimnasio vallegrande;bombacho hombre;10;2;gimnasio vallegrande_bombacho hombre_10
-gimnasio vallegrande;bombacho hombre;12;3;gimnasio vallegrande_bombacho hombre_12
-gimnasio vallegrande;bombacho hombre;14;10;gimnasio vallegrande_bombacho hombre_14
-gimnasio vallegrande;bombacho hombre;16;6;gimnasio vallegrande_bombacho hombre_16
-gimnasio vallegrande;bombacho hombre;S;5;gimnasio vallegrande_bombacho hombre_S
-gimnasio vallegrande;bombacho hombre;M;6;gimnasio vallegrande_bombacho hombre_M
-gimnasio vallegrande;bombacho hombre;L;2;gimnasio vallegrande_bombacho hombre_L
-gimnasio vallegrande;bombacho hombre;XL;4;gimnasio vallegrande_bombacho hombre_XL
-gimnasio vallegrande;camiseta dama externa;2;0;gimnasio vallegrande_camiseta dama externa_2
-gimnasio vallegrande;camiseta dama externa;4;3;gimnasio vallegrande_camiseta dama externa_4
-gimnasio vallegrande;camiseta dama externa;6;16;gimnasio vallegrande_camiseta dama externa_6
-gimnasio vallegrande;camiseta dama externa;8;11;gimnasio vallegrande_camiseta dama externa_8
-gimnasio vallegrande;camiseta dama externa;10;7;gimnasio vallegrande_camiseta dama externa_10
-gimnasio vallegrande;camiseta dama externa;12;5;gimnasio vallegrande_camiseta dama externa_12
-gimnasio vallegrande;camiseta dama externa;14;3;gimnasio vallegrande_camiseta dama externa_14
-gimnasio vallegrande;camiseta dama externa;16;10;gimnasio vallegrande_camiseta dama externa_16
-gimnasio vallegrande;camiseta dama externa;S;10;gimnasio vallegrande_camiseta dama externa_S
-gimnasio vallegrande;camiseta dama externa;M;12;gimnasio vallegrande_camiseta dama externa_M
-gimnasio vallegrande;camiseta dama externa;L;7;gimnasio vallegrande_camiseta dama externa_L
-gimnasio vallegrande;camiseta dama externa;XL;0;gimnasio vallegrande_camiseta dama externa_XL
-gimnasio vallegrande;falda;2;0;gimnasio vallegrande_falda_2
-gimnasio vallegrande;falda;4;0;gimnasio vallegrande_falda_4
-gimnasio vallegrande;falda;6;0;gimnasio vallegrande_falda_6
-gimnasio vallegrande;falda;8;0;gimnasio vallegrande_falda_8
-gimnasio vallegrande;falda;10;0;gimnasio vallegrande_falda_10
-gimnasio vallegrande;falda;12;0;gimnasio vallegrande_falda_12
-gimnasio vallegrande;falda;14;0;gimnasio vallegrande_falda_14
-gimnasio vallegrande;falda;16;0;gimnasio vallegrande_falda_16
-gimnasio vallegrande;falda;S;-1;gimnasio vallegrande_falda_S
-gimnasio vallegrande;falda;M;0;gimnasio vallegrande_falda_M
-gimnasio vallegrande;falda;L;0;gimnasio vallegrande_falda_L
-gimnasio vallegrande;falda;XL;0;gimnasio vallegrande_falda_XL
-gimnasio vallegrande;pantaloneta;2;0;gimnasio vallegrande_pantaloneta_2
-gimnasio vallegrande;pantaloneta;4;12;gimnasio vallegrande_pantaloneta_4
-gimnasio vallegrande;pantaloneta;6;3;gimnasio vallegrande_pantaloneta_6
-gimnasio vallegrande;pantaloneta;8;5;gimnasio vallegrande_pantaloneta_8
-gimnasio vallegrande;pantaloneta;10;11;gimnasio vallegrande_pantaloneta_10
-gimnasio vallegrande;pantaloneta;12;5;gimnasio vallegrande_pantaloneta_12
-gimnasio vallegrande;pantaloneta;14;4;gimnasio vallegrande_pantaloneta_14
-gimnasio vallegrande;pantaloneta;16;3;gimnasio vallegrande_pantaloneta_16
-gimnasio vallegrande;pantaloneta;S;3;gimnasio vallegrande_pantaloneta_S
-gimnasio vallegrande;pantaloneta;M;4;gimnasio vallegrande_pantaloneta_M
-gimnasio vallegrande;pantaloneta;L;4;gimnasio vallegrande_pantaloneta_L
-gimnasio vallegrande;pantaloneta;XL;0;gimnasio vallegrande_pantaloneta_XL
-gimnasio vallegrande;notriza;NA;46;gimnasio vallegrande_notriza_NA
-colsafa;blusa;2;4;colsafa_blusa_2
-colsafa;blusa;4;18;colsafa_blusa_4
-colsafa;blusa;6;24;colsafa_blusa_6
-colsafa;blusa;8;7;colsafa_blusa_8
-colsafa;blusa;10;11;colsafa_blusa_10
-colsafa;blusa;12;22;colsafa_blusa_12
-colsafa;blusa;14;37;colsafa_blusa_14
-colsafa;blusa;16;18;colsafa_blusa_16
-colsafa;blusa;S;17;colsafa_blusa_S
-colsafa;blusa;M;3;colsafa_blusa_M
-colsafa;blusa;L;1;colsafa_blusa_L
-colsafa;blusa;XL;0;colsafa_blusa_XL
-colsafa;falda;2;9;colsafa_falda_2
-colsafa;falda;4;6;colsafa_falda_4
-colsafa;falda;6;5;colsafa_falda_6
-colsafa;falda;8;1;colsafa_falda_8
-colsafa;falda;10;10;colsafa_falda_10
-colsafa;falda;12;11;colsafa_falda_12
-colsafa;falda;14;11;colsafa_falda_14
-colsafa;falda;16;4;colsafa_falda_16
-colsafa;falda;S;9;colsafa_falda_S
-colsafa;falda;M;1;colsafa_falda_M
-colsafa;falda;L;5;colsafa_falda_L
-colsafa;falda;XL;0;colsafa_falda_XL
-colsafa;guayabera;2;4;colsafa_guayabera_2
-colsafa;guayabera;4;20;colsafa_guayabera_4
-colsafa;guayabera;6;9;colsafa_guayabera_6
-colsafa;guayabera;8;4;colsafa_guayabera_8
-colsafa;guayabera;10;11;colsafa_guayabera_10
-colsafa;guayabera;12;16;colsafa_guayabera_12
-colsafa;guayabera;14;2;colsafa_guayabera_14
-colsafa;guayabera;16;7;colsafa_guayabera_16
-colsafa;guayabera;S;4;colsafa_guayabera_S
-colsafa;guayabera;M;9;colsafa_guayabera_M
-colsafa;guayabera;L;3;colsafa_guayabera_L
-colsafa;guayabera;XL;21;colsafa_guayabera_XL
-colsafa;bombacho;2;0;colsafa_bombacho_2
-colsafa;bombacho;4;3;colsafa_bombacho_4
-colsafa;bombacho;6;7;colsafa_bombacho_6
-colsafa;bombacho;8;5;colsafa_bombacho_8
-colsafa;bombacho;10;5;colsafa_bombacho_10
-colsafa;bombacho;12;16;colsafa_bombacho_12
-colsafa;bombacho;14;18;colsafa_bombacho_14
-colsafa;bombacho;16;15;colsafa_bombacho_16
-colsafa;bombacho;S;13;colsafa_bombacho_S
-colsafa;bombacho;M;4;colsafa_bombacho_M
-colsafa;bombacho;L;2;colsafa_bombacho_L
-colsafa;bombacho;XL;2;colsafa_bombacho_XL
-colsafa;camiseta fisica;2;2;colsafa_camiseta fisica_2
-colsafa;camiseta fisica;4;0;colsafa_camiseta fisica_4
-colsafa;camiseta fisica;6;1;colsafa_camiseta fisica_6
-colsafa;camiseta fisica;8;2;colsafa_camiseta fisica_8
-colsafa;camiseta fisica;10;8;colsafa_camiseta fisica_10
-colsafa;camiseta fisica;12;19;colsafa_camiseta fisica_12
-colsafa;camiseta fisica;14;8;colsafa_camiseta fisica_14
-colsafa;camiseta fisica;16;1;colsafa_camiseta fisica_16
-colsafa;camiseta fisica;S;6;colsafa_camiseta fisica_S
-colsafa;camiseta fisica;M;10;colsafa_camiseta fisica_M
-colsafa;camiseta fisica;L;4;colsafa_camiseta fisica_L
-colsafa;camiseta fisica;XL;12;colsafa_camiseta fisica_XL
-conalco;blusa;2;0;conalco_blusa_2
-conalco;blusa;4;7;conalco_blusa_4
-conalco;blusa;6;3;conalco_blusa_6
-conalco;blusa;8;6;conalco_blusa_8
-conalco;blusa;10;13;conalco_blusa_10
-conalco;blusa;12;5;conalco_blusa_12
-conalco;blusa;14;1;conalco_blusa_14
-conalco;blusa;16;3;conalco_blusa_16
-conalco;blusa;S;5;conalco_blusa_S
-conalco;blusa;M;5;conalco_blusa_M
-conalco;blusa;L;18;conalco_blusa_L
-conalco;blusa;XL;0;conalco_blusa_XL
-conalco;falda;2;0;conalco_falda_2
-conalco;falda;4;0;conalco_falda_4
-conalco;falda;6;0;conalco_falda_6
-conalco;falda;8;-1;conalco_falda_8
-conalco;falda;10;-1;conalco_falda_10
-conalco;falda;12;-1;conalco_falda_12
-conalco;falda;14;-3;conalco_falda_14
-conalco;falda;16;0;conalco_falda_16
-conalco;falda;S;-1;conalco_falda_S
-conalco;falda;M;-1;conalco_falda_M
-conalco;falda;L;0;conalco_falda_L
-conalco;falda;XL;0;conalco_falda_XL
-conalco;guayabera;2;0;conalco_guayabera_2
-conalco;guayabera;4;2;conalco_guayabera_4
-conalco;guayabera;6;9;conalco_guayabera_6
-conalco;guayabera;8;18;conalco_guayabera_8
-conalco;guayabera;10;5;conalco_guayabera_10
-conalco;guayabera;12;11;conalco_guayabera_12
-conalco;guayabera;14;4;conalco_guayabera_14
-conalco;guayabera;16;11;conalco_guayabera_16
-conalco;guayabera;S;15;conalco_guayabera_S
-conalco;guayabera;M;12;conalco_guayabera_M
-conalco;guayabera;L;17;conalco_guayabera_L
-conalco;guayabera;XL;21;conalco_guayabera_XL
-conalco;pantalon;2;0;conalco_pantalon_2
-conalco;pantalon;4;0;conalco_pantalon_4
-conalco;pantalon;6;2;conalco_pantalon_6
-conalco;pantalon;8;0;conalco_pantalon_8
-conalco;pantalon;10;0;conalco_pantalon_10
-conalco;pantalon;12;-1;conalco_pantalon_12
-conalco;pantalon;14;0;conalco_pantalon_14
-conalco;pantalon;16;0;conalco_pantalon_16
-conalco;pantalon;28;0;conalco_pantalon_28
-conalco;pantalon;30;4;conalco_pantalon_30
-conalco;pantalon;32;1;conalco_pantalon_32
-conalco;pantalon;34;1;conalco_pantalon_34
-conalco;pantalon;36;0;conalco_pantalon_36
-conalco;pantalon;38;0;conalco_pantalon_38
-conalco;camiseta fisica;2;0;conalco_camiseta fisica_2
-conalco;camiseta fisica;4;0;conalco_camiseta fisica_4
-conalco;camiseta fisica;6;6;conalco_camiseta fisica_6
-conalco;camiseta fisica;8;8;conalco_camiseta fisica_8
-conalco;camiseta fisica;10;13;conalco_camiseta fisica_10
-conalco;camiseta fisica;12;11;conalco_camiseta fisica_12
-conalco;camiseta fisica;14;13;conalco_camiseta fisica_14
-conalco;camiseta fisica;16;0;conalco_camiseta fisica_16
-conalco;camiseta fisica;S;10;conalco_camiseta fisica_S
-conalco;camiseta fisica;M;10;conalco_camiseta fisica_M
-conalco;camiseta fisica;L;15;conalco_camiseta fisica_L
-conalco;camiseta fisica;XL;8;conalco_camiseta fisica_XL
-conalco;bombacho;2;0;conalco_bombacho_2
-conalco;bombacho;4;2;conalco_bombacho_4
-conalco;bombacho;6;12;conalco_bombacho_6
-conalco;bombacho;8;19;conalco_bombacho_8
-conalco;bombacho;10;14;conalco_bombacho_10
-conalco;bombacho;12;17;conalco_bombacho_12
-conalco;bombacho;14;13;conalco_bombacho_14
-conalco;bombacho;16;3;conalco_bombacho_16
-conalco;bombacho;S;9;conalco_bombacho_S
-conalco;bombacho;M;13;conalco_bombacho_M
-conalco;bombacho;L;0;conalco_bombacho_L
-conalco;bombacho;XL;7;conalco_bombacho_XL
-conalco;medias hombre;2;0;conalco_medias hombre_2
-conalco;medias hombre;4;9;conalco_medias hombre_4
-conalco;medias hombre;6;-2;conalco_medias hombre_6
-conalco;medias hombre;8;5;conalco_medias hombre_8
-conalco;medias hombre;10;-1;conalco_medias hombre_10
-conalco;medias mujer;2;0;conalco_medias mujer_2
-conalco;medias mujer;4;0;conalco_medias mujer_4
-conalco;medias mujer;6;11;conalco_medias mujer_6
-conalco;medias mujer;8;18;conalco_medias mujer_8
-conalco;medias mujer;10;29;conalco_medias mujer_10
-conalco;bermuda;2;0;conalco_bermuda_2
-conalco;bermuda;4;8;conalco_bermuda_4
-conalco;bermuda;6;2;conalco_bermuda_6
-conalco;bermuda;8;0;conalco_bermuda_8
-conalco;bermuda;10;0;conalco_bermuda_10
-conalco;bermuda;12;0;conalco_bermuda_12
-conalco;cordon;NA;100;conalco_cordon_NA
-la inmaculada;blusa;2;0;la inmaculada_blusa_2
-la inmaculada;blusa;4;12;la inmaculada_blusa_4
-la inmaculada;blusa;6;21;la inmaculada_blusa_6
-la inmaculada;blusa;8;11;la inmaculada_blusa_8
-la inmaculada;blusa;10;4;la inmaculada_blusa_10
-la inmaculada;blusa;12;18;la inmaculada_blusa_12
-la inmaculada;blusa;14;0;la inmaculada_blusa_14
-la inmaculada;blusa;16;2;la inmaculada_blusa_16
-la inmaculada;blusa;S;1;la inmaculada_blusa_S
-la inmaculada;blusa;M;10;la inmaculada_blusa_M
-la inmaculada;blusa;L;9;la inmaculada_blusa_L
-la inmaculada;blusa;XL;0;la inmaculada_blusa_XL
-la inmaculada;jumper;2;0;la inmaculada_jumper_2
-la inmaculada;jumper;4;0;la inmaculada_jumper_4
-la inmaculada;jumper;6;0;la inmaculada_jumper_6
-la inmaculada;jumper;8;0;la inmaculada_jumper_8
-la inmaculada;jumper;10;0;la inmaculada_jumper_10
-la inmaculada;jumper;12;0;la inmaculada_jumper_12
-la inmaculada;jumper;14;0;la inmaculada_jumper_14
-la inmaculada;jumper;16;0;la inmaculada_jumper_16
-la inmaculada;jumper;S;0;la inmaculada_jumper_S
-la inmaculada;jumper;M;0;la inmaculada_jumper_M
-la inmaculada;jumper;L;0;la inmaculada_jumper_L
-la inmaculada;jumper;XL;0;la inmaculada_jumper_XL
-la inmaculada;camiseta fisica;2;0;la inmaculada_camiseta fisica_2
-la inmaculada;camiseta fisica;4;6;la inmaculada_camiseta fisica_4
-la inmaculada;camiseta fisica;6;8;la inmaculada_camiseta fisica_6
-la inmaculada;camiseta fisica;8;5;la inmaculada_camiseta fisica_8
-la inmaculada;camiseta fisica;10;5;la inmaculada_camiseta fisica_10
-la inmaculada;camiseta fisica;12;5;la inmaculada_camiseta fisica_12
-la inmaculada;camiseta fisica;14;8;la inmaculada_camiseta fisica_14
-la inmaculada;camiseta fisica;16;16;la inmaculada_camiseta fisica_16
-la inmaculada;camiseta fisica;S;19;la inmaculada_camiseta fisica_S
-la inmaculada;camiseta fisica;M;10;la inmaculada_camiseta fisica_M
-la inmaculada;camiseta fisica;L;12;la inmaculada_camiseta fisica_L
-la inmaculada;camiseta fisica;XL;13;la inmaculada_camiseta fisica_XL
-la inmaculada;bombacho;2;0;la inmaculada_bombacho_2
-la inmaculada;bombacho;4;0;la inmaculada_bombacho_4
-la inmaculada;bombacho;6;5;la inmaculada_bombacho_6
-la inmaculada;bombacho;8;31;la inmaculada_bombacho_8
-la inmaculada;bombacho;10;17;la inmaculada_bombacho_10
-la inmaculada;bombacho;12;25;la inmaculada_bombacho_12
-la inmaculada;bombacho;14;14;la inmaculada_bombacho_14
-la inmaculada;bombacho;16;21;la inmaculada_bombacho_16
-la inmaculada;bombacho;S;16;la inmaculada_bombacho_S
-la inmaculada;bombacho;M;20;la inmaculada_bombacho_M
-la inmaculada;bombacho;L;9;la inmaculada_bombacho_L
-la inmaculada;bombacho;XL;6;la inmaculada_bombacho_XL
-la inmaculada;medias;2;60;la inmaculada_medias_2
-la inmaculada;medias;4;60;la inmaculada_medias_4
-la inmaculada;medias;6;60;la inmaculada_medias_6
-la inmaculada;medias;8;59;la inmaculada_medias_8
-la inmaculada;medias;10;59;la inmaculada_medias_10
-la inmaculada;medias;12;60;la inmaculada_medias_12
-hogar;camiseta fisica;2;6;hogar_camiseta fisica_2
-hogar;camiseta fisica;4;4;hogar_camiseta fisica_4
-hogar;camiseta fisica;6;3;hogar_camiseta fisica_6
-hogar;bombacho fisica;2;7;hogar_bombacho fisica_2
-hogar;bombacho fisica;4;0;hogar_bombacho fisica_4
-hogar;bombacho fisica;6;9;hogar_bombacho fisica_6
-Bordados;pequeño;NA;0;Bordados_pequeño_NA
-Bordados;mediano;NA;-5;Bordados_mediano_NA
-Bordados;grande;NA;-1;Bordados_grande_NA
-Bordados;extra grande;NA;-4;Bordados_extra grande_NA
-Unicor;kids;6;2;Unicor_kids_6
-Unicor;kids;8;7;Unicor_kids_8
-Unicor;kids;10;14;Unicor_kids_10
-Unicor;kids;12;0;Unicor_kids_12
-Unicor;kids;14;8;Unicor_kids_14
-Unicor;kids;16;12;Unicor_kids_16
-Unicor;kids;S;10;Unicor_kids_S
-Unicor;kids;M;0;Unicor_kids_M
-Unicor;kids;L;0;Unicor_kids_L
-Unicor;kids;XL;0;Unicor_kids_XL
-Unicor;Teens;6;0;Unicor_Teens_6
-Unicor;Teens;8;0;Unicor_Teens_8
-Unicor;Teens;10;2;Unicor_Teens_10
-Unicor;Teens;12;7;Unicor_Teens_12
-Unicor;Teens;14;9;Unicor_Teens_14
-Unicor;Teens;16;0;Unicor_Teens_16
-Unicor;Teens;S;-1;Unicor_Teens_S
-Unicor;Teens;M;3;Unicor_Teens_M
-Unicor;Teens;L;1;Unicor_Teens_L
-Unicor;Teens;XL;1;Unicor_Teens_XL
-Unicor;Grown;6;0;Unicor_Grown_6
-Unicor;Grown;8;0;Unicor_Grown_8
-Unicor;Grown;10;3;Unicor_Grown_10
-Unicor;Grown;12;5;Unicor_Grown_12
-Unicor;Grown;14;3;Unicor_Grown_14
-Unicor;Grown;16;4;Unicor_Grown_16
-Unicor;Grown;S;5;Unicor_Grown_S
-Unicor;Grown;M;6;Unicor_Grown_M
-Unicor;Grown;L;5;Unicor_Grown_L
-Unicor;Grown;XL;0;Unicor_Grown_XL
-Antonio Narino;Camiseta diario/fisica;2;0;Antonio Narino_Camiseta diario/fisica_2
-Antonio Narino;Camiseta diario/fisica;4;13;Antonio Narino_Camiseta diario/fisica_4
-Antonio Narino;Camiseta diario/fisica;6;21;Antonio Narino_Camiseta diario/fisica_6
-Antonio Narino;Camiseta diario/fisica;8;7;Antonio Narino_Camiseta diario/fisica_8
-Antonio Narino;Camiseta diario/fisica;10;4;Antonio Narino_Camiseta diario/fisica_10
-Antonio Narino;Camiseta diario/fisica;12;10;Antonio Narino_Camiseta diario/fisica_12
-Antonio Narino;Camiseta diario/fisica;14;8;Antonio Narino_Camiseta diario/fisica_14
-Antonio Narino;Camiseta diario/fisica;16;6;Antonio Narino_Camiseta diario/fisica_16
-Antonio Narino;Camiseta diario/fisica;S;10;Antonio Narino_Camiseta diario/fisica_S
-Antonio Narino;Camiseta diario/fisica;M;8;Antonio Narino_Camiseta diario/fisica_M
-Antonio Narino;Camiseta diario/fisica;L;4;Antonio Narino_Camiseta diario/fisica_L
-Antonio Narino;Camiseta diario/fisica;XL;0;Antonio Narino_Camiseta diario/fisica_XL
-Antonio Narino;bombacho;4;8;Antonio Narino_bombacho_4
-Antonio Narino;bombacho;6;10;Antonio Narino_bombacho_6
-Antonio Narino;bombacho;8;3;Antonio Narino_bombacho_8
-Antonio Narino;bombacho;10;6;Antonio Narino_bombacho_10
-Antonio Narino;bombacho;12;11;Antonio Narino_bombacho_12
-Antonio Narino;bombacho;14;4;Antonio Narino_bombacho_14
-Antonio Narino;bombacho;16;7;Antonio Narino_bombacho_16
-Antonio Narino;bombacho;S;3;Antonio Narino_bombacho_S
-Antonio Narino;bombacho;M;3;Antonio Narino_bombacho_M
-Antonio Narino;bombacho;L;10;Antonio Narino_bombacho_L
-Antonio Narino;bombacho;XL;10;Antonio Narino_bombacho_XL
-Pantalones Azules;eko;6;3;Pantalones Azules_eko_6
-Pantalones Azules;eko;8;8;Pantalones Azules_eko_8
-Pantalones Azules;eko;10;5;Pantalones Azules_eko_10
-Pantalones Azules;eko;12;19;Pantalones Azules_eko_12
-Pantalones Azules;eko;14;16;Pantalones Azules_eko_14
-Pantalones Azules;eko;16;8;Pantalones Azules_eko_16
-Pantalones Azules;eko;28;9;Pantalones Azules_eko_28
-Pantalones Azules;eko;30;13;Pantalones Azules_eko_30
-Pantalones Azules;eko;32;10;Pantalones Azules_eko_32
-Pantalones Azules;eko;34;9;Pantalones Azules_eko_34
-Pantalones Azules;eko;36;3;Pantalones Azules_eko_36
-Pantalones Azules;eko;38;3;Pantalones Azules_eko_38
-Pantalones Azules;intermedio;6;1;Pantalones Azules_intermedio_6
-Pantalones Azules;intermedio;8;22;Pantalones Azules_intermedio_8
-Pantalones Azules;intermedio;10;22;Pantalones Azules_intermedio_10
-Pantalones Azules;intermedio;12;5;Pantalones Azules_intermedio_12
-Pantalones Azules;intermedio;14;23;Pantalones Azules_intermedio_14
-Pantalones Azules;intermedio;16;21;Pantalones Azules_intermedio_16
-Pantalones Azules;intermedio;28;13;Pantalones Azules_intermedio_28
-Pantalones Azules;intermedio;30;29;Pantalones Azules_intermedio_30
-Pantalones Azules;intermedio;32;10;Pantalones Azules_intermedio_32
-Pantalones Azules;intermedio;34;4;Pantalones Azules_intermedio_34
-Pantalones Azules;intermedio;36;4;Pantalones Azules_intermedio_36
-Pantalones Azules;intermedio;38;0;Pantalones Azules_intermedio_38
-Pantalones Azules;lino fino;6;2;Pantalones Azules_lino fino_6
-Pantalones Azules;lino fino;8;13;Pantalones Azules_lino fino_8
-Pantalones Azules;lino fino;10;9;Pantalones Azules_lino fino_10
-Pantalones Azules;lino fino;12;11;Pantalones Azules_lino fino_12
-Pantalones Azules;lino fino;14;11;Pantalones Azules_lino fino_14
-Pantalones Azules;lino fino;16;4;Pantalones Azules_lino fino_16
-Pantalones Azules;lino fino;28;5;Pantalones Azules_lino fino_28
-Pantalones Azules;lino fino;30;7;Pantalones Azules_lino fino_30
-Pantalones Azules;lino fino;32;8;Pantalones Azules_lino fino_32
-Pantalones Azules;lino fino;34;7;Pantalones Azules_lino fino_34
-Pantalones Azules;lino fino;36;8;Pantalones Azules_lino fino_36
-Pantalones Azules;lino fino;38;2;Pantalones Azules_lino fino_38
-Bermudas Azules;lino fino;2;8;Bermudas Azules_lino fino_2
-Bermudas Azules;lino fino;4;5;Bermudas Azules_lino fino_4
-Bermudas Azules;lino fino;6;6;Bermudas Azules_lino fino_6
-Bermudas Azules;lino fino;8;6;Bermudas Azules_lino fino_8
-Bermudas Azules;lino fino;10;3;Bermudas Azules_lino fino_10
-Bermudas Azules;lino fino;12;0;Bermudas Azules_lino fino_12
-Bermudas Azules;eko;2;19;Bermudas Azules_eko_2
-Bermudas Azules;eko;4;5;Bermudas Azules_eko_4
-Bermudas Azules;eko;6;0;Bermudas Azules_eko_6
-Bermudas Azules;eko;8;11;Bermudas Azules_eko_8
-Bermudas Azules;eko;10;10;Bermudas Azules_eko_10
-otros;Conjunto Antifluido Plus;NA;0;otros_Conjunto Antifluido Plus_NA
-otros;Tapa Bocas;NA;0;otros_Tapa Bocas_NA
-otros;Gorro;NA;0;otros_Gorro_NA
-otros;Delantal;NA;0;otros_Delantal_NA
-otros;Conjunto Antifluido Eko;NA;0;otros_Conjunto Antifluido Eko_NA
-liceo pupo jimenez;Medias;12;-3;liceo pupo jimenez_Medias_12
-liceo universitario;medias;12;22;liceo universitario_medias_12
-Domicilios;A;NA;-6;Domicilios_A_NA
-Domicilios;B;NA;-12;Domicilios_B_NA
-Domicilios;C;NA;0;Domicilios_C_NA
-Policia;blusa;2;0;Policia_blusa_2
-Policia;blusa;4;0;Policia_blusa_4
-Policia;blusa;6;0;Policia_blusa_6
-Policia;blusa;8;1;Policia_blusa_8
-Policia;blusa;10;7;Policia_blusa_10
-Policia;blusa;12;36;Policia_blusa_12
-Policia;blusa;14;22;Policia_blusa_14
-Policia;blusa;16;29;Policia_blusa_16
-Policia;blusa;S;11;Policia_blusa_S
-Policia;blusa;M;13;Policia_blusa_M
-Policia;blusa;L;0;Policia_blusa_L
-Policia;blusa;XL;1;Policia_blusa_XL
-Policia;camiseta fisica;4;0;Policia_camiseta fisica_4
-Policia;camiseta fisica;6;0;Policia_camiseta fisica_6
-Policia;camiseta fisica;8;2;Policia_camiseta fisica_8
-Policia;camiseta fisica;10;0;Policia_camiseta fisica_10
-Policia;camiseta fisica;12;3;Policia_camiseta fisica_12
-Policia;camiseta fisica;14;3;Policia_camiseta fisica_14
-Policia;camiseta fisica;16;3;Policia_camiseta fisica_16
-Policia;camiseta fisica;S;1;Policia_camiseta fisica_S
-Policia;camiseta fisica;M;4;Policia_camiseta fisica_M
-Policia;camiseta fisica;L;0;Policia_camiseta fisica_L
-Policia;camiseta fisica;XL;0;Policia_camiseta fisica_XL
-Policia;bombacho;2;0;Policia_bombacho_2
-Policia;bombacho;4;0;Policia_bombacho_4
-Policia;bombacho;6;1;Policia_bombacho_6
-Policia;bombacho;8;4;Policia_bombacho_8
-Policia;bombacho;10;3;Policia_bombacho_10
-Policia;bombacho;12;4;Policia_bombacho_12
-Policia;bombacho;14;6;Policia_bombacho_14
-Policia;bombacho;16;9;Policia_bombacho_16
-Policia;bombacho;S;4;Policia_bombacho_S
-Policia;bombacho;M;4;Policia_bombacho_M
-Policia;bombacho;L;0;Policia_bombacho_L
-Policia;bombacho;XL;0;Policia_bombacho_XL
-Antonio Narino;blusa;2;0;Antonio Narino_blusa_2
-Antonio Narino;blusa;4;1;Antonio Narino_blusa_4
-Antonio Narino;blusa;6;13;Antonio Narino_blusa_6
-Antonio Narino;blusa;8;2;Antonio Narino_blusa_8
-Antonio Narino;blusa;10;2;Antonio Narino_blusa_10
-Antonio Narino;blusa;12;18;Antonio Narino_blusa_12
-Antonio Narino;blusa;14;7;Antonio Narino_blusa_14
-Antonio Narino;blusa;16;5;Antonio Narino_blusa_16
-Antonio Narino;blusa;S;5;Antonio Narino_blusa_S
-Antonio Narino;blusa;M;0;Antonio Narino_blusa_M
-Antonio Narino;blusa;L;0;Antonio Narino_blusa_L
-Antonio Narino;blusa;XL;0;Antonio Narino_blusa_XL
-Antonio Narino;jumper;2;0;Antonio Narino_jumper_2
-Antonio Narino;jumper;4;0;Antonio Narino_jumper_4
-Antonio Narino;jumper;6;0;Antonio Narino_jumper_6
-Antonio Narino;jumper;8;0;Antonio Narino_jumper_8
-Antonio Narino;jumper;10;0;Antonio Narino_jumper_10
-Antonio Narino;jumper;12;0;Antonio Narino_jumper_12
-Antonio Narino;jumper;14;0;Antonio Narino_jumper_14
-Antonio Narino;jumper;16;0;Antonio Narino_jumper_16
-Antonio Narino;jumper;S;0;Antonio Narino_jumper_S
-Antonio Narino;jumper;M;0;Antonio Narino_jumper_M
-Antonio Narino;jumper;L;0;Antonio Narino_jumper_L
-Antonio Narino;jumper;XL;0;Antonio Narino_jumper_XL
-Policia;camisa;2;0;Policia_camisa_2
-Policia;camisa;4;0;Policia_camisa_4
-Policia;camisa;6;0;Policia_camisa_6
-Policia;camisa;8;0;Policia_camisa_8
-Policia;camisa;10;3;Policia_camisa_10
-Policia;camisa;12;5;Policia_camisa_12
-Policia;camisa;14;3;Policia_camisa_14
-Policia;camisa;16;0;Policia_camisa_16
-Policia;camisa;S;5;Policia_camisa_S
-Policia;camisa;M;4;Policia_camisa_M
-Policia;camisa;L;4;Policia_camisa_L
-Policia;camisa;XL;0;Policia_camisa_XL
-Policia;jumper;2;0;Policia_jumper_2
-Policia;jumper;4;0;Policia_jumper_4
-Policia;jumper;6;0;Policia_jumper_6
-Policia;jumper;8;0;Policia_jumper_8
-Policia;jumper;10;0;Policia_jumper_10
-Policia;jumper;12;0;Policia_jumper_12
-Policia;jumper;14;0;Policia_jumper_14
-Policia;jumper;16;0;Policia_jumper_16
-Policia;jumper;S;0;Policia_jumper_S
-Policia;jumper;M;0;Policia_jumper_M
-Policia;jumper;L;0;Policia_jumper_L
-Policia;jumper;XL;0;Policia_jumper_XL
-antifluido;La Fayette;S;0;antifluido_La Fayette_S
-antifluido;La Fayette;M;0;antifluido_La Fayette_M
-antifluido;La Fayette;L;0;antifluido_La Fayette_L
-antifluido;La Fayette;XL;-2;antifluido_La Fayette_XL
-antifluido;La Fayette;XXL;0;antifluido_La Fayette_XL
-antifluido;Nacional;S;0;antifluido_La Fayette_S
-antifluido;Nacional;M;0;antifluido_La Fayette_M
-antifluido;Nacional;L;0;antifluido_La Fayette_L
-antifluido;Nacional;XL;0;antifluido_La Fayette_XL
-antifluido;Nacional;XXL;0;antifluido_La Fayette_XL
-dotacion;camisa oxford mujer azul;16;5;dotacion_camisa oxford mujer azul_16
-dotacion;camisa oxford mujer azul;S;5;dotacion_camisa oxford mujer azul_S
-dotacion;camisa oxford mujer azul;M;5;dotacion_camisa oxford mujer azul_M
-dotacion;camisa oxford mujer azul;L;1;dotacion_camisa oxford mujer azul_L
-dotacion;camisa oxford mujer azul;XL;-2;dotacion_camisa oxford mujer azul_XL
-dotacion;camisa oxford hombre azul;S;5;dotacion_camisa oxford hombre azul_S
-dotacion;camisa oxford hombre azul;M;5;dotacion_camisa oxford hombre azul_M
-dotacion;camisa oxford hombre azul;L;5;dotacion_camisa oxford hombre azul_L
-dotacion;camisa oxford hombre azul;XL;0;dotacion_camisa oxford hombre azul_XL
-dotacion;jeans hombre strech;28;0;dotacion_jeans hombre strech_28
-dotacion;jeans hombre strech;30;0;dotacion_jeans hombre strech_30
-dotacion;jeans hombre strech;32;0;dotacion_jeans hombre strech_32
-dotacion;jeans hombre strech;34;0;dotacion_jeans hombre strech_34
-dotacion;jeans hombre strech;36;0;dotacion_jeans hombre strech_36
-dotacion;jeans hombre strech;38;0;dotacion_jeans hombre strech_38
-dotacion;jeans hombre strech;40;0;dotacion_jeans hombre strech_40
-dotacion;jeans dama strech;6;0;dotacion_jeans dama strech_6
-dotacion;jeans dama strech;8;0;dotacion_jeans dama strech_8
-dotacion;jeans dama strech;10;0;dotacion_jeans dama strech_10
-dotacion;jeans dama strech;12;0;dotacion_jeans dama strech_12
-dotacion;jeans dama strech;14;0;dotacion_jeans dama strech_14
-dotacion;jeans dama strech;16;0;dotacion_jeans dama strech_16
-dotacion;jeans dama strech;18;0;dotacion_jeans dama strech_18
-dotacion;jeans dama strech;20;-1;dotacion_jeans dama strech_20
-dotacion;jeans dama strech;22;0;dotacion_jeans dama strech_22
-dotacion;jeans dama strech;24;0;dotacion_jeans dama strech_24
-dotacion;camisa jean manga larga hombre;s;0;dotacion_camisa jean manga larga hombre_s
-dotacion;camisa jean manga larga hombre;m;0;dotacion_camisa jean manga larga hombre_m
-dotacion;camisa jean manga larga hombre;l;0;dotacion_camisa jean manga larga hombre_l
-dotacion;camisa jean manga larga hombre;xl;0;dotacion_camisa jean manga larga hombre_xl
-dotacion;camisa jean manga larga mujer;16;0;dotacion_camisa jean manga larga mujer_16
-dotacion;camisa jean manga larga mujer;s;0;dotacion_camisa jean manga larga mujer_s
-dotacion;camisa jean manga larga mujer;m;0;dotacion_camisa jean manga larga mujer_m
-dotacion;camisa jean manga larga mujer;l;0;dotacion_camisa jean manga larga mujer_l
-dotacion;camisa jean manga larga mujer;xl;0;dotacion_camisa jean manga larga mujer_xl
-dotacion;chaleco;s;-3;dotacion_chaleco_s
-dotacion;chaleco;m;0;dotacion_chaleco_m
-dotacion;chaleco;l;-2;dotacion_chaleco_l
-dotacion;chaleco;xl;-1;dotacion_chaleco_xl
-dotacion;delantal-dril;NA;0;dotacion_delantal-dril_NA
-dotacion;delantal-antifluido;NA;;dotacion_delantal-antifluido_NA
-dotacion;Camiseta polo esencial (yute-lacost);16;0;dotacion_Camiseta polo esencial (yute-lacost)_16
-dotacion;Camiseta polo esencial (yute-lacost);S;0;dotacion_Camiseta polo esencial (yute-lacost)_S
-dotacion;Camiseta polo esencial (yute-lacost);M;0;dotacion_Camiseta polo esencial (yute-lacost)_M
-dotacion;Camiseta polo esencial (yute-lacost);L;0;dotacion_Camiseta polo esencial (yute-lacost)_L
-dotacion;Camiseta polo esencial (yute-lacost);XL;0;dotacion_Camiseta polo esencial (yute-lacost)_XL
-dotacion;Camiseta polo esencial (yute-lacost);XXL;0;dotacion_Camiseta polo esencial (yute-lacost)_XXL
-dotacion;Camiseta polo ejecutiva (cole plus);16;0;dotacion_Camiseta polo ejecutiva (cole plus)_16
-dotacion;Camiseta polo ejecutiva (cole plus);S;0;dotacion_Camiseta polo ejecutiva (cole plus)_S
-dotacion;Camiseta polo ejecutiva (cole plus);M;0;dotacion_Camiseta polo ejecutiva (cole plus)_M
-dotacion;Camiseta polo ejecutiva (cole plus);L;0;dotacion_Camiseta polo ejecutiva (cole plus)_L
-dotacion;Camiseta polo ejecutiva (cole plus);XL;0;dotacion_Camiseta polo ejecutiva (cole plus)_XL
-dotacion;Camiseta polo ejecutiva (cole plus);XXL;0;dotacion_Camiseta polo ejecutiva (cole plus)_XXL
-dotacion;Camiseta polo signature (polux);16;0;dotacion_Camiseta polo signature (polux)_16
-dotacion;Camiseta polo signature (polux);S;0;dotacion_Camiseta polo signature (polux)_S
-dotacion;Camiseta polo signature (polux);M;0;dotacion_Camiseta polo signature (polux)_M
-dotacion;Camiseta polo signature (polux);L;0;dotacion_Camiseta polo signature (polux)_L
-dotacion;Camiseta polo signature (polux);XL;0;dotacion_Camiseta polo signature (polux)_XL
-dotacion;Camiseta polo signature (polux);XXL;0;dotacion_Camiseta polo signature (polux)_XXL
-dotacion;Blusa manga larga-veneta signature;16;0;dotacion_Blusa manga larga-veneta signature_16
-dotacion;Blusa manga larga-veneta signature;S;0;dotacion_Blusa manga larga-veneta signature_S
-dotacion;Blusa manga larga-veneta signature;M;0;dotacion_Blusa manga larga-veneta signature_M
-dotacion;Blusa manga larga-veneta signature;L;0;dotacion_Blusa manga larga-veneta signature_L
-dotacion;Blusa manga larga-veneta signature;XL;0;dotacion_Blusa manga larga-veneta signature_XL
-dotacion;Blusa manga corta-veneta signature;16;0;dotacion_Blusa manga corta-veneta signature_16
-dotacion;Blusa manga corta-veneta signature;S;0;dotacion_Blusa manga corta-veneta signature_S
-dotacion;Blusa manga corta-veneta signature;M;0;dotacion_Blusa manga corta-veneta signature_M
-dotacion;Blusa manga corta-veneta signature;L;0;dotacion_Blusa manga corta-veneta signature_L
-dotacion;Blusa manga corta-veneta signature;XL;0;dotacion_Blusa manga corta-veneta signature_XL
-dotacion;Camisa manga larga-veneta signature;16;0;dotacion_Camisa manga larga-veneta signature_16
-dotacion;Camisa manga larga-veneta signature;S;0;dotacion_Camisa manga larga-veneta signature_S
-dotacion;Camisa manga larga-veneta signature;M;0;dotacion_Camisa manga larga-veneta signature_M
-dotacion;Camisa manga larga-veneta signature;L;0;dotacion_Camisa manga larga-veneta signature_L
-dotacion;Camisa manga larga-veneta signature;XL;0;dotacion_Camisa manga larga-veneta signature_XL
-dotacion;Camisa manga corta-veneta signature;16;0;dotacion_Camisa manga corta-veneta signature_16
-dotacion;Camisa manga corta-veneta signature;S;0;dotacion_Camisa manga corta-veneta signature_S
-dotacion;Camisa manga corta-veneta signature;M;0;dotacion_Camisa manga corta-veneta signature_M
-dotacion;Camisa manga corta-veneta signature;L;0;dotacion_Camisa manga corta-veneta signature_L
-dotacion;Camisa manga corta-veneta signature;XL;0;dotacion_Camisa manga corta-veneta signature_XL
-dotacion;Blusa manga larga-algodon;16;0;dotacion_Blusa manga larga-algodon_16
-dotacion;Blusa manga larga-algodon;S;0;dotacion_Blusa manga larga-algodon_S
-dotacion;Blusa manga larga-algodon;M;0;dotacion_Blusa manga larga-algodon_M
-dotacion;Blusa manga larga-algodon;L;0;dotacion_Blusa manga larga-algodon_L
-dotacion;Blusa manga larga-algodon;XL;0;dotacion_Blusa manga larga-algodon_XL
-dotacion;Blusa manga corta-algodon;16;0;dotacion_Blusa manga corta-algodon_16
-dotacion;Blusa manga corta-algodon;S;0;dotacion_Blusa manga corta-algodon_S
-dotacion;Blusa manga corta-algodon;M;0;dotacion_Blusa manga corta-algodon_M
-dotacion;Blusa manga corta-algodon;L;0;dotacion_Blusa manga corta-algodon_L
-dotacion;Blusa manga corta-algodon;XL;0;dotacion_Blusa manga corta-algodon_XL
-dotacion;Camisa manga larga-algodon;16;0;dotacion_Camisa manga larga-algodon_16
-dotacion;Camisa manga larga-algodon;S;0;dotacion_Camisa manga larga-algodon_S
-dotacion;Camisa manga larga-algodon;M;0;dotacion_Camisa manga larga-algodon_M
-dotacion;Camisa manga larga-algodon;L;0;dotacion_Camisa manga larga-algodon_L
-dotacion;Camisa manga larga-algodon;XL;0;dotacion_Camisa manga larga-algodon_XL
-dotacion;Camisa manga corta-algodon;16;0;dotacion_Camisa manga corta-algodon_16
-dotacion;Camisa manga corta-algodon;S;0;dotacion_Camisa manga corta-algodon_S
-dotacion;Camisa manga corta-algodon;M;0;dotacion_Camisa manga corta-algodon_M
-dotacion;Camisa manga corta-algodon;L;0;dotacion_Camisa manga corta-algodon_L
-dotacion;Camisa manga corta-algodon;XL;0;dotacion_Camisa manga corta-algodon_XL
-dotacion;pantalon hombre nova signature;28;0;dotacion_pantalon hombre nova signature_28
-dotacion;pantalon hombre nova signature;30;0;dotacion_pantalon hombre nova signature_30
-dotacion;pantalon hombre nova signature;32;0;dotacion_pantalon hombre nova signature_32
-dotacion;pantalon hombre nova signature;34;0;dotacion_pantalon hombre nova signature_34
-dotacion;pantalon hombre nova signature;36;0;dotacion_pantalon hombre nova signature_36
-dotacion;pantalon hombre nova signature;38;0;dotacion_pantalon hombre nova signature_38
-dotacion;pantalon hombre lino;28;0;dotacion_pantalon hombre lino_28
-dotacion;pantalon hombre lino;30;0;dotacion_pantalon hombre lino_30
-dotacion;pantalon hombre lino;32;0;dotacion_pantalon hombre lino_32
-dotacion;pantalon hombre lino;34;0;dotacion_pantalon hombre lino_34
-dotacion;pantalon hombre lino;36;0;dotacion_pantalon hombre lino_36
-dotacion;pantalon hombre lino;38;0;dotacion_pantalon hombre lino_38
-dotacion;slack ejecutivo (intermedio);2;0;dotacion_slack ejecutivo (intermedio)_2
-dotacion;slack ejecutivo (intermedio);4;0;dotacion_slack ejecutivo (intermedio)_4
-dotacion;slack ejecutivo (intermedio);6;0;dotacion_slack ejecutivo (intermedio)_6
-dotacion;slack ejecutivo (intermedio);8;0;dotacion_slack ejecutivo (intermedio)_8
-dotacion;slack ejecutivo (intermedio);10;0;dotacion_slack ejecutivo (intermedio)_10
-dotacion;slack ejecutivo (intermedio);12;0;dotacion_slack ejecutivo (intermedio)_12
-dotacion;slack ejecutivo (intermedio);14;0;dotacion_slack ejecutivo (intermedio)_14
-dotacion;slack strech signature;2;0;dotacion_slack strech signature_2
-dotacion;slack strech signature;4;0;dotacion_slack strech signature_4
-dotacion;slack strech signature;6;0;dotacion_slack strech signature_6
-dotacion;slack strech signature;8;0;dotacion_slack strech signature_8
-dotacion;slack strech signature;10;0;dotacion_slack strech signature_10
-dotacion;slack strech signature;12;0;dotacion_slack strech signature_12
-dotacion;slack strech signature;14;0;dotacion_slack strech signature_14
-dotacion;pantalon hombre ejecutivo (intermedio);28;0;dotacion_pantalon hombre ejecutivo (intermedio)_28
-dotacion;pantalon hombre ejecutivo (intermedio);30;0;dotacion_pantalon hombre ejecutivo (intermedio)_30
-dotacion;pantalon hombre ejecutivo (intermedio);32;0;dotacion_pantalon hombre ejecutivo (intermedio)_32
-dotacion;pantalon hombre ejecutivo (intermedio);34;0;dotacion_pantalon hombre ejecutivo (intermedio)_34
-dotacion;pantalon hombre ejecutivo (intermedio);36;0;dotacion_pantalon hombre ejecutivo (intermedio)_36
-dotacion;pantalon hombre ejecutivo (intermedio);38;0;dotacion_pantalon hombre ejecutivo (intermedio)_38
-dotacion;pantalon hombre esencial (EKO);28;0;dotacion_pantalon hombre esencial (EKO)_28
-dotacion;pantalon hombre esencial (EKO);30;0;dotacion_pantalon hombre esencial (EKO)_30
-dotacion;pantalon hombre esencial (EKO);32;0;dotacion_pantalon hombre esencial (EKO)_32
-dotacion;pantalon hombre esencial (EKO);34;0;dotacion_pantalon hombre esencial (EKO)_34
-dotacion;pantalon hombre esencial (EKO);36;0;dotacion_pantalon hombre esencial (EKO)_36
-dotacion;pantalon hombre esencial (EKO);38;0;dotacion_pantalon hombre esencial (EKO)_38
-dotacion;pantalon hombre ejecutivo (NSC);28;0;dotacion_pantalon hombre ejecutivo (NSC)_28
-dotacion;pantalon hombre ejecutivo (NSC);30;0;dotacion_pantalon hombre ejecutivo (NSC)_30
-dotacion;pantalon hombre ejecutivo (NSC);32;0;dotacion_pantalon hombre ejecutivo (NSC)_32
-dotacion;pantalon hombre ejecutivo (NSC);34;0;dotacion_pantalon hombre ejecutivo (NSC)_34
-dotacion;pantalon hombre ejecutivo (NSC);36;0;dotacion_pantalon hombre ejecutivo (NSC)_36
-dotacion;pantalon hombre ejecutivo (NSC);38;0;dotacion_pantalon hombre ejecutivo (NSC)_38
-dotacion;slack ejecutivo (NSC);2;0;dotacion_slack ejecutivo (NSC)_2
-dotacion;slack ejecutivo (NSC);4;0;dotacion_slack ejecutivo (NSC)_4
-dotacion;slack ejecutivo (NSC);6;0;dotacion_slack ejecutivo (NSC)_6
-dotacion;slack ejecutivo (NSC);8;0;dotacion_slack ejecutivo (NSC)_8
-dotacion;slack ejecutivo (NSC);10;0;dotacion_slack ejecutivo (NSC)_10
-dotacion;slack ejecutivo (NSC);12;0;dotacion_slack ejecutivo (NSC)_12
-dotacion;slack ejecutivo (NSC);14;0;dotacion_slack ejecutivo (NSC)_14
-dotacion;slack esencial (EKO);2;0;dotacion_slack esencial (EKO)_2
-dotacion;slack esencial (EKO);4;0;dotacion_slack esencial (EKO)_4
-dotacion;slack esencial (EKO);6;0;dotacion_slack esencial (EKO)_6
-dotacion;slack esencial (EKO);8;0;dotacion_slack esencial (EKO)_8
-dotacion;slack esencial (EKO);10;0;dotacion_slack esencial (EKO)_10
-dotacion;slack esencial (EKO);12;0;dotacion_slack esencial (EKO)_12
-dotacion;slack esencial (EKO);14;0;dotacion_slack esencial (EKO)_14
-dotacion;Botas punta acero;NA;0;dotacion_Botas punta acero_NA
-dotacion;Gafas de seguridad;NA;0;dotacion_Gafas de seguridad_NA
-otros;Batas;16;0;otros_Batas_16
-otros;Batas;s;0;otros_Batas_s
-otros;Batas;m;0;otros_Batas_m
-otros;Batas;L;0;otros_Batas_L
-otros;Batas;xl;0;otros_Batas_xl
-dotacion;camisa oxford mujer blanca;16;;
-dotacion;camisa oxford mujer blanca;S;;
-dotacion;camisa oxford mujer blanca;M;;
-dotacion;camisa oxford mujer blanca;L;;
-dotacion;camisa oxford mujer blanca;XL;;
-dotacion;camisa oxford hombre blanca;S;;
-dotacion;camisa oxford hombre blanca;M;;
-dotacion;camisa oxford hombre blanca;L;;
-dotacion;camisa oxford hombre blanca;XL;;
+colegio;PRODUCTO;TALLA;INVENTARIO;ID_BUSQUEDA;Produccion
+liceo pupo jimenez;blusa;2;2;liceo pupo jimenez_blusa_2;Blusa blanca-popelina
+liceo pupo jimenez;blusa;4;0;liceo pupo jimenez_blusa_4;Blusa blanca-popelina
+liceo pupo jimenez;blusa;6;6;liceo pupo jimenez_blusa_6;Blusa blanca-popelina
+liceo pupo jimenez;blusa;8;1;liceo pupo jimenez_blusa_8;Blusa blanca-popelina
+liceo pupo jimenez;blusa;10;1;liceo pupo jimenez_blusa_10;Blusa blanca-popelina
+liceo pupo jimenez;blusa;12;12;liceo pupo jimenez_blusa_12;Blusa blanca-popelina
+liceo pupo jimenez;blusa;14;1;liceo pupo jimenez_blusa_14;Blusa blanca-popelina
+liceo pupo jimenez;blusa;16;2;liceo pupo jimenez_blusa_16;Blusa blanca-popelina
+liceo pupo jimenez;blusa;S;6;liceo pupo jimenez_blusa_S;Blusa blanca-popelina
+liceo pupo jimenez;blusa;M;7;liceo pupo jimenez_blusa_M;Blusa blanca-popelina
+liceo pupo jimenez;blusa;L;-1;liceo pupo jimenez_blusa_L;Blusa blanca-popelina
+liceo pupo jimenez;blusa;XL;2;liceo pupo jimenez_blusa_XL;Blusa blanca-popelina
+liceo pupo jimenez;falda;2;0;liceo pupo jimenez_falda_2;
+liceo pupo jimenez;falda;4;0;liceo pupo jimenez_falda_4;
+liceo pupo jimenez;falda;6;0;liceo pupo jimenez_falda_6;
+liceo pupo jimenez;falda;8;0;liceo pupo jimenez_falda_8;
+liceo pupo jimenez;falda;10;0;liceo pupo jimenez_falda_10;
+liceo pupo jimenez;falda;12;0;liceo pupo jimenez_falda_12;
+liceo pupo jimenez;falda;14;0;liceo pupo jimenez_falda_14;
+liceo pupo jimenez;falda;16;0;liceo pupo jimenez_falda_16;
+liceo pupo jimenez;falda;S;0;liceo pupo jimenez_falda_S;
+liceo pupo jimenez;falda;M;0;liceo pupo jimenez_falda_M;
+liceo pupo jimenez;falda;L;0;liceo pupo jimenez_falda_L;
+liceo pupo jimenez;falda;XL;0;liceo pupo jimenez_falda_XL;
+liceo pupo jimenez;camiseta diario;2;2;liceo pupo jimenez_camiseta diario_2;polo blanca-yute
+liceo pupo jimenez;camiseta diario;4;10;liceo pupo jimenez_camiseta diario_4;polo blanca-yute
+liceo pupo jimenez;camiseta diario;6;14;liceo pupo jimenez_camiseta diario_6;polo blanca-yute
+liceo pupo jimenez;camiseta diario;8;11;liceo pupo jimenez_camiseta diario_8;polo blanca-yute
+liceo pupo jimenez;camiseta diario;10;5;liceo pupo jimenez_camiseta diario_10;polo blanca-yute
+liceo pupo jimenez;camiseta diario;12;16;liceo pupo jimenez_camiseta diario_12;polo blanca-yute
+liceo pupo jimenez;camiseta diario;14;17;liceo pupo jimenez_camiseta diario_14;polo blanca-yute
+liceo pupo jimenez;camiseta diario;16;25;liceo pupo jimenez_camiseta diario_16;polo blanca-yute
+liceo pupo jimenez;camiseta diario;S;16;liceo pupo jimenez_camiseta diario_S;polo blanca-yute
+liceo pupo jimenez;camiseta diario;M;14;liceo pupo jimenez_camiseta diario_M;polo blanca-yute
+liceo pupo jimenez;camiseta diario;L;11;liceo pupo jimenez_camiseta diario_L;polo blanca-yute
+liceo pupo jimenez;camiseta diario;XL;1;liceo pupo jimenez_camiseta diario_XL;polo blanca-yute
+liceo pupo jimenez;camiseta fisica;2;5;liceo pupo jimenez_camiseta fisica_2;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;4;8;liceo pupo jimenez_camiseta fisica_4;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;6;12;liceo pupo jimenez_camiseta fisica_6;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;8;5;liceo pupo jimenez_camiseta fisica_8;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;10;10;liceo pupo jimenez_camiseta fisica_10;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;12;6;liceo pupo jimenez_camiseta fisica_12;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;14;11;liceo pupo jimenez_camiseta fisica_14;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;16;11;liceo pupo jimenez_camiseta fisica_16;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;S;8;liceo pupo jimenez_camiseta fisica_S;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;M;8;liceo pupo jimenez_camiseta fisica_M;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;L;4;liceo pupo jimenez_camiseta fisica_L;polo blanca-franela
+liceo pupo jimenez;camiseta fisica;XL;1;liceo pupo jimenez_camiseta fisica_XL;polo blanca-franela
+liceo pupo jimenez;bombacho;2;2;liceo pupo jimenez_bombacho_2;bombacho-lpj
+liceo pupo jimenez;bombacho;4;0;liceo pupo jimenez_bombacho_4;bombacho-lpj
+liceo pupo jimenez;bombacho;6;9;liceo pupo jimenez_bombacho_6;bombacho-lpj
+liceo pupo jimenez;bombacho;8;1;liceo pupo jimenez_bombacho_8;bombacho-lpj
+liceo pupo jimenez;bombacho;10;15;liceo pupo jimenez_bombacho_10;bombacho-lpj
+liceo pupo jimenez;bombacho;12;9;liceo pupo jimenez_bombacho_12;bombacho-lpj
+liceo pupo jimenez;bombacho;14;18;liceo pupo jimenez_bombacho_14;bombacho-lpj
+liceo pupo jimenez;bombacho;16;36;liceo pupo jimenez_bombacho_16;bombacho-lpj
+liceo pupo jimenez;bombacho;S;11;liceo pupo jimenez_bombacho_S;bombacho-lpj
+liceo pupo jimenez;bombacho;M;8;liceo pupo jimenez_bombacho_M;bombacho-lpj
+liceo pupo jimenez;bombacho;L;14;liceo pupo jimenez_bombacho_L;bombacho-lpj
+liceo pupo jimenez;bombacho;XL;6;liceo pupo jimenez_bombacho_XL;bombacho-lpj
+liceo pupo jimenez;Medias;2;0;liceo pupo jimenez_Medias_2;
+liceo pupo jimenez;Medias;4;0;liceo pupo jimenez_Medias_4;
+liceo pupo jimenez;Medias;6;-6;liceo pupo jimenez_Medias_6;
+liceo pupo jimenez;Medias;8;0;liceo pupo jimenez_Medias_8;
+liceo pupo jimenez;Medias;10;-4;liceo pupo jimenez_Medias_10;
+liceo universitario;blusa;2;3;liceo universitario_blusa_2;Blusa blanca-popelina
+liceo universitario;blusa;4;3;liceo universitario_blusa_4;Blusa blanca-popelina
+liceo universitario;blusa;6;18;liceo universitario_blusa_6;Blusa blanca-popelina
+liceo universitario;blusa;8;3;liceo universitario_blusa_8;Blusa blanca-popelina
+liceo universitario;blusa;10;4;liceo universitario_blusa_10;Blusa blanca-popelina
+liceo universitario;blusa;12;12;liceo universitario_blusa_12;Blusa blanca-popelina
+liceo universitario;blusa;14;10;liceo universitario_blusa_14;Blusa blanca-popelina
+liceo universitario;blusa;16;5;liceo universitario_blusa_16;Blusa blanca-popelina
+liceo universitario;blusa;S;0;liceo universitario_blusa_S;Blusa blanca-popelina
+liceo universitario;blusa;M;2;liceo universitario_blusa_M;Blusa blanca-popelina
+liceo universitario;blusa;L;0;liceo universitario_blusa_L;Blusa blanca-popelina
+liceo universitario;blusa;XL;1;liceo universitario_blusa_XL;Blusa blanca-popelina
+liceo universitario;falda;2;0;liceo universitario_falda_2;
+liceo universitario;falda;4;0;liceo universitario_falda_4;
+liceo universitario;falda;6;0;liceo universitario_falda_6;
+liceo universitario;falda;8;0;liceo universitario_falda_8;
+liceo universitario;falda;10;0;liceo universitario_falda_10;
+liceo universitario;falda;12;0;liceo universitario_falda_12;
+liceo universitario;falda;14;0;liceo universitario_falda_14;
+liceo universitario;falda;16;0;liceo universitario_falda_16;
+liceo universitario;falda;S;0;liceo universitario_falda_S;
+liceo universitario;falda;M;0;liceo universitario_falda_M;
+liceo universitario;falda;L;0;liceo universitario_falda_L;
+liceo universitario;falda;XL;0;liceo universitario_falda_XL;
+liceo universitario;guayabera;2;0;liceo universitario_guayabera_2;guayabera oxford blanco
+liceo universitario;guayabera;4;0;liceo universitario_guayabera_4;guayabera oxford blanco
+liceo universitario;guayabera;6;4;liceo universitario_guayabera_6;guayabera oxford blanco
+liceo universitario;guayabera;8;16;liceo universitario_guayabera_8;guayabera oxford blanco
+liceo universitario;guayabera;10;0;liceo universitario_guayabera_10;guayabera oxford blanco
+liceo universitario;guayabera;12;4;liceo universitario_guayabera_12;guayabera oxford blanco
+liceo universitario;guayabera;14;1;liceo universitario_guayabera_14;guayabera oxford blanco
+liceo universitario;guayabera;16;5;liceo universitario_guayabera_16;guayabera oxford blanco
+liceo universitario;guayabera;S;1;liceo universitario_guayabera_S;guayabera oxford blanco
+liceo universitario;guayabera;M;16;liceo universitario_guayabera_M;guayabera oxford blanco
+liceo universitario;guayabera;L;9;liceo universitario_guayabera_L;guayabera oxford blanco
+liceo universitario;guayabera;XL;13;liceo universitario_guayabera_XL;guayabera oxford blanco
+liceo universitario;pantalon;2;0;liceo universitario_pantalon_2;pantalon negro
+liceo universitario;pantalon;4;0;liceo universitario_pantalon_4;pantalon negro
+liceo universitario;pantalon;6;0;liceo universitario_pantalon_6;pantalon negro
+liceo universitario;pantalon;8;4;liceo universitario_pantalon_8;pantalon negro
+liceo universitario;pantalon;10;5;liceo universitario_pantalon_10;pantalon negro
+liceo universitario;pantalon;12;2;liceo universitario_pantalon_12;pantalon negro
+liceo universitario;pantalon;14;2;liceo universitario_pantalon_14;pantalon negro
+liceo universitario;pantalon;16;2;liceo universitario_pantalon_16;pantalon negro
+liceo universitario;pantalon;28;1;liceo universitario_pantalon_28;pantalon negro
+liceo universitario;pantalon;30;0;liceo universitario_pantalon_30;pantalon negro
+liceo universitario;pantalon;32;2;liceo universitario_pantalon_32;pantalon negro
+liceo universitario;pantalon;34;1;liceo universitario_pantalon_34;pantalon negro
+liceo universitario;pantalon;36;0;liceo universitario_pantalon_36;pantalon negro
+liceo universitario;pantalon;38;0;liceo universitario_pantalon_38;pantalon negro
+liceo universitario;camiseta fisica;2;0;liceo universitario_camiseta fisica_2;polo blanca-franela
+liceo universitario;camiseta fisica;4;0;liceo universitario_camiseta fisica_4;polo blanca-franela
+liceo universitario;camiseta fisica;6;22;liceo universitario_camiseta fisica_6;polo blanca-franela
+liceo universitario;camiseta fisica;8;4;liceo universitario_camiseta fisica_8;polo blanca-franela
+liceo universitario;camiseta fisica;10;3;liceo universitario_camiseta fisica_10;polo blanca-franela
+liceo universitario;camiseta fisica;12;10;liceo universitario_camiseta fisica_12;polo blanca-franela
+liceo universitario;camiseta fisica;14;20;liceo universitario_camiseta fisica_14;polo blanca-franela
+liceo universitario;camiseta fisica;16;2;liceo universitario_camiseta fisica_16;polo blanca-franela
+liceo universitario;camiseta fisica;S;0;liceo universitario_camiseta fisica_S;polo blanca-franela
+liceo universitario;camiseta fisica;M;3;liceo universitario_camiseta fisica_M;polo blanca-franela
+liceo universitario;camiseta fisica;L;6;liceo universitario_camiseta fisica_L;polo blanca-franela
+liceo universitario;camiseta fisica;XL;5;liceo universitario_camiseta fisica_XL;polo blanca-franela
+liceo universitario;bombacho;2;0;liceo universitario_bombacho_2;bombacho-blanco
+liceo universitario;bombacho;4;0;liceo universitario_bombacho_4;bombacho-blanco
+liceo universitario;bombacho;6;8;liceo universitario_bombacho_6;bombacho-blanco
+liceo universitario;bombacho;8;5;liceo universitario_bombacho_8;bombacho-blanco
+liceo universitario;bombacho;10;0;liceo universitario_bombacho_10;bombacho-blanco
+liceo universitario;bombacho;12;3;liceo universitario_bombacho_12;bombacho-blanco
+liceo universitario;bombacho;14;4;liceo universitario_bombacho_14;bombacho-blanco
+liceo universitario;bombacho;16;0;liceo universitario_bombacho_16;bombacho-blanco
+liceo universitario;bombacho;S;2;liceo universitario_bombacho_S;bombacho-blanco
+liceo universitario;bombacho;M;3;liceo universitario_bombacho_M;bombacho-blanco
+liceo universitario;bombacho;L;1;liceo universitario_bombacho_L;bombacho-blanco
+liceo universitario;bombacho;XL;2;liceo universitario_bombacho_XL;bombacho-blanco
+liceo universitario;medias;2;0;liceo universitario_medias_2;
+liceo universitario;medias;4;55;liceo universitario_medias_4;
+liceo universitario;medias;6;71;liceo universitario_medias_6;
+liceo universitario;medias;8;0;liceo universitario_medias_8;
+liceo universitario;medias;10;7;liceo universitario_medias_10;
+nuestra señora del carmen;blusa;2;2;nuestra señora del carmen_blusa_2;Blusa blanca-popelina
+nuestra señora del carmen;blusa;4;0;nuestra señora del carmen_blusa_4;Blusa blanca-popelina
+nuestra señora del carmen;blusa;6;6;nuestra señora del carmen_blusa_6;Blusa blanca-popelina
+nuestra señora del carmen;blusa;8;4;nuestra señora del carmen_blusa_8;Blusa blanca-popelina
+nuestra señora del carmen;blusa;10;3;nuestra señora del carmen_blusa_10;Blusa blanca-popelina
+nuestra señora del carmen;blusa;12;9;nuestra señora del carmen_blusa_12;Blusa blanca-popelina
+nuestra señora del carmen;blusa;14;4;nuestra señora del carmen_blusa_14;Blusa blanca-popelina
+nuestra señora del carmen;blusa;16;4;nuestra señora del carmen_blusa_16;Blusa blanca-popelina
+nuestra señora del carmen;blusa;S;2;nuestra señora del carmen_blusa_S;Blusa blanca-popelina
+nuestra señora del carmen;blusa;M;12;nuestra señora del carmen_blusa_M;Blusa blanca-popelina
+nuestra señora del carmen;blusa;L;3;nuestra señora del carmen_blusa_L;Blusa blanca-popelina
+nuestra señora del carmen;blusa;XL;2;nuestra señora del carmen_blusa_XL;Blusa blanca-popelina
+nuestra señora del carmen;jumper;2;0;nuestra señora del carmen_jumper_2;
+nuestra señora del carmen;jumper;4;-1;nuestra señora del carmen_jumper_4;
+nuestra señora del carmen;jumper;6;0;nuestra señora del carmen_jumper_6;
+nuestra señora del carmen;jumper;8;0;nuestra señora del carmen_jumper_8;
+nuestra señora del carmen;jumper;10;0;nuestra señora del carmen_jumper_10;
+nuestra señora del carmen;jumper;12;0;nuestra señora del carmen_jumper_12;
+nuestra señora del carmen;jumper;14;-1;nuestra señora del carmen_jumper_14;
+nuestra señora del carmen;jumper;16;0;nuestra señora del carmen_jumper_16;
+nuestra señora del carmen;jumper;S;0;nuestra señora del carmen_jumper_S;
+nuestra señora del carmen;jumper;M;0;nuestra señora del carmen_jumper_M;
+nuestra señora del carmen;jumper;L;0;nuestra señora del carmen_jumper_L;
+nuestra señora del carmen;jumper;XL;0;nuestra señora del carmen_jumper_XL;
+nuestra señora del carmen;guayabera;2;1;nuestra señora del carmen_guayabera_2;guayabera oxford blanco
+nuestra señora del carmen;guayabera;4;10;nuestra señora del carmen_guayabera_4;guayabera oxford blanco
+nuestra señora del carmen;guayabera;6;21;nuestra señora del carmen_guayabera_6;guayabera oxford blanco
+nuestra señora del carmen;guayabera;8;22;nuestra señora del carmen_guayabera_8;guayabera oxford blanco
+nuestra señora del carmen;guayabera;10;14;nuestra señora del carmen_guayabera_10;guayabera oxford blanco
+nuestra señora del carmen;guayabera;12;9;nuestra señora del carmen_guayabera_12;guayabera oxford blanco
+nuestra señora del carmen;guayabera;14;6;nuestra señora del carmen_guayabera_14;guayabera oxford blanco
+nuestra señora del carmen;guayabera;16;8;nuestra señora del carmen_guayabera_16;guayabera oxford blanco
+nuestra señora del carmen;guayabera;S;10;nuestra señora del carmen_guayabera_S;guayabera oxford blanco
+nuestra señora del carmen;guayabera;M;4;nuestra señora del carmen_guayabera_M;guayabera oxford blanco
+nuestra señora del carmen;guayabera;L;0;nuestra señora del carmen_guayabera_L;guayabera oxford blanco
+nuestra señora del carmen;guayabera;XL;10;nuestra señora del carmen_guayabera_XL;guayabera oxford blanco
+nuestra señora del carmen;pantalon;2;0;nuestra señora del carmen_pantalon_2;pantalon gris NSC
+nuestra señora del carmen;pantalon;4;0;nuestra señora del carmen_pantalon_4;pantalon gris NSC
+nuestra señora del carmen;pantalon;6;3;nuestra señora del carmen_pantalon_6;pantalon gris NSC
+nuestra señora del carmen;pantalon;8;2;nuestra señora del carmen_pantalon_8;pantalon gris NSC
+nuestra señora del carmen;pantalon;10;5;nuestra señora del carmen_pantalon_10;pantalon gris NSC
+nuestra señora del carmen;pantalon;12;2;nuestra señora del carmen_pantalon_12;pantalon gris NSC
+nuestra señora del carmen;pantalon;14;6;nuestra señora del carmen_pantalon_14;pantalon gris NSC
+nuestra señora del carmen;pantalon;16;0;nuestra señora del carmen_pantalon_16;pantalon gris NSC
+nuestra señora del carmen;pantalon;28;2;nuestra señora del carmen_pantalon_28;pantalon gris NSC
+nuestra señora del carmen;pantalon;30;0;nuestra señora del carmen_pantalon_30;pantalon gris NSC
+nuestra señora del carmen;pantalon;32;5;nuestra señora del carmen_pantalon_32;pantalon gris NSC
+nuestra señora del carmen;pantalon;34;4;nuestra señora del carmen_pantalon_34;pantalon gris NSC
+nuestra señora del carmen;pantalon;36;2;nuestra señora del carmen_pantalon_36;pantalon gris NSC
+nuestra señora del carmen;pantalon;38;0;nuestra señora del carmen_pantalon_38;pantalon gris NSC
+nuestra señora del carmen;bermuda;2;1;nuestra señora del carmen_bermuda_2;
+nuestra señora del carmen;bermuda;4;0;nuestra señora del carmen_bermuda_4;
+nuestra señora del carmen;bermuda;6;9;nuestra señora del carmen_bermuda_6;
+nuestra señora del carmen;bermuda;8;0;nuestra señora del carmen_bermuda_8;
+nuestra señora del carmen;bermuda;10;0;nuestra señora del carmen_bermuda_10;
+nuestra señora del carmen;bermuda;12;0;nuestra señora del carmen_bermuda_12;
+nuestra señora del carmen;camiseta fisica;2;-1;nuestra señora del carmen_camiseta fisica_2;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;4;1;nuestra señora del carmen_camiseta fisica_4;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;6;10;nuestra señora del carmen_camiseta fisica_6;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;8;8;nuestra señora del carmen_camiseta fisica_8;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;10;4;nuestra señora del carmen_camiseta fisica_10;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;12;0;nuestra señora del carmen_camiseta fisica_12;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;14;11;nuestra señora del carmen_camiseta fisica_14;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;16;5;nuestra señora del carmen_camiseta fisica_16;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;S;2;nuestra señora del carmen_camiseta fisica_S;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;M;0;nuestra señora del carmen_camiseta fisica_M;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;L;3;nuestra señora del carmen_camiseta fisica_L;polo blanca-yute
+nuestra señora del carmen;camiseta fisica;XL;1;nuestra señora del carmen_camiseta fisica_XL;polo blanca-yute
+nuestra señora del carmen;bombacho;2;0;nuestra señora del carmen_bombacho_2;bombacho-blanco
+nuestra señora del carmen;bombacho;4;4;nuestra señora del carmen_bombacho_4;bombacho-blanco
+nuestra señora del carmen;bombacho;6;6;nuestra señora del carmen_bombacho_6;bombacho-blanco
+nuestra señora del carmen;bombacho;8;17;nuestra señora del carmen_bombacho_8;bombacho-blanco
+nuestra señora del carmen;bombacho;10;10;nuestra señora del carmen_bombacho_10;bombacho-blanco
+nuestra señora del carmen;bombacho;12;4;nuestra señora del carmen_bombacho_12;bombacho-blanco
+nuestra señora del carmen;bombacho;14;22;nuestra señora del carmen_bombacho_14;bombacho-blanco
+nuestra señora del carmen;bombacho;16;6;nuestra señora del carmen_bombacho_16;bombacho-blanco
+nuestra señora del carmen;bombacho;S;16;nuestra señora del carmen_bombacho_S;bombacho-blanco
+nuestra señora del carmen;bombacho;M;4;nuestra señora del carmen_bombacho_M;bombacho-blanco
+nuestra señora del carmen;bombacho;L;0;nuestra señora del carmen_bombacho_L;bombacho-blanco
+nuestra señora del carmen;bombacho;XL;0;nuestra señora del carmen_bombacho_XL;bombacho-blanco
+nuestra señora del carmen;cordon;NA;23;nuestra señora del carmen_cordon_NA;
+gimnasio plaza feliz;blusa;2;0;gimnasio plaza feliz_blusa_2;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;4;7;gimnasio plaza feliz_blusa_4;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;6;6;gimnasio plaza feliz_blusa_6;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;8;2;gimnasio plaza feliz_blusa_8;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;10;5;gimnasio plaza feliz_blusa_10;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;12;19;gimnasio plaza feliz_blusa_12;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;14;2;gimnasio plaza feliz_blusa_14;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;16;0;gimnasio plaza feliz_blusa_16;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;S;0;gimnasio plaza feliz_blusa_S;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;M;3;gimnasio plaza feliz_blusa_M;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;L;2;gimnasio plaza feliz_blusa_L;Blusa blanca-popelina
+gimnasio plaza feliz;blusa;XL;1;gimnasio plaza feliz_blusa_XL;Blusa blanca-popelina
+gimnasio plaza feliz;jumper;2;0;gimnasio plaza feliz_jumper_2;
+gimnasio plaza feliz;jumper;4;0;gimnasio plaza feliz_jumper_4;
+gimnasio plaza feliz;jumper;6;0;gimnasio plaza feliz_jumper_6;
+gimnasio plaza feliz;jumper;8;0;gimnasio plaza feliz_jumper_8;
+gimnasio plaza feliz;jumper;10;0;gimnasio plaza feliz_jumper_10;
+gimnasio plaza feliz;jumper;12;0;gimnasio plaza feliz_jumper_12;
+gimnasio plaza feliz;jumper;14;0;gimnasio plaza feliz_jumper_14;
+gimnasio plaza feliz;jumper;16;0;gimnasio plaza feliz_jumper_16;
+gimnasio plaza feliz;jumper;S;0;gimnasio plaza feliz_jumper_S;
+gimnasio plaza feliz;jumper;M;0;gimnasio plaza feliz_jumper_M;
+gimnasio plaza feliz;jumper;L;0;gimnasio plaza feliz_jumper_L;
+gimnasio plaza feliz;jumper;XL;0;gimnasio plaza feliz_jumper_XL;
+gimnasio plaza feliz;guayabera;2;16;gimnasio plaza feliz_guayabera_2;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;4;0;gimnasio plaza feliz_guayabera_4;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;6;3;gimnasio plaza feliz_guayabera_6;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;8;3;gimnasio plaza feliz_guayabera_8;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;10;1;gimnasio plaza feliz_guayabera_10;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;12;4;gimnasio plaza feliz_guayabera_12;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;14;1;gimnasio plaza feliz_guayabera_14;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;16;3;gimnasio plaza feliz_guayabera_16;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;S;13;gimnasio plaza feliz_guayabera_S;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;M;4;gimnasio plaza feliz_guayabera_M;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;L;15;gimnasio plaza feliz_guayabera_L;guayabera oxford blanco
+gimnasio plaza feliz;guayabera;XL;1;gimnasio plaza feliz_guayabera_XL;guayabera oxford blanco
+gimnasio plaza feliz;camiseta fisica;2;2;gimnasio plaza feliz_camiseta fisica_2;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;4;6;gimnasio plaza feliz_camiseta fisica_4;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;6;2;gimnasio plaza feliz_camiseta fisica_6;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;8;10;gimnasio plaza feliz_camiseta fisica_8;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;10;5;gimnasio plaza feliz_camiseta fisica_10;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;12;16;gimnasio plaza feliz_camiseta fisica_12;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;14;15;gimnasio plaza feliz_camiseta fisica_14;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;16;9;gimnasio plaza feliz_camiseta fisica_16;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;S;9;gimnasio plaza feliz_camiseta fisica_S;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;M;12;gimnasio plaza feliz_camiseta fisica_M;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;L;7;gimnasio plaza feliz_camiseta fisica_L;polo blanca-yute
+gimnasio plaza feliz;camiseta fisica;XL;0;gimnasio plaza feliz_camiseta fisica_XL;polo blanca-yute
+gimnasio plaza feliz;bombacho;2;3;gimnasio plaza feliz_bombacho_2;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;4;7;gimnasio plaza feliz_bombacho_4;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;6;1;gimnasio plaza feliz_bombacho_6;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;8;0;gimnasio plaza feliz_bombacho_8;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;10;18;gimnasio plaza feliz_bombacho_10;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;12;6;gimnasio plaza feliz_bombacho_12;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;14;12;gimnasio plaza feliz_bombacho_14;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;16;12;gimnasio plaza feliz_bombacho_16;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;S;10;gimnasio plaza feliz_bombacho_S;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;M;12;gimnasio plaza feliz_bombacho_M;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;L;13;gimnasio plaza feliz_bombacho_L;bombacho-plaza feliz
+gimnasio plaza feliz;bombacho;XL;0;gimnasio plaza feliz_bombacho_XL;bombacho-plaza feliz
+gimnasio vallegrande;blusa;2;0;gimnasio vallegrande_blusa_2;Blusa blanca-popelina
+gimnasio vallegrande;blusa;4;2;gimnasio vallegrande_blusa_4;Blusa blanca-popelina
+gimnasio vallegrande;blusa;6;5;gimnasio vallegrande_blusa_6;Blusa blanca-popelina
+gimnasio vallegrande;blusa;8;18;gimnasio vallegrande_blusa_8;Blusa blanca-popelina
+gimnasio vallegrande;blusa;10;14;gimnasio vallegrande_blusa_10;Blusa blanca-popelina
+gimnasio vallegrande;blusa;12;20;gimnasio vallegrande_blusa_12;Blusa blanca-popelina
+gimnasio vallegrande;blusa;14;10;gimnasio vallegrande_blusa_14;Blusa blanca-popelina
+gimnasio vallegrande;blusa;16;5;gimnasio vallegrande_blusa_16;Blusa blanca-popelina
+gimnasio vallegrande;blusa;S;24;gimnasio vallegrande_blusa_S;Blusa blanca-popelina
+gimnasio vallegrande;blusa;M;34;gimnasio vallegrande_blusa_M;Blusa blanca-popelina
+gimnasio vallegrande;blusa;L;7;gimnasio vallegrande_blusa_L;Blusa blanca-popelina
+gimnasio vallegrande;blusa;XL;0;gimnasio vallegrande_blusa_XL;Blusa blanca-popelina
+gimnasio vallegrande;camiseta de diario;2;1;gimnasio vallegrande_camiseta de diario_2;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;4;6;gimnasio vallegrande_camiseta de diario_4;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;6;13;gimnasio vallegrande_camiseta de diario_6;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;8;8;gimnasio vallegrande_camiseta de diario_8;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;10;15;gimnasio vallegrande_camiseta de diario_10;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;12;16;gimnasio vallegrande_camiseta de diario_12;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;14;8;gimnasio vallegrande_camiseta de diario_14;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;16;23;gimnasio vallegrande_camiseta de diario_16;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;S;18;gimnasio vallegrande_camiseta de diario_S;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;M;24;gimnasio vallegrande_camiseta de diario_M;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;L;18;gimnasio vallegrande_camiseta de diario_L;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de diario;XL;6;gimnasio vallegrande_camiseta de diario_XL;polo-azul-yute-vallegrande
+gimnasio vallegrande;camiseta de fisica interna;2;0;gimnasio vallegrande_camiseta de fisica interna_2;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;4;2;gimnasio vallegrande_camiseta de fisica interna_4;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;6;6;gimnasio vallegrande_camiseta de fisica interna_6;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;8;6;gimnasio vallegrande_camiseta de fisica interna_8;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;10;1;gimnasio vallegrande_camiseta de fisica interna_10;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;12;0;gimnasio vallegrande_camiseta de fisica interna_12;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;14;5;gimnasio vallegrande_camiseta de fisica interna_14;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;16;4;gimnasio vallegrande_camiseta de fisica interna_16;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;S;6;gimnasio vallegrande_camiseta de fisica interna_S;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;M;4;gimnasio vallegrande_camiseta de fisica interna_M;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;L;4;gimnasio vallegrande_camiseta de fisica interna_L;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica interna;XL;1;gimnasio vallegrande_camiseta de fisica interna_XL;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;2;0;gimnasio vallegrande_camiseta de fisica externa_2;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;4;7;gimnasio vallegrande_camiseta de fisica externa_4;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;6;5;gimnasio vallegrande_camiseta de fisica externa_6;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;8;0;gimnasio vallegrande_camiseta de fisica externa_8;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;10;11;gimnasio vallegrande_camiseta de fisica externa_10;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;12;7;gimnasio vallegrande_camiseta de fisica externa_12;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;14;11;gimnasio vallegrande_camiseta de fisica externa_14;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;16;9;gimnasio vallegrande_camiseta de fisica externa_16;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;S;14;gimnasio vallegrande_camiseta de fisica externa_S;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;M;11;gimnasio vallegrande_camiseta de fisica externa_M;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;L;9;gimnasio vallegrande_camiseta de fisica externa_L;camiseta blanca-franela
+gimnasio vallegrande;camiseta de fisica externa;XL;1;gimnasio vallegrande_camiseta de fisica externa_XL;camiseta blanca-franela
+gimnasio vallegrande;bombacho dama;2;3;gimnasio vallegrande_bombacho dama_2;bombacho-blanco
+gimnasio vallegrande;bombacho dama;4;2;gimnasio vallegrande_bombacho dama_4;bombacho-blanco
+gimnasio vallegrande;bombacho dama;6;19;gimnasio vallegrande_bombacho dama_6;bombacho-blanco
+gimnasio vallegrande;bombacho dama;8;13;gimnasio vallegrande_bombacho dama_8;bombacho-blanco
+gimnasio vallegrande;bombacho dama;10;13;gimnasio vallegrande_bombacho dama_10;bombacho-blanco
+gimnasio vallegrande;bombacho dama;12;1;gimnasio vallegrande_bombacho dama_12;bombacho-blanco
+gimnasio vallegrande;bombacho dama;14;3;gimnasio vallegrande_bombacho dama_14;bombacho-blanco
+gimnasio vallegrande;bombacho dama;16;4;gimnasio vallegrande_bombacho dama_16;bombacho-blanco
+gimnasio vallegrande;bombacho dama;S;3;gimnasio vallegrande_bombacho dama_S;bombacho-blanco
+gimnasio vallegrande;bombacho dama;M;3;gimnasio vallegrande_bombacho dama_M;bombacho-blanco
+gimnasio vallegrande;bombacho dama;L;9;gimnasio vallegrande_bombacho dama_L;bombacho-blanco
+gimnasio vallegrande;bombacho dama;XL;2;gimnasio vallegrande_bombacho dama_XL;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;2;1;gimnasio vallegrande_bombacho hombre_2;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;4;6;gimnasio vallegrande_bombacho hombre_4;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;6;6;gimnasio vallegrande_bombacho hombre_6;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;8;6;gimnasio vallegrande_bombacho hombre_8;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;10;2;gimnasio vallegrande_bombacho hombre_10;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;12;3;gimnasio vallegrande_bombacho hombre_12;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;14;10;gimnasio vallegrande_bombacho hombre_14;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;16;6;gimnasio vallegrande_bombacho hombre_16;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;S;5;gimnasio vallegrande_bombacho hombre_S;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;M;6;gimnasio vallegrande_bombacho hombre_M;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;L;2;gimnasio vallegrande_bombacho hombre_L;bombacho-blanco
+gimnasio vallegrande;bombacho hombre;XL;4;gimnasio vallegrande_bombacho hombre_XL;bombacho-blanco
+gimnasio vallegrande;camiseta dama externa;2;0;gimnasio vallegrande_camiseta dama externa_2;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;4;3;gimnasio vallegrande_camiseta dama externa_4;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;6;16;gimnasio vallegrande_camiseta dama externa_6;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;8;11;gimnasio vallegrande_camiseta dama externa_8;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;10;7;gimnasio vallegrande_camiseta dama externa_10;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;12;5;gimnasio vallegrande_camiseta dama externa_12;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;14;3;gimnasio vallegrande_camiseta dama externa_14;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;16;10;gimnasio vallegrande_camiseta dama externa_16;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;S;10;gimnasio vallegrande_camiseta dama externa_S;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;M;12;gimnasio vallegrande_camiseta dama externa_M;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;L;7;gimnasio vallegrande_camiseta dama externa_L;camiseta blanca-franela
+gimnasio vallegrande;camiseta dama externa;XL;0;gimnasio vallegrande_camiseta dama externa_XL;camiseta blanca-franela
+gimnasio vallegrande;falda;2;0;gimnasio vallegrande_falda_2;
+gimnasio vallegrande;falda;4;0;gimnasio vallegrande_falda_4;
+gimnasio vallegrande;falda;6;0;gimnasio vallegrande_falda_6;
+gimnasio vallegrande;falda;8;0;gimnasio vallegrande_falda_8;
+gimnasio vallegrande;falda;10;0;gimnasio vallegrande_falda_10;
+gimnasio vallegrande;falda;12;0;gimnasio vallegrande_falda_12;
+gimnasio vallegrande;falda;14;0;gimnasio vallegrande_falda_14;
+gimnasio vallegrande;falda;16;0;gimnasio vallegrande_falda_16;
+gimnasio vallegrande;falda;S;-1;gimnasio vallegrande_falda_S;
+gimnasio vallegrande;falda;M;0;gimnasio vallegrande_falda_M;
+gimnasio vallegrande;falda;L;0;gimnasio vallegrande_falda_L;
+gimnasio vallegrande;falda;XL;0;gimnasio vallegrande_falda_XL;
+gimnasio vallegrande;pantaloneta;2;0;gimnasio vallegrande_pantaloneta_2;pantaloneta VG
+gimnasio vallegrande;pantaloneta;4;12;gimnasio vallegrande_pantaloneta_4;pantaloneta VG
+gimnasio vallegrande;pantaloneta;6;3;gimnasio vallegrande_pantaloneta_6;pantaloneta VG
+gimnasio vallegrande;pantaloneta;8;5;gimnasio vallegrande_pantaloneta_8;pantaloneta VG
+gimnasio vallegrande;pantaloneta;10;11;gimnasio vallegrande_pantaloneta_10;pantaloneta VG
+gimnasio vallegrande;pantaloneta;12;4;gimnasio vallegrande_pantaloneta_12;pantaloneta VG
+gimnasio vallegrande;pantaloneta;14;4;gimnasio vallegrande_pantaloneta_14;pantaloneta VG
+gimnasio vallegrande;pantaloneta;16;3;gimnasio vallegrande_pantaloneta_16;pantaloneta VG
+gimnasio vallegrande;pantaloneta;S;3;gimnasio vallegrande_pantaloneta_S;pantaloneta VG
+gimnasio vallegrande;pantaloneta;M;4;gimnasio vallegrande_pantaloneta_M;pantaloneta VG
+gimnasio vallegrande;pantaloneta;L;4;gimnasio vallegrande_pantaloneta_L;pantaloneta VG
+gimnasio vallegrande;pantaloneta;XL;0;gimnasio vallegrande_pantaloneta_XL;pantaloneta VG
+gimnasio vallegrande;notriza;NA;46;gimnasio vallegrande_notriza_NA;
+colsafa;blusa;2;4;colsafa_blusa_2;Blusa blanca-popelina
+colsafa;blusa;4;18;colsafa_blusa_4;Blusa blanca-popelina
+colsafa;blusa;6;24;colsafa_blusa_6;Blusa blanca-popelina
+colsafa;blusa;8;7;colsafa_blusa_8;Blusa blanca-popelina
+colsafa;blusa;10;11;colsafa_blusa_10;Blusa blanca-popelina
+colsafa;blusa;12;22;colsafa_blusa_12;Blusa blanca-popelina
+colsafa;blusa;14;37;colsafa_blusa_14;Blusa blanca-popelina
+colsafa;blusa;16;18;colsafa_blusa_16;Blusa blanca-popelina
+colsafa;blusa;S;17;colsafa_blusa_S;Blusa blanca-popelina
+colsafa;blusa;M;3;colsafa_blusa_M;Blusa blanca-popelina
+colsafa;blusa;L;1;colsafa_blusa_L;Blusa blanca-popelina
+colsafa;blusa;XL;0;colsafa_blusa_XL;Blusa blanca-popelina
+colsafa;falda;2;9;colsafa_falda_2;
+colsafa;falda;4;6;colsafa_falda_4;
+colsafa;falda;6;5;colsafa_falda_6;
+colsafa;falda;8;1;colsafa_falda_8;
+colsafa;falda;10;10;colsafa_falda_10;
+colsafa;falda;12;11;colsafa_falda_12;
+colsafa;falda;14;11;colsafa_falda_14;
+colsafa;falda;16;4;colsafa_falda_16;
+colsafa;falda;S;9;colsafa_falda_S;
+colsafa;falda;M;1;colsafa_falda_M;
+colsafa;falda;L;5;colsafa_falda_L;
+colsafa;falda;XL;0;colsafa_falda_XL;
+colsafa;guayabera;2;4;colsafa_guayabera_2;guayabera colsafa
+colsafa;guayabera;4;20;colsafa_guayabera_4;guayabera colsafa
+colsafa;guayabera;6;9;colsafa_guayabera_6;guayabera colsafa
+colsafa;guayabera;8;4;colsafa_guayabera_8;guayabera colsafa
+colsafa;guayabera;10;11;colsafa_guayabera_10;guayabera colsafa
+colsafa;guayabera;12;16;colsafa_guayabera_12;guayabera colsafa
+colsafa;guayabera;14;2;colsafa_guayabera_14;guayabera colsafa
+colsafa;guayabera;16;7;colsafa_guayabera_16;guayabera colsafa
+colsafa;guayabera;S;4;colsafa_guayabera_S;guayabera colsafa
+colsafa;guayabera;M;9;colsafa_guayabera_M;guayabera colsafa
+colsafa;guayabera;L;2;colsafa_guayabera_L;guayabera colsafa
+colsafa;guayabera;XL;21;colsafa_guayabera_XL;guayabera colsafa
+colsafa;bombacho;2;0;colsafa_bombacho_2;bombacho-colsafa
+colsafa;bombacho;4;3;colsafa_bombacho_4;bombacho-colsafa
+colsafa;bombacho;6;7;colsafa_bombacho_6;bombacho-colsafa
+colsafa;bombacho;8;5;colsafa_bombacho_8;bombacho-colsafa
+colsafa;bombacho;10;5;colsafa_bombacho_10;bombacho-colsafa
+colsafa;bombacho;12;16;colsafa_bombacho_12;bombacho-colsafa
+colsafa;bombacho;14;18;colsafa_bombacho_14;bombacho-colsafa
+colsafa;bombacho;16;15;colsafa_bombacho_16;bombacho-colsafa
+colsafa;bombacho;S;13;colsafa_bombacho_S;bombacho-colsafa
+colsafa;bombacho;M;15;colsafa_bombacho_M;bombacho-colsafa
+colsafa;bombacho;L;1;colsafa_bombacho_L;bombacho-colsafa
+colsafa;bombacho;XL;2;colsafa_bombacho_XL;bombacho-colsafa
+colsafa;camiseta fisica;2;2;colsafa_camiseta fisica_2;polo-zaneti-colsafa
+colsafa;camiseta fisica;4;0;colsafa_camiseta fisica_4;polo-zaneti-colsafa
+colsafa;camiseta fisica;6;1;colsafa_camiseta fisica_6;polo-zaneti-colsafa
+colsafa;camiseta fisica;8;2;colsafa_camiseta fisica_8;polo-zaneti-colsafa
+colsafa;camiseta fisica;10;8;colsafa_camiseta fisica_10;polo-zaneti-colsafa
+colsafa;camiseta fisica;12;19;colsafa_camiseta fisica_12;polo-zaneti-colsafa
+colsafa;camiseta fisica;14;8;colsafa_camiseta fisica_14;polo-zaneti-colsafa
+colsafa;camiseta fisica;16;1;colsafa_camiseta fisica_16;polo-zaneti-colsafa
+colsafa;camiseta fisica;S;6;colsafa_camiseta fisica_S;polo-zaneti-colsafa
+colsafa;camiseta fisica;M;10;colsafa_camiseta fisica_M;polo-zaneti-colsafa
+colsafa;camiseta fisica;L;4;colsafa_camiseta fisica_L;polo-zaneti-colsafa
+colsafa;camiseta fisica;XL;12;colsafa_camiseta fisica_XL;polo-zaneti-colsafa
+conalco;blusa;2;0;conalco_blusa_2;Blusa conalco-popelina
+conalco;blusa;4;7;conalco_blusa_4;Blusa conalco-popelina
+conalco;blusa;6;3;conalco_blusa_6;Blusa conalco-popelina
+conalco;blusa;8;6;conalco_blusa_8;Blusa conalco-popelina
+conalco;blusa;10;13;conalco_blusa_10;Blusa conalco-popelina
+conalco;blusa;12;5;conalco_blusa_12;Blusa conalco-popelina
+conalco;blusa;14;1;conalco_blusa_14;Blusa conalco-popelina
+conalco;blusa;16;3;conalco_blusa_16;Blusa conalco-popelina
+conalco;blusa;S;5;conalco_blusa_S;Blusa conalco-popelina
+conalco;blusa;M;5;conalco_blusa_M;Blusa conalco-popelina
+conalco;blusa;L;18;conalco_blusa_L;Blusa conalco-popelina
+conalco;blusa;XL;0;conalco_blusa_XL;Blusa conalco-popelina
+conalco;falda;2;0;conalco_falda_2;
+conalco;falda;4;0;conalco_falda_4;
+conalco;falda;6;0;conalco_falda_6;
+conalco;falda;8;-1;conalco_falda_8;
+conalco;falda;10;-1;conalco_falda_10;
+conalco;falda;12;-1;conalco_falda_12;
+conalco;falda;14;-3;conalco_falda_14;
+conalco;falda;16;0;conalco_falda_16;
+conalco;falda;S;-1;conalco_falda_S;
+conalco;falda;M;-1;conalco_falda_M;
+conalco;falda;L;0;conalco_falda_L;
+conalco;falda;XL;0;conalco_falda_XL;
+conalco;guayabera;2;0;conalco_guayabera_2;Guayabera conalco
+conalco;guayabera;4;2;conalco_guayabera_4;Guayabera conalco
+conalco;guayabera;6;9;conalco_guayabera_6;Guayabera conalco
+conalco;guayabera;8;18;conalco_guayabera_8;Guayabera conalco
+conalco;guayabera;10;5;conalco_guayabera_10;Guayabera conalco
+conalco;guayabera;12;11;conalco_guayabera_12;Guayabera conalco
+conalco;guayabera;14;3;conalco_guayabera_14;Guayabera conalco
+conalco;guayabera;16;11;conalco_guayabera_16;Guayabera conalco
+conalco;guayabera;S;12;conalco_guayabera_S;Guayabera conalco
+conalco;guayabera;M;12;conalco_guayabera_M;Guayabera conalco
+conalco;guayabera;L;17;conalco_guayabera_L;Guayabera conalco
+conalco;guayabera;XL;21;conalco_guayabera_XL;Guayabera conalco
+conalco;pantalon;2;0;conalco_pantalon_2;pantalon conalco
+conalco;pantalon;4;0;conalco_pantalon_4;pantalon conalco
+conalco;pantalon;6;2;conalco_pantalon_6;pantalon conalco
+conalco;pantalon;8;0;conalco_pantalon_8;pantalon conalco
+conalco;pantalon;10;0;conalco_pantalon_10;pantalon conalco
+conalco;pantalon;12;-1;conalco_pantalon_12;pantalon conalco
+conalco;pantalon;14;0;conalco_pantalon_14;pantalon conalco
+conalco;pantalon;16;0;conalco_pantalon_16;pantalon conalco
+conalco;pantalon;28;0;conalco_pantalon_28;pantalon conalco
+conalco;pantalon;30;4;conalco_pantalon_30;pantalon conalco
+conalco;pantalon;32;1;conalco_pantalon_32;pantalon conalco
+conalco;pantalon;34;1;conalco_pantalon_34;pantalon conalco
+conalco;pantalon;36;0;conalco_pantalon_36;pantalon conalco
+conalco;pantalon;38;0;conalco_pantalon_38;pantalon conalco
+conalco;camiseta fisica;2;0;conalco_camiseta fisica_2;conalco_camiseta fisica
+conalco;camiseta fisica;4;0;conalco_camiseta fisica_4;conalco_camiseta fisica
+conalco;camiseta fisica;6;6;conalco_camiseta fisica_6;conalco_camiseta fisica
+conalco;camiseta fisica;8;8;conalco_camiseta fisica_8;conalco_camiseta fisica
+conalco;camiseta fisica;10;13;conalco_camiseta fisica_10;conalco_camiseta fisica
+conalco;camiseta fisica;12;11;conalco_camiseta fisica_12;conalco_camiseta fisica
+conalco;camiseta fisica;14;8;conalco_camiseta fisica_14;conalco_camiseta fisica
+conalco;camiseta fisica;16;0;conalco_camiseta fisica_16;conalco_camiseta fisica
+conalco;camiseta fisica;S;9;conalco_camiseta fisica_S;conalco_camiseta fisica
+conalco;camiseta fisica;M;10;conalco_camiseta fisica_M;conalco_camiseta fisica
+conalco;camiseta fisica;L;15;conalco_camiseta fisica_L;conalco_camiseta fisica
+conalco;camiseta fisica;XL;8;conalco_camiseta fisica_XL;conalco_camiseta fisica
+conalco;bombacho;2;0;conalco_bombacho_2;bombacho-conalco
+conalco;bombacho;4;2;conalco_bombacho_4;bombacho-conalco
+conalco;bombacho;6;12;conalco_bombacho_6;bombacho-conalco
+conalco;bombacho;8;19;conalco_bombacho_8;bombacho-conalco
+conalco;bombacho;10;14;conalco_bombacho_10;bombacho-conalco
+conalco;bombacho;12;17;conalco_bombacho_12;bombacho-conalco
+conalco;bombacho;14;13;conalco_bombacho_14;bombacho-conalco
+conalco;bombacho;16;3;conalco_bombacho_16;bombacho-conalco
+conalco;bombacho;S;9;conalco_bombacho_S;bombacho-conalco
+conalco;bombacho;M;13;conalco_bombacho_M;bombacho-conalco
+conalco;bombacho;L;0;conalco_bombacho_L;bombacho-conalco
+conalco;bombacho;XL;7;conalco_bombacho_XL;bombacho-conalco
+conalco;medias hombre;2;0;conalco_medias hombre_2;
+conalco;medias hombre;4;9;conalco_medias hombre_4;
+conalco;medias hombre;6;-2;conalco_medias hombre_6;
+conalco;medias hombre;8;5;conalco_medias hombre_8;
+conalco;medias hombre;10;-1;conalco_medias hombre_10;
+conalco;medias mujer;2;0;conalco_medias mujer_2;
+conalco;medias mujer;4;0;conalco_medias mujer_4;
+conalco;medias mujer;6;11;conalco_medias mujer_6;
+conalco;medias mujer;8;18;conalco_medias mujer_8;
+conalco;medias mujer;10;29;conalco_medias mujer_10;
+conalco;bermuda;2;0;conalco_bermuda_2;
+conalco;bermuda;4;8;conalco_bermuda_4;
+conalco;bermuda;6;2;conalco_bermuda_6;
+conalco;bermuda;8;0;conalco_bermuda_8;
+conalco;bermuda;10;0;conalco_bermuda_10;
+conalco;bermuda;12;0;conalco_bermuda_12;
+conalco;cordon;NA;100;conalco_cordon_NA;
+la inmaculada;blusa;2;0;la inmaculada_blusa_2;Blusa blanca-popelina
+la inmaculada;blusa;4;12;la inmaculada_blusa_4;Blusa blanca-popelina
+la inmaculada;blusa;6;21;la inmaculada_blusa_6;Blusa blanca-popelina
+la inmaculada;blusa;8;11;la inmaculada_blusa_8;Blusa blanca-popelina
+la inmaculada;blusa;10;4;la inmaculada_blusa_10;Blusa blanca-popelina
+la inmaculada;blusa;12;18;la inmaculada_blusa_12;Blusa blanca-popelina
+la inmaculada;blusa;14;0;la inmaculada_blusa_14;Blusa blanca-popelina
+la inmaculada;blusa;16;2;la inmaculada_blusa_16;Blusa blanca-popelina
+la inmaculada;blusa;S;1;la inmaculada_blusa_S;Blusa blanca-popelina
+la inmaculada;blusa;M;10;la inmaculada_blusa_M;Blusa blanca-popelina
+la inmaculada;blusa;L;9;la inmaculada_blusa_L;Blusa blanca-popelina
+la inmaculada;blusa;XL;0;la inmaculada_blusa_XL;Blusa blanca-popelina
+la inmaculada;jumper;2;0;la inmaculada_jumper_2;
+la inmaculada;jumper;4;0;la inmaculada_jumper_4;
+la inmaculada;jumper;6;0;la inmaculada_jumper_6;
+la inmaculada;jumper;8;0;la inmaculada_jumper_8;
+la inmaculada;jumper;10;0;la inmaculada_jumper_10;
+la inmaculada;jumper;12;0;la inmaculada_jumper_12;
+la inmaculada;jumper;14;0;la inmaculada_jumper_14;
+la inmaculada;jumper;16;0;la inmaculada_jumper_16;
+la inmaculada;jumper;S;0;la inmaculada_jumper_S;
+la inmaculada;jumper;M;0;la inmaculada_jumper_M;
+la inmaculada;jumper;L;0;la inmaculada_jumper_L;
+la inmaculada;jumper;XL;0;la inmaculada_jumper_XL;
+la inmaculada;camiseta fisica;2;0;la inmaculada_camiseta fisica_2;camiseta blanca-franela
+la inmaculada;camiseta fisica;4;6;la inmaculada_camiseta fisica_4;camiseta blanca-franela
+la inmaculada;camiseta fisica;6;8;la inmaculada_camiseta fisica_6;camiseta blanca-franela
+la inmaculada;camiseta fisica;8;5;la inmaculada_camiseta fisica_8;camiseta blanca-franela
+la inmaculada;camiseta fisica;10;5;la inmaculada_camiseta fisica_10;camiseta blanca-franela
+la inmaculada;camiseta fisica;12;5;la inmaculada_camiseta fisica_12;camiseta blanca-franela
+la inmaculada;camiseta fisica;14;8;la inmaculada_camiseta fisica_14;camiseta blanca-franela
+la inmaculada;camiseta fisica;16;16;la inmaculada_camiseta fisica_16;camiseta blanca-franela
+la inmaculada;camiseta fisica;S;18;la inmaculada_camiseta fisica_S;camiseta blanca-franela
+la inmaculada;camiseta fisica;M;10;la inmaculada_camiseta fisica_M;camiseta blanca-franela
+la inmaculada;camiseta fisica;L;11;la inmaculada_camiseta fisica_L;camiseta blanca-franela
+la inmaculada;camiseta fisica;XL;13;la inmaculada_camiseta fisica_XL;camiseta blanca-franela
+la inmaculada;bombacho;2;0;la inmaculada_bombacho_2;bombacho-azul oscuro
+la inmaculada;bombacho;4;0;la inmaculada_bombacho_4;bombacho-azul oscuro
+la inmaculada;bombacho;6;5;la inmaculada_bombacho_6;bombacho-azul oscuro
+la inmaculada;bombacho;8;31;la inmaculada_bombacho_8;bombacho-azul oscuro
+la inmaculada;bombacho;10;17;la inmaculada_bombacho_10;bombacho-azul oscuro
+la inmaculada;bombacho;12;25;la inmaculada_bombacho_12;bombacho-azul oscuro
+la inmaculada;bombacho;14;14;la inmaculada_bombacho_14;bombacho-azul oscuro
+la inmaculada;bombacho;16;21;la inmaculada_bombacho_16;bombacho-azul oscuro
+la inmaculada;bombacho;S;15;la inmaculada_bombacho_S;bombacho-azul oscuro
+la inmaculada;bombacho;M;20;la inmaculada_bombacho_M;bombacho-azul oscuro
+la inmaculada;bombacho;L;9;la inmaculada_bombacho_L;bombacho-azul oscuro
+la inmaculada;bombacho;XL;6;la inmaculada_bombacho_XL;bombacho-azul oscuro
+la inmaculada;medias;2;60;la inmaculada_medias_2;
+la inmaculada;medias;4;60;la inmaculada_medias_4;
+la inmaculada;medias;6;60;la inmaculada_medias_6;
+la inmaculada;medias;8;59;la inmaculada_medias_8;
+la inmaculada;medias;10;59;la inmaculada_medias_10;
+la inmaculada;medias;12;60;la inmaculada_medias_12;
+hogar;camiseta fisica;2;5;hogar_camiseta fisica_2;hogar
+hogar;camiseta fisica;4;4;hogar_camiseta fisica_4;hogar
+hogar;camiseta fisica;6;2;hogar_camiseta fisica_6;hogar
+hogar;bombacho fisica;2;6;hogar_bombacho fisica_2;bombacho hogar
+hogar;bombacho fisica;4;-1;hogar_bombacho fisica_4;bombacho hogar
+hogar;bombacho fisica;6;8;hogar_bombacho fisica_6;bombacho hogar
+Bordados;pequeño;NA;0;Bordados_pequeño_NA;
+Bordados;mediano;NA;-5;Bordados_mediano_NA;
+Bordados;grande;NA;-1;Bordados_grande_NA;
+Bordados;extra grande;NA;-4;Bordados_extra grande_NA;
+Unicor;kids;6;2;Unicor_kids_6;
+Unicor;kids;8;7;Unicor_kids_8;
+Unicor;kids;10;14;Unicor_kids_10;
+Unicor;kids;12;0;Unicor_kids_12;
+Unicor;kids;14;8;Unicor_kids_14;
+Unicor;kids;16;12;Unicor_kids_16;
+Unicor;kids;S;10;Unicor_kids_S;
+Unicor;kids;M;0;Unicor_kids_M;
+Unicor;kids;L;0;Unicor_kids_L;
+Unicor;kids;XL;0;Unicor_kids_XL;
+Unicor;Teens;6;0;Unicor_Teens_6;
+Unicor;Teens;8;0;Unicor_Teens_8;
+Unicor;Teens;10;2;Unicor_Teens_10;
+Unicor;Teens;12;7;Unicor_Teens_12;
+Unicor;Teens;14;9;Unicor_Teens_14;
+Unicor;Teens;16;0;Unicor_Teens_16;
+Unicor;Teens;S;-1;Unicor_Teens_S;
+Unicor;Teens;M;3;Unicor_Teens_M;
+Unicor;Teens;L;1;Unicor_Teens_L;
+Unicor;Teens;XL;1;Unicor_Teens_XL;
+Unicor;Grown;6;0;Unicor_Grown_6;
+Unicor;Grown;8;0;Unicor_Grown_8;
+Unicor;Grown;10;3;Unicor_Grown_10;
+Unicor;Grown;12;5;Unicor_Grown_12;
+Unicor;Grown;14;3;Unicor_Grown_14;
+Unicor;Grown;16;4;Unicor_Grown_16;
+Unicor;Grown;S;5;Unicor_Grown_S;
+Unicor;Grown;M;6;Unicor_Grown_M;
+Unicor;Grown;L;5;Unicor_Grown_L;
+Unicor;Grown;XL;0;Unicor_Grown_XL;
+Antonio Narino;Camiseta diario/fisica;2;0;Antonio Narino_Camiseta diario/fisica_2;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;4;13;Antonio Narino_Camiseta diario/fisica_4;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;6;21;Antonio Narino_Camiseta diario/fisica_6;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;8;7;Antonio Narino_Camiseta diario/fisica_8;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;10;4;Antonio Narino_Camiseta diario/fisica_10;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;12;10;Antonio Narino_Camiseta diario/fisica_12;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;14;8;Antonio Narino_Camiseta diario/fisica_14;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;16;6;Antonio Narino_Camiseta diario/fisica_16;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;S;10;Antonio Narino_Camiseta diario/fisica_S;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;M;8;Antonio Narino_Camiseta diario/fisica_M;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;L;4;Antonio Narino_Camiseta diario/fisica_L;polo blanca-yute
+Antonio Narino;Camiseta diario/fisica;XL;0;Antonio Narino_Camiseta diario/fisica_XL;polo blanca-yute
+Antonio Narino;bombacho;4;8;Antonio Narino_bombacho_4;bombacho-azul oscuro
+Antonio Narino;bombacho;6;10;Antonio Narino_bombacho_6;bombacho-azul oscuro
+Antonio Narino;bombacho;8;3;Antonio Narino_bombacho_8;bombacho-azul oscuro
+Antonio Narino;bombacho;10;6;Antonio Narino_bombacho_10;bombacho-azul oscuro
+Antonio Narino;bombacho;12;11;Antonio Narino_bombacho_12;bombacho-azul oscuro
+Antonio Narino;bombacho;14;4;Antonio Narino_bombacho_14;bombacho-azul oscuro
+Antonio Narino;bombacho;16;7;Antonio Narino_bombacho_16;bombacho-azul oscuro
+Antonio Narino;bombacho;S;3;Antonio Narino_bombacho_S;bombacho-azul oscuro
+Antonio Narino;bombacho;M;3;Antonio Narino_bombacho_M;bombacho-azul oscuro
+Antonio Narino;bombacho;L;10;Antonio Narino_bombacho_L;bombacho-azul oscuro
+Antonio Narino;bombacho;XL;10;Antonio Narino_bombacho_XL;bombacho-azul oscuro
+Pantalones Azules;eko;6;3;Pantalones Azules_eko_6;Pantalones Azules-eko
+Pantalones Azules;eko;8;8;Pantalones Azules_eko_8;Pantalones Azules-eko
+Pantalones Azules;eko;10;5;Pantalones Azules_eko_10;Pantalones Azules-eko
+Pantalones Azules;eko;12;19;Pantalones Azules_eko_12;Pantalones Azules-eko
+Pantalones Azules;eko;14;16;Pantalones Azules_eko_14;Pantalones Azules-eko
+Pantalones Azules;eko;16;8;Pantalones Azules_eko_16;Pantalones Azules-eko
+Pantalones Azules;eko;28;9;Pantalones Azules_eko_28;Pantalones Azules-eko
+Pantalones Azules;eko;30;13;Pantalones Azules_eko_30;Pantalones Azules-eko
+Pantalones Azules;eko;32;10;Pantalones Azules_eko_32;Pantalones Azules-eko
+Pantalones Azules;eko;34;9;Pantalones Azules_eko_34;Pantalones Azules-eko
+Pantalones Azules;eko;36;3;Pantalones Azules_eko_36;Pantalones Azules-eko
+Pantalones Azules;eko;38;3;Pantalones Azules_eko_38;Pantalones Azules-eko
+Pantalones Azules;intermedio;6;1;Pantalones Azules_intermedio_6;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;8;22;Pantalones Azules_intermedio_8;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;10;22;Pantalones Azules_intermedio_10;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;12;5;Pantalones Azules_intermedio_12;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;14;23;Pantalones Azules_intermedio_14;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;16;21;Pantalones Azules_intermedio_16;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;28;13;Pantalones Azules_intermedio_28;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;30;29;Pantalones Azules_intermedio_30;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;32;10;Pantalones Azules_intermedio_32;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;34;4;Pantalones Azules_intermedio_34;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;36;4;Pantalones Azules_intermedio_36;Pantalones Azules-intermedio
+Pantalones Azules;intermedio;38;0;Pantalones Azules_intermedio_38;Pantalones Azules-intermedio
+Pantalones Azules;lino fino;6;2;Pantalones Azules_lino fino_6;Pantalones Azules-lino
+Pantalones Azules;lino fino;8;13;Pantalones Azules_lino fino_8;Pantalones Azules-lino
+Pantalones Azules;lino fino;10;9;Pantalones Azules_lino fino_10;Pantalones Azules-lino
+Pantalones Azules;lino fino;12;11;Pantalones Azules_lino fino_12;Pantalones Azules-lino
+Pantalones Azules;lino fino;14;11;Pantalones Azules_lino fino_14;Pantalones Azules-lino
+Pantalones Azules;lino fino;16;4;Pantalones Azules_lino fino_16;Pantalones Azules-lino
+Pantalones Azules;lino fino;28;5;Pantalones Azules_lino fino_28;Pantalones Azules-lino
+Pantalones Azules;lino fino;30;7;Pantalones Azules_lino fino_30;Pantalones Azules-lino
+Pantalones Azules;lino fino;32;8;Pantalones Azules_lino fino_32;Pantalones Azules-lino
+Pantalones Azules;lino fino;34;7;Pantalones Azules_lino fino_34;Pantalones Azules-lino
+Pantalones Azules;lino fino;36;7;Pantalones Azules_lino fino_36;Pantalones Azules-lino
+Pantalones Azules;lino fino;38;2;Pantalones Azules_lino fino_38;Pantalones Azules-lino
+Bermudas Azules;lino fino;2;8;Bermudas Azules_lino fino_2;
+Bermudas Azules;lino fino;4;5;Bermudas Azules_lino fino_4;
+Bermudas Azules;lino fino;6;6;Bermudas Azules_lino fino_6;
+Bermudas Azules;lino fino;8;6;Bermudas Azules_lino fino_8;
+Bermudas Azules;lino fino;10;3;Bermudas Azules_lino fino_10;
+Bermudas Azules;lino fino;12;0;Bermudas Azules_lino fino_12;
+Bermudas Azules;eko;2;19;Bermudas Azules_eko_2;
+Bermudas Azules;eko;4;5;Bermudas Azules_eko_4;
+Bermudas Azules;eko;6;0;Bermudas Azules_eko_6;
+Bermudas Azules;eko;8;11;Bermudas Azules_eko_8;
+Bermudas Azules;eko;10;10;Bermudas Azules_eko_10;
+otros;Conjunto Antifluido Plus;NA;0;otros_Conjunto Antifluido Plus_NA;
+otros;Tapa Bocas;NA;0;otros_Tapa Bocas_NA;
+otros;Gorro;NA;0;otros_Gorro_NA;
+otros;Delantal;NA;0;otros_Delantal_NA;
+otros;Conjunto Antifluido Eko;NA;0;otros_Conjunto Antifluido Eko_NA;
+liceo pupo jimenez;Medias;12;-3;liceo pupo jimenez_Medias_12;
+liceo universitario;medias;12;22;liceo universitario_medias_12;
+Domicilios;A;NA;-6;Domicilios_A_NA;
+Domicilios;B;NA;-13;Domicilios_B_NA;
+Domicilios;C;NA;0;Domicilios_C_NA;
+Policia;blusa;2;0;Policia_blusa_2;Blusa blanca-popelina
+Policia;blusa;4;0;Policia_blusa_4;Blusa blanca-popelina
+Policia;blusa;6;0;Policia_blusa_6;Blusa blanca-popelina
+Policia;blusa;8;1;Policia_blusa_8;Blusa blanca-popelina
+Policia;blusa;10;7;Policia_blusa_10;Blusa blanca-popelina
+Policia;blusa;12;36;Policia_blusa_12;Blusa blanca-popelina
+Policia;blusa;14;22;Policia_blusa_14;Blusa blanca-popelina
+Policia;blusa;16;29;Policia_blusa_16;Blusa blanca-popelina
+Policia;blusa;S;11;Policia_blusa_S;Blusa blanca-popelina
+Policia;blusa;M;13;Policia_blusa_M;Blusa blanca-popelina
+Policia;blusa;L;0;Policia_blusa_L;Blusa blanca-popelina
+Policia;blusa;XL;1;Policia_blusa_XL;Blusa blanca-popelina
+Policia;camiseta fisica;4;0;Policia_camiseta fisica_4;camiseta blanca-franela
+Policia;camiseta fisica;6;0;Policia_camiseta fisica_6;camiseta blanca-franela
+Policia;camiseta fisica;8;2;Policia_camiseta fisica_8;camiseta blanca-franela
+Policia;camiseta fisica;10;0;Policia_camiseta fisica_10;camiseta blanca-franela
+Policia;camiseta fisica;12;3;Policia_camiseta fisica_12;camiseta blanca-franela
+Policia;camiseta fisica;14;3;Policia_camiseta fisica_14;camiseta blanca-franela
+Policia;camiseta fisica;16;3;Policia_camiseta fisica_16;camiseta blanca-franela
+Policia;camiseta fisica;S;1;Policia_camiseta fisica_S;camiseta blanca-franela
+Policia;camiseta fisica;M;4;Policia_camiseta fisica_M;camiseta blanca-franela
+Policia;camiseta fisica;L;0;Policia_camiseta fisica_L;camiseta blanca-franela
+Policia;camiseta fisica;XL;0;Policia_camiseta fisica_XL;camiseta blanca-franela
+Policia;bombacho;2;0;Policia_bombacho_2;bombacho-policia
+Policia;bombacho;4;0;Policia_bombacho_4;bombacho-policia
+Policia;bombacho;6;1;Policia_bombacho_6;bombacho-policia
+Policia;bombacho;8;4;Policia_bombacho_8;bombacho-policia
+Policia;bombacho;10;3;Policia_bombacho_10;bombacho-policia
+Policia;bombacho;12;4;Policia_bombacho_12;bombacho-policia
+Policia;bombacho;14;6;Policia_bombacho_14;bombacho-policia
+Policia;bombacho;16;9;Policia_bombacho_16;bombacho-policia
+Policia;bombacho;S;4;Policia_bombacho_S;bombacho-policia
+Policia;bombacho;M;4;Policia_bombacho_M;bombacho-policia
+Policia;bombacho;L;0;Policia_bombacho_L;bombacho-policia
+Policia;bombacho;XL;0;Policia_bombacho_XL;bombacho-policia
+Antonio Narino;blusa;2;0;Antonio Narino_blusa_2;Blusa blanca-popelina
+Antonio Narino;blusa;4;1;Antonio Narino_blusa_4;Blusa blanca-popelina
+Antonio Narino;blusa;6;13;Antonio Narino_blusa_6;Blusa blanca-popelina
+Antonio Narino;blusa;8;2;Antonio Narino_blusa_8;Blusa blanca-popelina
+Antonio Narino;blusa;10;2;Antonio Narino_blusa_10;Blusa blanca-popelina
+Antonio Narino;blusa;12;18;Antonio Narino_blusa_12;Blusa blanca-popelina
+Antonio Narino;blusa;14;7;Antonio Narino_blusa_14;Blusa blanca-popelina
+Antonio Narino;blusa;16;5;Antonio Narino_blusa_16;Blusa blanca-popelina
+Antonio Narino;blusa;S;5;Antonio Narino_blusa_S;Blusa blanca-popelina
+Antonio Narino;blusa;M;0;Antonio Narino_blusa_M;Blusa blanca-popelina
+Antonio Narino;blusa;L;0;Antonio Narino_blusa_L;Blusa blanca-popelina
+Antonio Narino;blusa;XL;0;Antonio Narino_blusa_XL;Blusa blanca-popelina
+Antonio Narino;jumper;2;0;Antonio Narino_jumper_2;
+Antonio Narino;jumper;4;0;Antonio Narino_jumper_4;
+Antonio Narino;jumper;6;0;Antonio Narino_jumper_6;
+Antonio Narino;jumper;8;0;Antonio Narino_jumper_8;
+Antonio Narino;jumper;10;0;Antonio Narino_jumper_10;
+Antonio Narino;jumper;12;0;Antonio Narino_jumper_12;
+Antonio Narino;jumper;14;0;Antonio Narino_jumper_14;
+Antonio Narino;jumper;16;0;Antonio Narino_jumper_16;
+Antonio Narino;jumper;S;0;Antonio Narino_jumper_S;
+Antonio Narino;jumper;M;0;Antonio Narino_jumper_M;
+Antonio Narino;jumper;L;0;Antonio Narino_jumper_L;
+Antonio Narino;jumper;XL;0;Antonio Narino_jumper_XL;
+Policia;camisa;2;0;Policia_camisa_2;
+Policia;camisa;4;0;Policia_camisa_4;
+Policia;camisa;6;0;Policia_camisa_6;
+Policia;camisa;8;0;Policia_camisa_8;
+Policia;camisa;10;3;Policia_camisa_10;
+Policia;camisa;12;5;Policia_camisa_12;
+Policia;camisa;14;3;Policia_camisa_14;
+Policia;camisa;16;0;Policia_camisa_16;
+Policia;camisa;S;5;Policia_camisa_S;
+Policia;camisa;M;4;Policia_camisa_M;
+Policia;camisa;L;4;Policia_camisa_L;
+Policia;camisa;XL;0;Policia_camisa_XL;
+Policia;jumper;2;0;Policia_jumper_2;
+Policia;jumper;4;0;Policia_jumper_4;
+Policia;jumper;6;0;Policia_jumper_6;
+Policia;jumper;8;0;Policia_jumper_8;
+Policia;jumper;10;0;Policia_jumper_10;
+Policia;jumper;12;0;Policia_jumper_12;
+Policia;jumper;14;0;Policia_jumper_14;
+Policia;jumper;16;0;Policia_jumper_16;
+Policia;jumper;S;0;Policia_jumper_S;
+Policia;jumper;M;0;Policia_jumper_M;
+Policia;jumper;L;0;Policia_jumper_L;
+Policia;jumper;XL;0;Policia_jumper_XL;
+antifluido;La Fayette;S;0;antifluido_La Fayette_S;
+antifluido;La Fayette;M;0;antifluido_La Fayette_M;
+antifluido;La Fayette;L;0;antifluido_La Fayette_L;
+antifluido;La Fayette;XL;-2;antifluido_La Fayette_XL;
+antifluido;La Fayette;XXL;0;antifluido_La Fayette_XL;
+antifluido;Nacional;S;0;antifluido_La Fayette_S;
+antifluido;Nacional;M;0;antifluido_La Fayette_M;
+antifluido;Nacional;L;0;antifluido_La Fayette_L;
+antifluido;Nacional;XL;0;antifluido_La Fayette_XL;
+antifluido;Nacional;XXL;0;antifluido_La Fayette_XL;
+dotacion;camisa oxford mujer azul;16;5;dotacion_camisa oxford mujer azul_16;
+dotacion;camisa oxford mujer azul;S;5;dotacion_camisa oxford mujer azul_S;
+dotacion;camisa oxford mujer azul;M;5;dotacion_camisa oxford mujer azul_M;
+dotacion;camisa oxford mujer azul;L;1;dotacion_camisa oxford mujer azul_L;
+dotacion;camisa oxford mujer azul;XL;-2;dotacion_camisa oxford mujer azul_XL;
+dotacion;camisa oxford hombre azul;S;5;dotacion_camisa oxford hombre azul_S;
+dotacion;camisa oxford hombre azul;M;5;dotacion_camisa oxford hombre azul_M;
+dotacion;camisa oxford hombre azul;L;5;dotacion_camisa oxford hombre azul_L;
+dotacion;camisa oxford hombre azul;XL;0;dotacion_camisa oxford hombre azul_XL;
+dotacion;jeans hombre strech;28;0;dotacion_jeans hombre strech_28;
+dotacion;jeans hombre strech;30;0;dotacion_jeans hombre strech_30;
+dotacion;jeans hombre strech;32;0;dotacion_jeans hombre strech_32;
+dotacion;jeans hombre strech;34;0;dotacion_jeans hombre strech_34;
+dotacion;jeans hombre strech;36;0;dotacion_jeans hombre strech_36;
+dotacion;jeans hombre strech;38;0;dotacion_jeans hombre strech_38;
+dotacion;jeans hombre strech;40;0;dotacion_jeans hombre strech_40;
+dotacion;jeans dama strech;6;0;dotacion_jeans dama strech_6;
+dotacion;jeans dama strech;8;0;dotacion_jeans dama strech_8;
+dotacion;jeans dama strech;10;0;dotacion_jeans dama strech_10;
+dotacion;jeans dama strech;12;0;dotacion_jeans dama strech_12;
+dotacion;jeans dama strech;14;0;dotacion_jeans dama strech_14;
+dotacion;jeans dama strech;16;0;dotacion_jeans dama strech_16;
+dotacion;jeans dama strech;18;0;dotacion_jeans dama strech_18;
+dotacion;jeans dama strech;20;-1;dotacion_jeans dama strech_20;
+dotacion;jeans dama strech;22;0;dotacion_jeans dama strech_22;
+dotacion;jeans dama strech;24;0;dotacion_jeans dama strech_24;
+dotacion;camisa jean manga larga hombre;s;0;dotacion_camisa jean manga larga hombre_s;
+dotacion;camisa jean manga larga hombre;m;0;dotacion_camisa jean manga larga hombre_m;
+dotacion;camisa jean manga larga hombre;l;0;dotacion_camisa jean manga larga hombre_l;
+dotacion;camisa jean manga larga hombre;xl;0;dotacion_camisa jean manga larga hombre_xl;
+dotacion;camisa jean manga larga mujer;16;0;dotacion_camisa jean manga larga mujer_16;
+dotacion;camisa jean manga larga mujer;s;0;dotacion_camisa jean manga larga mujer_s;
+dotacion;camisa jean manga larga mujer;m;0;dotacion_camisa jean manga larga mujer_m;
+dotacion;camisa jean manga larga mujer;l;0;dotacion_camisa jean manga larga mujer_l;
+dotacion;camisa jean manga larga mujer;xl;0;dotacion_camisa jean manga larga mujer_xl;
+dotacion;chaleco;s;-3;dotacion_chaleco_s;
+dotacion;chaleco;m;0;dotacion_chaleco_m;
+dotacion;chaleco;l;-2;dotacion_chaleco_l;
+dotacion;chaleco;xl;-1;dotacion_chaleco_xl;
+dotacion;delantal-dril;NA;0;dotacion_delantal-dril_NA;
+dotacion;delantal-antifluido;NA;;dotacion_delantal-antifluido_NA;
+dotacion;Camiseta polo esencial (yute-lacost);16;0;dotacion_Camiseta polo esencial (yute-lacost)_16;
+dotacion;Camiseta polo esencial (yute-lacost);S;0;dotacion_Camiseta polo esencial (yute-lacost)_S;
+dotacion;Camiseta polo esencial (yute-lacost);M;0;dotacion_Camiseta polo esencial (yute-lacost)_M;
+dotacion;Camiseta polo esencial (yute-lacost);L;0;dotacion_Camiseta polo esencial (yute-lacost)_L;
+dotacion;Camiseta polo esencial (yute-lacost);XL;0;dotacion_Camiseta polo esencial (yute-lacost)_XL;
+dotacion;Camiseta polo esencial (yute-lacost);XXL;0;dotacion_Camiseta polo esencial (yute-lacost)_XXL;
+dotacion;Camiseta polo ejecutiva (cole plus);16;0;dotacion_Camiseta polo ejecutiva (cole plus)_16;
+dotacion;Camiseta polo ejecutiva (cole plus);S;0;dotacion_Camiseta polo ejecutiva (cole plus)_S;
+dotacion;Camiseta polo ejecutiva (cole plus);M;0;dotacion_Camiseta polo ejecutiva (cole plus)_M;
+dotacion;Camiseta polo ejecutiva (cole plus);L;0;dotacion_Camiseta polo ejecutiva (cole plus)_L;
+dotacion;Camiseta polo ejecutiva (cole plus);XL;0;dotacion_Camiseta polo ejecutiva (cole plus)_XL;
+dotacion;Camiseta polo ejecutiva (cole plus);XXL;0;dotacion_Camiseta polo ejecutiva (cole plus)_XXL;
+dotacion;Camiseta polo signature (polux);16;0;dotacion_Camiseta polo signature (polux)_16;
+dotacion;Camiseta polo signature (polux);S;0;dotacion_Camiseta polo signature (polux)_S;
+dotacion;Camiseta polo signature (polux);M;0;dotacion_Camiseta polo signature (polux)_M;
+dotacion;Camiseta polo signature (polux);L;0;dotacion_Camiseta polo signature (polux)_L;
+dotacion;Camiseta polo signature (polux);XL;0;dotacion_Camiseta polo signature (polux)_XL;
+dotacion;Camiseta polo signature (polux);XXL;0;dotacion_Camiseta polo signature (polux)_XXL;
+dotacion;Blusa manga larga-veneta signature;16;0;dotacion_Blusa manga larga-veneta signature_16;
+dotacion;Blusa manga larga-veneta signature;S;0;dotacion_Blusa manga larga-veneta signature_S;
+dotacion;Blusa manga larga-veneta signature;M;0;dotacion_Blusa manga larga-veneta signature_M;
+dotacion;Blusa manga larga-veneta signature;L;0;dotacion_Blusa manga larga-veneta signature_L;
+dotacion;Blusa manga larga-veneta signature;XL;0;dotacion_Blusa manga larga-veneta signature_XL;
+dotacion;Blusa manga corta-veneta signature;16;0;dotacion_Blusa manga corta-veneta signature_16;
+dotacion;Blusa manga corta-veneta signature;S;0;dotacion_Blusa manga corta-veneta signature_S;
+dotacion;Blusa manga corta-veneta signature;M;0;dotacion_Blusa manga corta-veneta signature_M;
+dotacion;Blusa manga corta-veneta signature;L;0;dotacion_Blusa manga corta-veneta signature_L;
+dotacion;Blusa manga corta-veneta signature;XL;0;dotacion_Blusa manga corta-veneta signature_XL;
+dotacion;Camisa manga larga-veneta signature;16;0;dotacion_Camisa manga larga-veneta signature_16;
+dotacion;Camisa manga larga-veneta signature;S;0;dotacion_Camisa manga larga-veneta signature_S;
+dotacion;Camisa manga larga-veneta signature;M;0;dotacion_Camisa manga larga-veneta signature_M;
+dotacion;Camisa manga larga-veneta signature;L;0;dotacion_Camisa manga larga-veneta signature_L;
+dotacion;Camisa manga larga-veneta signature;XL;0;dotacion_Camisa manga larga-veneta signature_XL;
+dotacion;Camisa manga corta-veneta signature;16;0;dotacion_Camisa manga corta-veneta signature_16;
+dotacion;Camisa manga corta-veneta signature;S;0;dotacion_Camisa manga corta-veneta signature_S;
+dotacion;Camisa manga corta-veneta signature;M;0;dotacion_Camisa manga corta-veneta signature_M;
+dotacion;Camisa manga corta-veneta signature;L;0;dotacion_Camisa manga corta-veneta signature_L;
+dotacion;Camisa manga corta-veneta signature;XL;0;dotacion_Camisa manga corta-veneta signature_XL;
+dotacion;Blusa manga larga-algodon;16;0;dotacion_Blusa manga larga-algodon_16;
+dotacion;Blusa manga larga-algodon;S;0;dotacion_Blusa manga larga-algodon_S;
+dotacion;Blusa manga larga-algodon;M;0;dotacion_Blusa manga larga-algodon_M;
+dotacion;Blusa manga larga-algodon;L;0;dotacion_Blusa manga larga-algodon_L;
+dotacion;Blusa manga larga-algodon;XL;0;dotacion_Blusa manga larga-algodon_XL;
+dotacion;Blusa manga corta-algodon;16;0;dotacion_Blusa manga corta-algodon_16;
+dotacion;Blusa manga corta-algodon;S;0;dotacion_Blusa manga corta-algodon_S;
+dotacion;Blusa manga corta-algodon;M;0;dotacion_Blusa manga corta-algodon_M;
+dotacion;Blusa manga corta-algodon;L;0;dotacion_Blusa manga corta-algodon_L;
+dotacion;Blusa manga corta-algodon;XL;0;dotacion_Blusa manga corta-algodon_XL;
+dotacion;Camisa manga larga-algodon;16;0;dotacion_Camisa manga larga-algodon_16;
+dotacion;Camisa manga larga-algodon;S;0;dotacion_Camisa manga larga-algodon_S;
+dotacion;Camisa manga larga-algodon;M;0;dotacion_Camisa manga larga-algodon_M;
+dotacion;Camisa manga larga-algodon;L;0;dotacion_Camisa manga larga-algodon_L;
+dotacion;Camisa manga larga-algodon;XL;0;dotacion_Camisa manga larga-algodon_XL;
+dotacion;Camisa manga corta-algodon;16;0;dotacion_Camisa manga corta-algodon_16;
+dotacion;Camisa manga corta-algodon;S;0;dotacion_Camisa manga corta-algodon_S;
+dotacion;Camisa manga corta-algodon;M;0;dotacion_Camisa manga corta-algodon_M;
+dotacion;Camisa manga corta-algodon;L;0;dotacion_Camisa manga corta-algodon_L;
+dotacion;Camisa manga corta-algodon;XL;0;dotacion_Camisa manga corta-algodon_XL;
+dotacion;pantalon hombre nova signature;28;0;dotacion_pantalon hombre nova signature_28;
+dotacion;pantalon hombre nova signature;30;0;dotacion_pantalon hombre nova signature_30;
+dotacion;pantalon hombre nova signature;32;0;dotacion_pantalon hombre nova signature_32;
+dotacion;pantalon hombre nova signature;34;0;dotacion_pantalon hombre nova signature_34;
+dotacion;pantalon hombre nova signature;36;0;dotacion_pantalon hombre nova signature_36;
+dotacion;pantalon hombre nova signature;38;0;dotacion_pantalon hombre nova signature_38;
+dotacion;pantalon hombre lino;28;0;dotacion_pantalon hombre lino_28;
+dotacion;pantalon hombre lino;30;0;dotacion_pantalon hombre lino_30;
+dotacion;pantalon hombre lino;32;0;dotacion_pantalon hombre lino_32;
+dotacion;pantalon hombre lino;34;0;dotacion_pantalon hombre lino_34;
+dotacion;pantalon hombre lino;36;0;dotacion_pantalon hombre lino_36;
+dotacion;pantalon hombre lino;38;0;dotacion_pantalon hombre lino_38;
+dotacion;slack ejecutivo (intermedio);2;0;dotacion_slack ejecutivo (intermedio)_2;
+dotacion;slack ejecutivo (intermedio);4;0;dotacion_slack ejecutivo (intermedio)_4;
+dotacion;slack ejecutivo (intermedio);6;0;dotacion_slack ejecutivo (intermedio)_6;
+dotacion;slack ejecutivo (intermedio);8;0;dotacion_slack ejecutivo (intermedio)_8;
+dotacion;slack ejecutivo (intermedio);10;0;dotacion_slack ejecutivo (intermedio)_10;
+dotacion;slack ejecutivo (intermedio);12;0;dotacion_slack ejecutivo (intermedio)_12;
+dotacion;slack ejecutivo (intermedio);14;0;dotacion_slack ejecutivo (intermedio)_14;
+dotacion;slack strech signature;2;0;dotacion_slack strech signature_2;
+dotacion;slack strech signature;4;0;dotacion_slack strech signature_4;
+dotacion;slack strech signature;6;0;dotacion_slack strech signature_6;
+dotacion;slack strech signature;8;0;dotacion_slack strech signature_8;
+dotacion;slack strech signature;10;0;dotacion_slack strech signature_10;
+dotacion;slack strech signature;12;0;dotacion_slack strech signature_12;
+dotacion;slack strech signature;14;0;dotacion_slack strech signature_14;
+dotacion;pantalon hombre ejecutivo (intermedio);28;0;dotacion_pantalon hombre ejecutivo (intermedio)_28;
+dotacion;pantalon hombre ejecutivo (intermedio);30;0;dotacion_pantalon hombre ejecutivo (intermedio)_30;
+dotacion;pantalon hombre ejecutivo (intermedio);32;0;dotacion_pantalon hombre ejecutivo (intermedio)_32;
+dotacion;pantalon hombre ejecutivo (intermedio);34;0;dotacion_pantalon hombre ejecutivo (intermedio)_34;
+dotacion;pantalon hombre ejecutivo (intermedio);36;0;dotacion_pantalon hombre ejecutivo (intermedio)_36;
+dotacion;pantalon hombre ejecutivo (intermedio);38;0;dotacion_pantalon hombre ejecutivo (intermedio)_38;
+dotacion;pantalon hombre esencial (EKO);28;0;dotacion_pantalon hombre esencial (EKO)_28;
+dotacion;pantalon hombre esencial (EKO);30;0;dotacion_pantalon hombre esencial (EKO)_30;
+dotacion;pantalon hombre esencial (EKO);32;0;dotacion_pantalon hombre esencial (EKO)_32;
+dotacion;pantalon hombre esencial (EKO);34;0;dotacion_pantalon hombre esencial (EKO)_34;
+dotacion;pantalon hombre esencial (EKO);36;0;dotacion_pantalon hombre esencial (EKO)_36;
+dotacion;pantalon hombre esencial (EKO);38;0;dotacion_pantalon hombre esencial (EKO)_38;
+dotacion;pantalon hombre ejecutivo (NSC);28;0;dotacion_pantalon hombre ejecutivo (NSC)_28;
+dotacion;pantalon hombre ejecutivo (NSC);30;0;dotacion_pantalon hombre ejecutivo (NSC)_30;
+dotacion;pantalon hombre ejecutivo (NSC);32;0;dotacion_pantalon hombre ejecutivo (NSC)_32;
+dotacion;pantalon hombre ejecutivo (NSC);34;0;dotacion_pantalon hombre ejecutivo (NSC)_34;
+dotacion;pantalon hombre ejecutivo (NSC);36;0;dotacion_pantalon hombre ejecutivo (NSC)_36;
+dotacion;pantalon hombre ejecutivo (NSC);38;0;dotacion_pantalon hombre ejecutivo (NSC)_38;
+dotacion;slack ejecutivo (NSC);2;0;dotacion_slack ejecutivo (NSC)_2;
+dotacion;slack ejecutivo (NSC);4;0;dotacion_slack ejecutivo (NSC)_4;
+dotacion;slack ejecutivo (NSC);6;0;dotacion_slack ejecutivo (NSC)_6;
+dotacion;slack ejecutivo (NSC);8;0;dotacion_slack ejecutivo (NSC)_8;
+dotacion;slack ejecutivo (NSC);10;0;dotacion_slack ejecutivo (NSC)_10;
+dotacion;slack ejecutivo (NSC);12;0;dotacion_slack ejecutivo (NSC)_12;
+dotacion;slack ejecutivo (NSC);14;0;dotacion_slack ejecutivo (NSC)_14;
+dotacion;slack esencial (EKO);2;0;dotacion_slack esencial (EKO)_2;
+dotacion;slack esencial (EKO);4;0;dotacion_slack esencial (EKO)_4;
+dotacion;slack esencial (EKO);6;0;dotacion_slack esencial (EKO)_6;
+dotacion;slack esencial (EKO);8;0;dotacion_slack esencial (EKO)_8;
+dotacion;slack esencial (EKO);10;0;dotacion_slack esencial (EKO)_10;
+dotacion;slack esencial (EKO);12;0;dotacion_slack esencial (EKO)_12;
+dotacion;slack esencial (EKO);14;0;dotacion_slack esencial (EKO)_14;
+dotacion;Botas punta acero;NA;0;dotacion_Botas punta acero_NA;
+dotacion;Gafas de seguridad;NA;0;dotacion_Gafas de seguridad_NA;
+otros;Batas;16;0;otros_Batas_16;
+otros;Batas;s;0;otros_Batas_s;
+otros;Batas;m;0;otros_Batas_m;
+otros;Batas;L;0;otros_Batas_L;
+otros;Batas;xl;0;otros_Batas_xl;
+dotacion;camisa oxford mujer blanca;16;;;
+dotacion;camisa oxford mujer blanca;S;;;
+dotacion;camisa oxford mujer blanca;M;;;
+dotacion;camisa oxford mujer blanca;L;;;
+dotacion;camisa oxford mujer blanca;XL;;;
+dotacion;camisa oxford hombre blanca;S;;;
+dotacion;camisa oxford hombre blanca;M;;;
+dotacion;camisa oxford hombre blanca;L;;;
+dotacion;camisa oxford hombre blanca;XL;;;

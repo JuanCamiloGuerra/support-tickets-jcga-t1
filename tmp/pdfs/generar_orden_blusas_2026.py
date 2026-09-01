@@ -345,10 +345,24 @@ def build_pdf(order_df, detail_df):
     )
     left_cell_style = ParagraphStyle("LeftCellDYUNIC", parent=styles["BodyText"], fontSize=6.3, leading=7.5, alignment=TA_LEFT)
     number_cell_style = ParagraphStyle("NumberCellDYUNIC", parent=styles["BodyText"], fontSize=6.3, leading=7.5, alignment=TA_RIGHT)
+    total_number_style = ParagraphStyle(
+        "TotalNumberCellDYUNIC",
+        parent=styles["BodyText"],
+        fontName="Helvetica-Bold",
+        fontSize=6.3,
+        leading=7.5,
+        textColor=colors.white,
+        alignment=TA_RIGHT,
+    )
 
     story = []
     columns = list(order_df.columns)
     page_count = math.ceil(len(order_df) / 30)
+    size_columns = columns[1:]
+    totals_by_size = {
+        column: int(order_df[column].sum())
+        for column in size_columns
+    }
 
     for page_index, chunk in enumerate(chunks(order_df), start=1):
         title = "Orden de produccion blusas - cierre año 2026"
@@ -380,6 +394,22 @@ def build_pdf(order_df, detail_df):
                 ]
             )
 
+        total_row_index = None
+        if page_index == page_count:
+            total_row_index = len(data)
+            data.append(
+                [
+                    make_paragraph("TOTAL POR TALLA", header_style),
+                    *[
+                        make_paragraph(
+                            "" if totals_by_size[column] == 0 else f"{totals_by_size[column]:,}",
+                            total_number_style,
+                        )
+                        for column in size_columns
+                    ],
+                ]
+            )
+
         first_width = 7.4 * cm
         size_width = max(0.75 * cm, (doc.width - first_width) / max(1, len(columns) - 1))
         table = Table(data, repeatRows=1, colWidths=[first_width] + [size_width] * (len(columns) - 1))
@@ -393,6 +423,17 @@ def build_pdf(order_df, detail_df):
             ("TOPPADDING", (0, 0), (-1, -1), 1.5),
             ("BOTTOMPADDING", (0, 0), (-1, -1), 1.5),
         ]
+
+        if total_row_index is not None:
+            commands.extend(
+                [
+                    ("BACKGROUND", (0, total_row_index), (-1, total_row_index), colors.HexColor("#243b53")),
+                    ("TEXTCOLOR", (0, total_row_index), (-1, total_row_index), colors.white),
+                    ("FONTNAME", (0, total_row_index), (-1, total_row_index), "Helvetica-Bold"),
+                    ("LINEABOVE", (0, total_row_index), (-1, total_row_index), 0.8, colors.HexColor("#111827")),
+                ]
+            )
+
         for row_index, (_, row) in enumerate(chunk.iterrows(), start=1):
             for column_index, column in enumerate(columns[1:], start=1):
                 value = int(row[column])
